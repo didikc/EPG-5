@@ -13,6 +13,16 @@ OUTPUT_GZ = "epg.xml.gz"
 
 TAGS_TO_TRANSLATE = ['title', 'desc', 'sub-title']
 
+# ✅ Target channels for capitalization fix
+TARGET_CHANNELS = {
+    "HBOAsia.sg@SD",
+    "HBOSignatureAsia.sg@SD",
+    "HBOFamilyAsia.sg@SD",
+    "HBOHitsAsia.sg@SD",
+    "CinemaxAsia.sg@SD",
+    "AXNAsia.sg@Singapore"
+}
+
 # ----------------------------------------
 
 print("⬇️ Downloading EPG...")
@@ -32,19 +42,35 @@ translator = GoogleTranslator(source='auto', target='en')
 
 cache = {}
 
+# ---------------- FUNCTIONS ----------------
+
 def safe_detect(text):
     try:
         return detect(text)
     except:
         return "unknown"
 
-def selective_translate(text):
+# ✅ Fix FULL CAPS → Title Case
+def fix_full_caps(text):
+    if not text:
+        return text
+
+    if text.strip().isupper():
+        text = text.lower().title()
+
+    return text
+
+def selective_translate(text, channel=None):
     if not text or not text.strip():
         return text
 
     text = text.strip()
 
-    # Use cache
+    # ✅ Apply ONLY to selected channels (HBO, AXN, Cinemax)
+    if channel in TARGET_CHANNELS:
+        text = fix_full_caps(text)
+
+    # ✅ Cache
     if text in cache:
         return cache[text]
 
@@ -55,7 +81,7 @@ def selective_translate(text):
         cache[text] = text
         return text
 
-    # ✅ Keep English (skip unnecessary calls)
+    # ✅ Keep English
     if lang == "en":
         cache[text] = text
         return text
@@ -66,13 +92,15 @@ def selective_translate(text):
         cache[text] = translated
 
         print(f"🌐 {lang} → EN | {text[:50]} -> {translated[:50]}")
-        time.sleep(0.1)  # small delay to avoid rate limit
+        time.sleep(0.1)
 
         return translated
 
     except Exception as e:
         print(f"⚠️ Failed: {text[:40]} ({e})")
         return text
+
+# ---------------- PROCESS ----------------
 
 print("🌍 Translating... (this may take time for large EPG)\n")
 
@@ -82,11 +110,16 @@ for elem in root.iter():
     tag = elem.tag.lower() if hasattr(elem.tag, 'lower') else ""
 
     if tag in TAGS_TO_TRANSLATE and elem.text:
-        elem.text = selective_translate(elem.text)
+        parent = elem.getparent()
+        channel = parent.get("channel") if parent is not None else None
+
+        elem.text = selective_translate(elem.text, channel)
         count += 1
 
         if count % 500 == 0:
             print(f"✅ Processed {count} items...")
+
+# ---------------- SAVE ----------------
 
 print("\n💾 Saving XML...")
 tree = etree.ElementTree(root)
