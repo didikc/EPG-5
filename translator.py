@@ -162,4 +162,3 @@ with gzip.open(OUTPUT_GZ, "wb") as f:
 print("\n✅ DONE!")
 print(f"XML file  : {OUTPUT_XML}")
 print(f"GZ  file  : {OUTPUT_GZ}")
-``
