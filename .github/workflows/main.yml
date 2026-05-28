@@ -1,0 +1,35 @@
+name: EPG Translate
+
+on:
+  schedule:
+    - cron: "7 */2 * * *"   # runs daily at 03:00 UTC
+  workflow_dispatch:      # allow manual run
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Install dependencies
+        run: |
+          pip install requests lxml deep-translator langdetect
+
+      - name: ▶️ Run script
+        run: |
+          python translator.py
+
+      - name: 📤 Upload output files
+        uses: actions/upload-artifact@v4
+        with:
+          name: epg-output
+          path: |
+            epg.xml
+            epg.xml.gz
