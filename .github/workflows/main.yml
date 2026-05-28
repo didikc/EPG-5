@@ -2,30 +2,53 @@ name: EPG Translate
 
 on:
   schedule:
-    - cron: "7 */2 * * *"   # runs daily at 03:00 UTC
-  workflow_dispatch:      # allow manual run
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   translate:
     runs-on: ubuntu-latest
 
     steps:
+      # 📥 Get repository
       - name: 📥 Checkout repo
         uses: actions/checkout@v4
 
+      # 🐍 Install Python
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
+      # 📦 Install dependencies
       - name: 📦 Install dependencies
         run: |
           pip install requests lxml deep-translator langdetect
 
+      # ▶️ Run your translator script
       - name: ▶️ Run script
         run: |
           python translator.py
 
+      # 💾 Commit only if files changed
+      - name: 💾 Commit and push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add epg.xml epg.xml.gz
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            git push origin HEAD:main
+          fi
+
+      # 📤 Upload artifacts (optional backup)
       - name: 📤 Upload output files
         uses: actions/upload-artifact@v4
         with:
