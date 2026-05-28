@@ -5,6 +5,7 @@ from lxml import etree
 from deep_translator import GoogleTranslator
 from langdetect import detect
 import time
+import html
 
 # ---------------- CONFIG ----------------
 EPG_URL = "https://github.com/didikc/EPG/raw/master/epg/guide.xml.gz"
@@ -13,7 +14,7 @@ OUTPUT_GZ = "epg.xml.gz"
 
 TAGS_TO_TRANSLATE = ['title', 'desc', 'sub-title']
 
-# ✅ Target channels for capitalization fix
+# ✅ Channels for capitalization fix
 TARGET_CHANNELS = {
     "HBOAsia.sg@SD",
     "HBOSignatureAsia.sg@SD",
@@ -50,6 +51,14 @@ def safe_detect(text):
     except:
         return "unknown"
 
+# ✅ Fast English check (BIG SPEED BOOST)
+def is_english_fast(text):
+    try:
+        text.encode('ascii')
+        return True
+    except:
+        return False
+
 # ✅ Fix FULL CAPS → Title Case
 def fix_full_caps(text):
     if not text:
@@ -64,35 +73,55 @@ def selective_translate(text, channel=None):
     if not text or not text.strip():
         return text
 
-    text = text.strip()
+    # ✅ Fix HTML entities FIRST
+    text = html.unescape(text).strip()
 
-    # ✅ Apply ONLY to selected channels (HBO, AXN, Cinemax)
+    # ✅ Skip very short text (faster)
+    if len(text) < 4:
+        return text
+
+    # ✅ Apply capitalization fix only on selected channels
     if channel in TARGET_CHANNELS:
         text = fix_full_caps(text)
 
-    # ✅ Cache
-    if text in cache:
-        return cache[text]
+    # ✅ Normalize cache key (BOOST cache hit rate)
+    key = text.lower()
+
+    if key in cache:
+        return cache[key]
+
+    # ✅ FAST skip English texts
+    if is_english_fast(text):
+        cache[key] = text
+        return text
 
     lang = safe_detect(text)
 
     # ✅ Keep Bahasa Indonesia
     if lang == "id":
-        cache[text] = text
+        cache[key] = text
         return text
 
     # ✅ Keep English
     if lang == "en":
-        cache[text] = text
+        cache[key] = text
         return text
 
     # ✅ Translate others → English
     try:
         translated = translator.translate(text)
-        cache[text] = translated
 
-        print(f"🌐 {lang} → EN | {text[:50]} -> {translated[:50]}")
-        time.sleep(0.1)
+        # ✅ Clean HTML encoding again
+        translated = html.unescape(translated)
+
+        # ✅ Better formatting
+        translated = translated.replace('"-"', '" - "')
+
+        cache[key] = translated
+
+        print(f"🌐 {lang} → EN | {text[:40]} -> {translated[:40]}")
+
+        time.sleep(0.03)  # ✅ reduced delay (faster)
 
         return translated
 
@@ -102,7 +131,7 @@ def selective_translate(text, channel=None):
 
 # ---------------- PROCESS ----------------
 
-print("🌍 Translating... (this may take time for large EPG)\n")
+print("🌍 Translating... (optimized mode)\n")
 
 count = 0
 
@@ -133,3 +162,4 @@ with gzip.open(OUTPUT_GZ, "wb") as f:
 print("\n✅ DONE!")
 print(f"XML file  : {OUTPUT_XML}")
 print(f"GZ  file  : {OUTPUT_GZ}")
+``
