@@ -13,11 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 📥 Get repository
+      # 📥 Checkout repo
       - name: 📥 Checkout repo
         uses: actions/checkout@v4
 
-      # 🐍 Install Python
+      # 🐍 Setup Python
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
@@ -28,12 +28,12 @@ jobs:
         run: |
           pip install requests lxml deep-translator langdetect
 
-      # ▶️ Run your translator script
-      - name: ▶️ Run script
+      # ▶️ Run script
+      - name: ▶️ Run translator
         run: |
           python translator.py
 
-      # 💾 Commit only if files changed
+      # 💾 Commit & push (fixed)
       - name: 💾 Commit and push
         run: |
           git config --global user.name "github-actions"
@@ -42,13 +42,18 @@ jobs:
           git add epg.xml epg.xml.gz
 
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "✅ No changes to commit"
           else
             git commit -m "Update $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+
+            # ✅ Fix push rejection (sync with remote)
+            git pull --rebase origin main || true
+
+            # ✅ Push safely
             git push origin HEAD:main
           fi
 
-      # 📤 Upload artifacts (optional backup)
+      # 📤 Artifact upload (optional)
       - name: 📤 Upload output files
         uses: actions/upload-artifact@v4
         with:
