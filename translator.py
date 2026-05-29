@@ -51,15 +51,6 @@ def safe_detect(text):
     except:
         return "unknown"
 
-# ✅ Fast English check (BIG SPEED BOOST)
-def is_english_fast(text):
-    try:
-        text.encode('ascii')
-        return True
-    except:
-        return False
-
-# ✅ Fix FULL CAPS → Title Case
 def fix_full_caps(text):
     if not text:
         return text
@@ -73,55 +64,41 @@ def selective_translate(text, channel=None):
     if not text or not text.strip():
         return text
 
-    # ✅ Fix HTML entities FIRST
+    # ✅ Decode HTML entities first
     text = html.unescape(text).strip()
 
-    # ✅ Skip very short text (faster)
     if len(text) < 4:
         return text
 
-    # ✅ Apply capitalization fix only on selected channels
+    # ✅ Apply capitalization fix on selected channels
     if channel in TARGET_CHANNELS:
         text = fix_full_caps(text)
 
-    # ✅ Normalize cache key (BOOST cache hit rate)
     key = text.lower()
 
     if key in cache:
         return cache[key]
 
-    # ✅ FAST skip English texts
-    if is_english_fast(text):
-        cache[key] = text
-        return text
-
+    # ✅ Detect language FIRST (FIXED ISSUE)
     lang = safe_detect(text)
 
-    # ✅ Keep Bahasa Indonesia
-    if lang == "id":
+    # ✅ Keep English & Indonesian only
+    if lang in ("en", "id"):
         cache[key] = text
         return text
 
-    # ✅ Keep English
-    if lang == "en":
-        cache[key] = text
-        return text
-
-    # ✅ Translate others → English
+    # ✅ Translate everything else
     try:
         translated = translator.translate(text)
 
-        # ✅ Clean HTML encoding again
         translated = html.unescape(translated)
-
-        # ✅ Better formatting
         translated = translated.replace('"-"', '" - "')
 
         cache[key] = translated
 
         print(f"🌐 {lang} → EN | {text[:40]} -> {translated[:40]}")
 
-        time.sleep(0.03)  # ✅ reduced delay (faster)
+        time.sleep(0.03)  # small delay to avoid rate limits
 
         return translated
 
@@ -152,8 +129,12 @@ for elem in root.iter():
 
 print("\n💾 Saving XML...")
 tree = etree.ElementTree(root)
-tree.write(OUTPUT_XML, encoding="utf-8",
-           pretty_print=True, xml_declaration=True)
+tree.write(
+    OUTPUT_XML,
+    encoding="utf-8",
+    pretty_print=True,
+    xml_declaration=True
+)
 
 print("📦 Compressing to GZ...")
 with gzip.open(OUTPUT_GZ, "wb") as f:
