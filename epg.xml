@@ -7023,30 +7023,6 @@
 <desc lang="en">Lighthearted discussion of the day's news.</desc>
 <image>https://img.freeviewplay.tv/p3a70077b378fc245476300e0d19f4e3c?w=800</image>
 </programme>
-<programme start="20260628100000 +0000" stop="20260628110000 +0000" channel="beINSports1.qa@France">
-<title lang="fr">Good Morning America</title>
-</programme>
-<programme start="20260628110000 +0000" stop="20260628130000 +0000" channel="beINSports1.qa@France">
-<title lang="fr">Football: World Cup - Norway / France</title>
-</programme>
-<programme start="20260628130000 +0000" stop="20260628133000 +0000" channel="beINSports1.qa@France">
-<title lang="fr">World Cup Replay</title>
-<desc lang="fr">Algeria - Austria</desc>
-</programme>
-<programme start="20260628133000 +0000" stop="20260628140000 +0000" channel="beINSports1.qa@France">
-<title lang="fr">World Cup Replay</title>
-<desc lang="fr">Jordan - Argentina</desc>
-</programme>
-<programme start="20260628140000 +0000" stop="20260628143000 +0000" channel="beINSports1.qa@France">
-<title lang="fr">Last Train to North America</title>
-<desc lang="fr">Seattle - Vancouver</desc>
-</programme>
-<programme start="20260628143000 +0000" stop="20260628144500 +0000" channel="beINSports1.qa@France">
-<title lang="fr">World Cup badge</title>
-</programme>
-<programme start="20260628144500 +0000" stop="20260628150000 +0000" channel="beINSports1.qa@France">
-<title lang="fr">World Cup badge</title>
-</programme>
 <programme start="20260628150000 +0000" stop="20260628153000 +0000" channel="beINSports1.qa@France">
 <title lang="fr">World Cup Replay</title>
 <desc lang="fr">Senegal - Iraq</desc>
@@ -7118,9 +7094,6 @@
 <programme start="20260629100000 +0000" stop="20260629110000 +0000" channel="beINSports1.qa@France">
 <title lang="fr">Good Morning America</title>
 </programme>
-<programme start="20260629100000 +0000" stop="20260629110000 +0000" channel="beINSports1.qa@France">
-<title lang="fr">Good Morning America</title>
-</programme>
 <programme start="20260629110000 +0000" stop="20260629113000 +0000" channel="beINSports1.qa@France">
 <title lang="fr">World Cup Replay</title>
 <desc lang="fr">Curaçao - Ivory Coast</desc>
@@ -7131,6 +7104,9 @@
 <programme start="20260629133000 +0000" stop="20260629140000 +0000" channel="beINSports1.qa@France">
 <title lang="fr">World Cup Replay</title>
 <desc lang="fr">Morocco - Haiti</desc>
+</programme>
+<programme start="20260629140000 +0000" stop="20260629160000 +0000" channel="beINSports1.qa@France">
+<title lang="fr">Football: World Cup - South Africa / Canada</title>
 </programme>
 <programme start="20260629140000 +0000" stop="20260629160000 +0000" channel="beINSports1.qa@France">
 <title lang="fr">Football: World Cup - South Africa / Canada</title>
@@ -7209,9 +7185,6 @@
 <programme start="20260630100000 +0000" stop="20260630110000 +0000" channel="beINSports1.qa@France">
 <title lang="fr">Good Morning America</title>
 </programme>
-<programme start="20260630100000 +0000" stop="20260630110000 +0000" channel="beINSports1.qa@France">
-<title lang="fr">Good Morning America</title>
-</programme>
 <programme start="20260630110000 +0000" stop="20260630113000 +0000" channel="beINSports1.qa@France">
 <title lang="fr">Football</title>
 </programme>
@@ -7220,6 +7193,9 @@
 </programme>
 <programme start="20260630133000 +0000" stop="20260630140000 +0000" channel="beINSports1.qa@France">
 <title lang="fr">World Cup Replay</title>
+</programme>
+<programme start="20260630140000 +0000" stop="20260630160000 +0000" channel="beINSports1.qa@France">
+<title lang="fr">Football: World Cup</title>
 </programme>
 <programme start="20260630140000 +0000" stop="20260630160000 +0000" channel="beINSports1.qa@France">
 <title lang="fr">Football: World Cup</title>
@@ -7296,11 +7272,23 @@
 <programme start="20260701100000 +0000" stop="20260701110000 +0000" channel="beINSports1.qa@France">
 <title lang="fr">Good Morning America</title>
 </programme>
-<programme start="20260628100000 +0000" stop="20260628120000 +0000" channel="beINSports2.qa@France">
-<title lang="fr">Football: World Cup - Uruguay / Spain</title>
+<programme start="20260701110000 +0000" stop="20260701113000 +0000" channel="beINSports1.qa@France">
+<title lang="fr">Football</title>
 </programme>
-<programme start="20260628120000 +0000" stop="20260628140000 +0000" channel="beINSports2.qa@France">
-<title lang="fr">Football: World Cup - Egypt / Iran</title>
+<programme start="20260701113000 +0000" stop="20260701133000 +0000" channel="beINSports1.qa@France">
+<title lang="fr">Football: World Cup</title>
+</programme>
+<programme start="20260701133000 +0000" stop="20260701140000 +0000" channel="beINSports1.qa@France">
+<title lang="fr">World Cup Replay</title>
+</programme>
+<programme start="20260701140000 +0000" stop="20260701143000 +0000" channel="beINSports1.qa@France">
+<title lang="fr">World Cup Replay</title>
+</programme>
+<programme start="20260701143000 +0000" stop="20260701150000 +0000" channel="beINSports1.qa@France">
+<title lang="fr">World Cup Replay</title>
+</programme>
+<programme start="20260701150000 +0000" stop="20260701154500 +0000" channel="beINSports1.qa@France">
+<title lang="fr">Club America, pre-match</title>
 </programme>
 <programme start="20260628140000 +0000" stop="20260628160000 +0000" channel="beINSports2.qa@France">
 <title lang="fr">Football: World Cup - Japan / Sweden</title>
@@ -7483,24 +7471,6 @@
 <programme start="20260701100000 +0000" stop="20260701180000 +0000" channel="beINSports2.qa@France">
 <title lang="fr">Tennis : Wimbledon</title>
 </programme>
-<programme start="20260628094500 +0000" stop="20260628114500 +0000" channel="beINSports3.qa@France">
-<title lang="fr">Rugby à XIII : NRL - North Queensland Cowboys / Penrith Panthers</title>
-</programme>
-<programme start="20260628114500 +0000" stop="20260628120000 +0000" channel="beINSports3.qa@France">
-<title lang="fr">It’s happening on beIN SPORTS</title>
-</programme>
-<programme start="20260628120000 +0000" stop="20260628121500 +0000" channel="beINSports3.qa@France">
-<title lang="fr">It’s happening on beIN SPORTS</title>
-</programme>
-<programme start="20260628121500 +0000" stop="20260628141500 +0000" channel="beINSports3.qa@France">
-<title lang="fr">Basketball: U17 World Cup - France / Italy</title>
-</programme>
-<programme start="20260628141500 +0000" stop="20260628144500 +0000" channel="beINSports3.qa@France">
-<title lang="fr">beIN Zap</title>
-</programme>
-<programme start="20260628144500 +0000" stop="20260628150000 +0000" channel="beINSports3.qa@France">
-<title lang="fr">It’s happening on beIN SPORTS</title>
-</programme>
 <programme start="20260628150000 +0000" stop="20260628160000 +0000" channel="beINSports3.qa@France">
 <title lang="fr">The Wimbledon movie</title>
 </programme>
@@ -7526,7 +7496,7 @@
 <title lang="fr">Rugby à XIII : State of Origin - New South Wales Blues / Queensland Maroons</title>
 </programme>
 <programme start="20260628230000 +0000" stop="20260628234500 +0000" channel="beINSports3.qa@France">
-<title lang="fr">Beach handball : Tournoi de Lacanau</title>
+<title lang="fr">Beach handball: Lacanau Tournament</title>
 </programme>
 <programme start="20260628234500 +0000" stop="20260629040000 +0000" channel="beINSports3.qa@France">
 <title lang="fr">It’s happening on beIN SPORTS</title>
@@ -7552,7 +7522,7 @@
 <programme start="20260629100000 +0000" stop="20260629140000 +0000" channel="beINSports3.qa@France">
 <title lang="fr">Tennis : Wimbledon</title>
 </programme>
-<programme start="20260629100000 +0000" stop="20260629140000 +0000" channel="beINSports3.qa@France">
+<programme start="20260629140000 +0000" stop="20260629180000 +0000" channel="beINSports3.qa@France">
 <title lang="fr">Tennis : Wimbledon</title>
 </programme>
 <programme start="20260629140000 +0000" stop="20260629180000 +0000" channel="beINSports3.qa@France">
@@ -7588,7 +7558,7 @@
 <programme start="20260630100000 +0000" stop="20260630140000 +0000" channel="beINSports3.qa@France">
 <title lang="fr">Tennis : Wimbledon</title>
 </programme>
-<programme start="20260630100000 +0000" stop="20260630140000 +0000" channel="beINSports3.qa@France">
+<programme start="20260630140000 +0000" stop="20260630180000 +0000" channel="beINSports3.qa@France">
 <title lang="fr">Tennis : Wimbledon</title>
 </programme>
 <programme start="20260630140000 +0000" stop="20260630180000 +0000" channel="beINSports3.qa@France">
@@ -7618,11 +7588,8 @@
 <programme start="20260701100000 +0000" stop="20260701140000 +0000" channel="beINSports3.qa@France">
 <title lang="fr">Tennis : Wimbledon</title>
 </programme>
-<programme start="20260628070000 +0000" stop="20260628110000 +0000" channel="beINSportsMax4.qa@France">
-<title lang="fr">beIN SPORTS, the greatest show</title>
-</programme>
-<programme start="20260628110000 +0000" stop="20260628150000 +0000" channel="beINSportsMax4.qa@France">
-<title lang="fr">beIN SPORTS, the greatest show</title>
+<programme start="20260701140000 +0000" stop="20260701180000 +0000" channel="beINSports3.qa@France">
+<title lang="fr">Tennis : Wimbledon</title>
 </programme>
 <programme start="20260628150000 +0000" stop="20260628200000 +0000" channel="beINSportsMax4.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
@@ -7642,10 +7609,10 @@
 <programme start="20260629070000 +0000" stop="20260629110000 +0000" channel="beINSportsMax4.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260629070000 +0000" stop="20260629110000 +0000" channel="beINSportsMax4.qa@France">
+<programme start="20260629110000 +0000" stop="20260629150000 +0000" channel="beINSportsMax4.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260629110000 +0000" stop="20260629150000 +0000" channel="beINSportsMax4.qa@France">
+<programme start="20260629150000 +0000" stop="20260629155500 +0000" channel="beINSportsMax4.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260629150000 +0000" stop="20260629155500 +0000" channel="beINSportsMax4.qa@France">
@@ -7672,10 +7639,10 @@
 <programme start="20260630085500 +0000" stop="20260630113000 +0000" channel="beINSportsMax4.qa@France">
 <title lang="fr">Basketball: U17 World Cup - France / Japan</title>
 </programme>
-<programme start="20260630085500 +0000" stop="20260630113000 +0000" channel="beINSportsMax4.qa@France">
-<title lang="fr">Basketball: U17 World Cup - France / Japan</title>
-</programme>
 <programme start="20260630113000 +0000" stop="20260630150000 +0000" channel="beINSportsMax4.qa@France">
+<title lang="fr">beIN SPORTS, the greatest show</title>
+</programme>
+<programme start="20260630150000 +0000" stop="20260630155500 +0000" channel="beINSportsMax4.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260630150000 +0000" stop="20260630155500 +0000" channel="beINSportsMax4.qa@France">
@@ -7699,7 +7666,10 @@
 <programme start="20260701070000 +0000" stop="20260701110000 +0000" channel="beINSportsMax4.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260628070000 +0000" stop="20260628110000 +0000" channel="beINSportsMax5.qa@France">
+<programme start="20260701110000 +0000" stop="20260701150000 +0000" channel="beINSportsMax4.qa@France">
+<title lang="fr">beIN SPORTS, the greatest show</title>
+</programme>
+<programme start="20260701150000 +0000" stop="20260701155500 +0000" channel="beINSportsMax4.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260628110000 +0000" stop="20260628153000 +0000" channel="beINSportsMax5.qa@France">
@@ -7720,10 +7690,10 @@
 <programme start="20260629070000 +0000" stop="20260629110000 +0000" channel="beINSportsMax5.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260629070000 +0000" stop="20260629110000 +0000" channel="beINSportsMax5.qa@France">
+<programme start="20260629110000 +0000" stop="20260629150000 +0000" channel="beINSportsMax5.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260629110000 +0000" stop="20260629150000 +0000" channel="beINSportsMax5.qa@France">
+<programme start="20260629150000 +0000" stop="20260629190000 +0000" channel="beINSportsMax5.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260629150000 +0000" stop="20260629190000 +0000" channel="beINSportsMax5.qa@France">
@@ -7741,10 +7711,10 @@
 <programme start="20260630070000 +0000" stop="20260630110000 +0000" channel="beINSportsMax5.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260630070000 +0000" stop="20260630110000 +0000" channel="beINSportsMax5.qa@France">
+<programme start="20260630110000 +0000" stop="20260630150000 +0000" channel="beINSportsMax5.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260630110000 +0000" stop="20260630150000 +0000" channel="beINSportsMax5.qa@France">
+<programme start="20260630150000 +0000" stop="20260630190000 +0000" channel="beINSportsMax5.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260630150000 +0000" stop="20260630190000 +0000" channel="beINSportsMax5.qa@France">
@@ -7762,7 +7732,10 @@
 <programme start="20260701070000 +0000" stop="20260701110000 +0000" channel="beINSportsMax5.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260628070000 +0000" stop="20260628110000 +0000" channel="beINSportsMax6.qa@France">
+<programme start="20260701110000 +0000" stop="20260701150000 +0000" channel="beINSportsMax5.qa@France">
+<title lang="fr">beIN SPORTS, the greatest show</title>
+</programme>
+<programme start="20260701150000 +0000" stop="20260701190000 +0000" channel="beINSportsMax5.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260628110000 +0000" stop="20260628153000 +0000" channel="beINSportsMax6.qa@France">
@@ -7783,10 +7756,10 @@
 <programme start="20260629070000 +0000" stop="20260629110000 +0000" channel="beINSportsMax6.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260629070000 +0000" stop="20260629110000 +0000" channel="beINSportsMax6.qa@France">
+<programme start="20260629110000 +0000" stop="20260629150000 +0000" channel="beINSportsMax6.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260629110000 +0000" stop="20260629150000 +0000" channel="beINSportsMax6.qa@France">
+<programme start="20260629150000 +0000" stop="20260629190000 +0000" channel="beINSportsMax6.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260629150000 +0000" stop="20260629190000 +0000" channel="beINSportsMax6.qa@France">
@@ -7804,10 +7777,10 @@
 <programme start="20260630070000 +0000" stop="20260630110000 +0000" channel="beINSportsMax6.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260630070000 +0000" stop="20260630110000 +0000" channel="beINSportsMax6.qa@France">
+<programme start="20260630110000 +0000" stop="20260630150000 +0000" channel="beINSportsMax6.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260630110000 +0000" stop="20260630150000 +0000" channel="beINSportsMax6.qa@France">
+<programme start="20260630150000 +0000" stop="20260630190000 +0000" channel="beINSportsMax6.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260630150000 +0000" stop="20260630190000 +0000" channel="beINSportsMax6.qa@France">
@@ -7825,10 +7798,10 @@
 <programme start="20260701070000 +0000" stop="20260701110000 +0000" channel="beINSportsMax6.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260628070000 +0000" stop="20260628110000 +0000" channel="beINSportsMax7.qa@France">
+<programme start="20260701110000 +0000" stop="20260701150000 +0000" channel="beINSportsMax6.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260628110000 +0000" stop="20260628150000 +0000" channel="beINSportsMax7.qa@France">
+<programme start="20260701150000 +0000" stop="20260701190000 +0000" channel="beINSportsMax6.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260628150000 +0000" stop="20260628190000 +0000" channel="beINSportsMax7.qa@France">
@@ -7846,10 +7819,10 @@
 <programme start="20260629070000 +0000" stop="20260629110000 +0000" channel="beINSportsMax7.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260629070000 +0000" stop="20260629110000 +0000" channel="beINSportsMax7.qa@France">
+<programme start="20260629110000 +0000" stop="20260629150000 +0000" channel="beINSportsMax7.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260629110000 +0000" stop="20260629150000 +0000" channel="beINSportsMax7.qa@France">
+<programme start="20260629150000 +0000" stop="20260629190000 +0000" channel="beINSportsMax7.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260629150000 +0000" stop="20260629190000 +0000" channel="beINSportsMax7.qa@France">
@@ -7867,10 +7840,10 @@
 <programme start="20260630070000 +0000" stop="20260630110000 +0000" channel="beINSportsMax7.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260630070000 +0000" stop="20260630110000 +0000" channel="beINSportsMax7.qa@France">
+<programme start="20260630110000 +0000" stop="20260630150000 +0000" channel="beINSportsMax7.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260630110000 +0000" stop="20260630150000 +0000" channel="beINSportsMax7.qa@France">
+<programme start="20260630150000 +0000" stop="20260630190000 +0000" channel="beINSportsMax7.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260630150000 +0000" stop="20260630190000 +0000" channel="beINSportsMax7.qa@France">
@@ -7888,10 +7861,10 @@
 <programme start="20260701070000 +0000" stop="20260701110000 +0000" channel="beINSportsMax7.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260628070000 +0000" stop="20260628110000 +0000" channel="beINSportsMax8.qa@France">
+<programme start="20260701110000 +0000" stop="20260701150000 +0000" channel="beINSportsMax7.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260628110000 +0000" stop="20260628150000 +0000" channel="beINSportsMax8.qa@France">
+<programme start="20260701150000 +0000" stop="20260701190000 +0000" channel="beINSportsMax7.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260628150000 +0000" stop="20260628190000 +0000" channel="beINSportsMax8.qa@France">
@@ -7909,10 +7882,10 @@
 <programme start="20260629070000 +0000" stop="20260629110000 +0000" channel="beINSportsMax8.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260629070000 +0000" stop="20260629110000 +0000" channel="beINSportsMax8.qa@France">
+<programme start="20260629110000 +0000" stop="20260629150000 +0000" channel="beINSportsMax8.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260629110000 +0000" stop="20260629150000 +0000" channel="beINSportsMax8.qa@France">
+<programme start="20260629150000 +0000" stop="20260629190000 +0000" channel="beINSportsMax8.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260629150000 +0000" stop="20260629190000 +0000" channel="beINSportsMax8.qa@France">
@@ -7930,10 +7903,10 @@
 <programme start="20260630070000 +0000" stop="20260630110000 +0000" channel="beINSportsMax8.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260630070000 +0000" stop="20260630110000 +0000" channel="beINSportsMax8.qa@France">
+<programme start="20260630110000 +0000" stop="20260630150000 +0000" channel="beINSportsMax8.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260630110000 +0000" stop="20260630150000 +0000" channel="beINSportsMax8.qa@France">
+<programme start="20260630150000 +0000" stop="20260630190000 +0000" channel="beINSportsMax8.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260630150000 +0000" stop="20260630190000 +0000" channel="beINSportsMax8.qa@France">
@@ -7951,10 +7924,10 @@
 <programme start="20260701070000 +0000" stop="20260701110000 +0000" channel="beINSportsMax8.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260628070000 +0000" stop="20260628110000 +0000" channel="beINSportsMax9.qa@France">
+<programme start="20260701110000 +0000" stop="20260701150000 +0000" channel="beINSportsMax8.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260628110000 +0000" stop="20260628150000 +0000" channel="beINSportsMax9.qa@France">
+<programme start="20260701150000 +0000" stop="20260701190000 +0000" channel="beINSportsMax8.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260628150000 +0000" stop="20260628173000 +0000" channel="beINSportsMax9.qa@France">
@@ -7972,10 +7945,10 @@
 <programme start="20260629070000 +0000" stop="20260629110000 +0000" channel="beINSportsMax9.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260629070000 +0000" stop="20260629110000 +0000" channel="beINSportsMax9.qa@France">
+<programme start="20260629110000 +0000" stop="20260629150000 +0000" channel="beINSportsMax9.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260629110000 +0000" stop="20260629150000 +0000" channel="beINSportsMax9.qa@France">
+<programme start="20260629150000 +0000" stop="20260629190000 +0000" channel="beINSportsMax9.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260629150000 +0000" stop="20260629190000 +0000" channel="beINSportsMax9.qa@France">
@@ -7993,10 +7966,10 @@
 <programme start="20260630070000 +0000" stop="20260630110000 +0000" channel="beINSportsMax9.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260630070000 +0000" stop="20260630110000 +0000" channel="beINSportsMax9.qa@France">
+<programme start="20260630110000 +0000" stop="20260630150000 +0000" channel="beINSportsMax9.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260630110000 +0000" stop="20260630150000 +0000" channel="beINSportsMax9.qa@France">
+<programme start="20260630150000 +0000" stop="20260630190000 +0000" channel="beINSportsMax9.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260630150000 +0000" stop="20260630190000 +0000" channel="beINSportsMax9.qa@France">
@@ -8014,10 +7987,10 @@
 <programme start="20260701070000 +0000" stop="20260701110000 +0000" channel="beINSportsMax9.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260628070000 +0000" stop="20260628110000 +0000" channel="beINSportsMax10.qa@France">
+<programme start="20260701110000 +0000" stop="20260701150000 +0000" channel="beINSportsMax9.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
-<programme start="20260628110000 +0000" stop="20260628150000 +0000" channel="beINSportsMax10.qa@France">
+<programme start="20260701150000 +0000" stop="20260701190000 +0000" channel="beINSportsMax9.qa@France">
 <title lang="fr">beIN SPORTS, the greatest show</title>
 </programme>
 <programme start="20260628150000 +0000" stop="20260628183000 +0000" channel="beINSportsMax10.qa@France">
@@ -8119,7 +8092,7 @@
 <desc lang="id">Patah hati menyebabkan Dudi dipecat dari pabrik dodol. Sementara itu datanglah Reyna, perempuan cantik jelita yang justru bikin keadaan Dudi semakin semrawut. Apa yang terjadi di antara mereka?</desc>
 </programme>
 <programme start="20260628080000 +0000" stop="20260628093000 +0000" channel="BioskopIndonesia.id@SD">
-<title lang="id">Sunan Ampel and Nyi Ageng Manila</title>
+<title lang="id">Sunan Ampel Dan Nyi Ageng Manila</title>
 <desc lang="id">Sunan Ampel datang ke desa Kembang Kuning. Untuk meredakan perseteruan Ki Bangkuning dan Ki Wiryo atas sebidang tanah, dia menanam singkong di tanah tersebut, dan setelah dipanen singkong tersebut ternyata menghasilkan emas.</desc>
 </programme>
 <programme start="20260628093000 +0000" stop="20260628110000 +0000" channel="BioskopIndonesia.id@SD">
@@ -8225,7 +8198,7 @@
 <title lang="id">Pecah Telur</title>
 </programme>
 <programme start="20260628073000 +0000" stop="20260628080000 +0000" channel="BTV.id@SD">
-<title lang="id">Meja Redaksi</title>
+<title lang="id">Editorial Desk</title>
 </programme>
 <programme start="20260628080000 +0000" stop="20260628083000 +0000" channel="BTV.id@SD">
 <title lang="id">Crime News</title>
@@ -8363,7 +8336,7 @@
 <title lang="id">Berita Satu Malam</title>
 </programme>
 <programme start="20260629130000 +0000" stop="20260629140000 +0000" channel="BTV.id@SD">
-<title lang="id">Window on the World</title>
+<title lang="id">Jendela Dunia</title>
 </programme>
 <programme start="20260629140000 +0000" stop="20260629150000 +0000" channel="BTV.id@SD">
 <title lang="id">Berita Satu Utama</title>
@@ -8477,7 +8450,7 @@
 <title lang="id">Berita Satu Malam</title>
 </programme>
 <programme start="20260630130000 +0000" stop="20260630140000 +0000" channel="BTV.id@SD">
-<title lang="id">Window on the World</title>
+<title lang="id">Jendela Dunia</title>
 </programme>
 <programme start="20260630140000 +0000" stop="20260630150000 +0000" channel="BTV.id@SD">
 <title lang="id">Berita Satu Utama</title>
@@ -12293,52 +12266,6 @@
 <programme start="20260630163000 +0000" stop="20260630230000 +0000" channel="DensFoodChannel.id@SD">
 <title lang="id">Icip Skuy</title>
 </programme>
-<programme start="20260628100000 +0000" stop="20260628102500 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Pupstruction</title>
-<desc lang="en">The team builds a special road for the fastest horse in the West; the Pups rescue Harry, who is stuck in a ditch.</desc>
-</programme>
-<programme start="20260628102500 +0000" stop="20260628105000 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Bluey</title>
-<desc lang="en">Mum encourages the family to play musical statues; Indy feels disappointed in her model horse, but her pals encourage her to not give up; Bluey and Bingo teach Unicorse good manners so that he can imp</desc>
-</programme>
-<programme start="20260628105000 +0000" stop="20260628111500 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Bluey</title>
-<desc lang="en">The children form teams with the grownups to compete in a game of squash; Nana tries to keep a game of charades with the children from getting out of control; Dad helps Bingo learn how to play games b</desc>
-</programme>
-<programme start="20260628111500 +0000" stop="20260628114000 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Hey AJ!</title>
-<desc lang="en">AJ, Jessie and Jazz play with blocks to see who can build the tallest tower; Marty's long-lost childhood toy goes missing, so Detective AJ takes the case.</desc>
-</programme>
-<programme start="20260628114000 +0000" stop="20260628120000 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Bluey</title>
-<desc lang="en">Bluey and her friends play a helicopter game at school with a tree stump; Chloe's father struggles to understand how to play an octopus game; Bluey's mother looks back on the time she and Judo were gr</desc>
-</programme>
-<programme start="20260628120000 +0000" stop="20260628133000 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Finding Dory</title>
-<desc lang="en">With Nemo and Marlin's help, Dory sets out on an ambitious journey to find the parents she was somehow separated from as a child, and along the way she is taken to the Marine Life Institute, from whic</desc>
-<category lang="en">Animation</category>
-<category lang="en">Action &amp; Adventure</category>
-<category lang="en">Comedy</category>
-<category lang="en">Family</category>
-<category lang="en">Fantasy</category>
-<category lang="en">Suspense</category>
-</programme>
-<programme start="20260628133000 +0000" stop="20260628140000 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Bluey</title>
-<desc lang="en">As Mum goes for a walk along the beach, Bluey runs to catch up with her. Along the way, she has a series of encounters that both excite and test her in her first solo adventure.</desc>
-</programme>
-<programme start="20260628140000 +0000" stop="20260628143000 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Magicampers</title>
-<desc lang="en">Darly tries to solve a mystery; the Magicampers make a really big mess.</desc>
-</programme>
-<programme start="20260628140000 +0000" stop="20260628143000 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Magicampers</title>
-<desc lang="en">Darly tries to solve a mystery; the Magicampers make a really big mess.</desc>
-</programme>
-<programme start="20260628143000 +0000" stop="20260628150000 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Bluey</title>
-<desc lang="en">A six-year-old Australian cattle dog, her younger sibling and her mother play a special game with a balloon; the siblings fight over a xylophone that can freeze their father in time; one of the cattle</desc>
-</programme>
 <programme start="20260628150000 +0000" stop="20260628153000 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Bluey</title>
 <desc lang="en">Bluey's cousin takes her favorite toy and refuses to let it go; Bluey's father teaches her and Bingo about how to compromise while they run a pretend hotel; Bluey finds it difficult to learn to ride a</desc>
@@ -12382,21 +12309,6 @@
 <episode-num system="xmltv_ns">2.16.0/1</episode-num>
 <episode-num system="onscreen">S03E17</episode-num>
 </programme>
-<programme start="20260628181000 +0000" stop="20260628183500 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Superkitties</title>
-<sub-title lang="en">Super Glamsters; Astro-Hamsters</sub-title>
-<desc lang="en">The Glamsters make their own supersuits; when the Glamsters steal an outer space exhibit for a sick Evie, the Kitties must get it back.</desc>
-<category lang="en">Animation</category>
-<category lang="en">Other</category>
-<category lang="en">Action &amp; Adventure</category>
-<category lang="en">Comedy</category>
-<category lang="en">Family</category>
-<category lang="en">Fantasy</category>
-<category lang="en">Music</category>
-<category lang="en">Science Fiction</category>
-<episode-num system="xmltv_ns">2.16.0/1</episode-num>
-<episode-num system="onscreen">S03E17</episode-num>
-</programme>
 <programme start="20260628183500 +0000" stop="20260628190000 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Superkitties</title>
 <sub-title lang="en">Purdy Birdy Picnic; Swimmy Zone</sub-title>
@@ -12411,6 +12323,10 @@
 <category lang="en">Science Fiction</category>
 <episode-num system="xmltv_ns">2.15.0/1</episode-num>
 <episode-num system="onscreen">S03E16</episode-num>
+</programme>
+<programme start="20260628190000 +0000" stop="20260628192500 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Magicampers</title>
+<desc lang="en">Merritt stumbles into a mystical pond which makes her very young at heart; Darly leads the Magicampers in an attempt to plan a surprise party for Loomis.</desc>
 </programme>
 <programme start="20260628190000 +0000" stop="20260628192500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Magicampers</title>
@@ -12462,13 +12378,13 @@
 <title lang="en">Bluey</title>
 <desc lang="en">Bluey manages to throw the Dad Train's entire schedule into disarray; Bluey and Bingo play a game in which they pretend to be a queen and butler; Bluey and Bingo make their own special world from thei</desc>
 </programme>
-<programme start="20260628220000 +0000" stop="20260628222500 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Bluey</title>
-<desc lang="en">Bluey manages to throw the Dad Train's entire schedule into disarray; Bluey and Bingo play a game in which they pretend to be a queen and butler; Bluey and Bingo make their own special world from thei</desc>
-</programme>
 <programme start="20260628222500 +0000" stop="20260628225000 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Sofia the First: Royal Magic</title>
 <desc lang="en">At a sleepover at Sofia's castle with Camila and Layla, stuffies magically come to life; a grumpy dragon is on the loose, and Zane tries to tame the beast.</desc>
+</programme>
+<programme start="20260628225000 +0000" stop="20260628231500 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Mickey Mouse Clubhouse+</title>
+<desc lang="en">Minnie organizes a rubber duck parade on the lake. When Goofy's duck goes missing, the Sensational Six dive into the water with Mouse Tools to find it.</desc>
 </programme>
 <programme start="20260628225000 +0000" stop="20260628231500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Mickey Mouse Clubhouse+</title>
@@ -12524,13 +12440,22 @@
 <title lang="en">Bluey</title>
 <desc lang="en">Bluey and her friends play a helicopter game at school with a tree stump; Chloe's father struggles to understand how to play an octopus game; Bluey's mother looks back on the time she and Judo were gr</desc>
 </programme>
-<programme start="20260629020000 +0000" stop="20260629022500 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Bluey</title>
-<desc lang="en">Bluey and her friends play a helicopter game at school with a tree stump; Chloe's father struggles to understand how to play an octopus game; Bluey's mother looks back on the time she and Judo were gr</desc>
-</programme>
 <programme start="20260629022500 +0000" stop="20260629025000 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Bluey</title>
 <desc lang="en">A six-year-old Australian cattle dog, her younger sibling and her mother play a special game with a balloon; the siblings fight over a xylophone that can freeze their father in time; one of the cattle</desc>
+</programme>
+<programme start="20260629025000 +0000" stop="20260629031500 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Spidey and His Amazing Friends</title>
+<sub-title lang="en">Moon Girl and the Dino Dilemma; Hulk's Squirrley Switch</sub-title>
+<desc lang="en">Moon Girl and Devil Dinosaur work with the Spidey team to take down Green Goblin's dino-mech; hero Squirrel Girl steps in to help Hulk after Doc Ock swaps Hulk's body with that of a squirrel's.</desc>
+<category lang="en">Animation</category>
+<category lang="en">Action &amp; Adventure</category>
+<category lang="en">Comedy</category>
+<category lang="en">Family</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Science Fiction</category>
+<episode-num system="xmltv_ns">2.24.0/1</episode-num>
+<episode-num system="onscreen">S03E25</episode-num>
 </programme>
 <programme start="20260629025000 +0000" stop="20260629031500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Spidey and His Amazing Friends</title>
@@ -12604,10 +12529,6 @@
 <title lang="en">BeddyByes</title>
 <desc lang="en">MeMo and BaBa learn that their game of spotting Yummies is in fact a hunt for Yummy Dog; MeMo and BaBa learn about two very special colors.</desc>
 </programme>
-<programme start="20260629061000 +0000" stop="20260629063500 +0000" channel="DisneyJunior.us@East">
-<title lang="en">BeddyByes</title>
-<desc lang="en">MeMo and BaBa learn that their game of spotting Yummies is in fact a hunt for Yummy Dog; MeMo and BaBa learn about two very special colors.</desc>
-</programme>
 <programme start="20260629063500 +0000" stop="20260629070000 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Mickey Mouse Clubhouse</title>
 <sub-title lang="en">Goofy's Hat</sub-title>
@@ -12620,6 +12541,19 @@
 <category lang="en">Music</category>
 <episode-num system="xmltv_ns">1.7.0/1</episode-num>
 <episode-num system="onscreen">S02E08</episode-num>
+</programme>
+<programme start="20260629070000 +0000" stop="20260629072500 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Mickey Mouse Clubhouse</title>
+<sub-title lang="en">Minnie's Picnic</sub-title>
+<desc lang="en">The clubhouse's new picnic grounds are nearly completed, and Minnie plans to put out a giant feast to celebrate the grand opening; things get complicated when she invites Mickey and his friends to hel</desc>
+<category lang="en">Animation</category>
+<category lang="en">Action &amp; Adventure</category>
+<category lang="en">Comedy</category>
+<category lang="en">Family</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Music</category>
+<episode-num system="xmltv_ns">1.4.0/1</episode-num>
+<episode-num system="onscreen">S02E05</episode-num>
 </programme>
 <programme start="20260629070000 +0000" stop="20260629072500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Mickey Mouse Clubhouse</title>
@@ -12691,13 +12625,13 @@
 <title lang="en">Bluey</title>
 <desc lang="en">Bluey and Bingo are forced to prove how special a certain toy is to them so their father doesn't throw it away; the Terriers prevent Bluey, Snickers and Winton from reaching Calypso; Dad gets caught p</desc>
 </programme>
-<programme start="20260629100000 +0000" stop="20260629103000 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Bluey</title>
-<desc lang="en">Bluey and Bingo are forced to prove how special a certain toy is to them so their father doesn't throw it away; the Terriers prevent Bluey, Snickers and Winton from reaching Calypso; Dad gets caught p</desc>
-</programme>
 <programme start="20260629103000 +0000" stop="20260629110000 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Bluey</title>
 <desc lang="en">Bluey and Bingo play a game in which they try to inform Dad what toy he should get for Muffin without using words; Bluey convinces Dad to write a letter to make up with Mum after a disagreement; Blue</desc>
+</programme>
+<programme start="20260629110000 +0000" stop="20260629113000 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Mickey Mouse Clubhouse+</title>
+<desc lang="en">When Goofy's socks go missing while taking a nap, Mickey soon learns that some of his things have gone missing too so they go out looking for them and find out that Pluto's been taking things for the</desc>
 </programme>
 <programme start="20260629110000 +0000" stop="20260629113000 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Mickey Mouse Clubhouse+</title>
@@ -12745,22 +12679,13 @@
 <episode-num system="xmltv_ns">2.10.0/1</episode-num>
 <episode-num system="onscreen">S03E11</episode-num>
 </programme>
-<programme start="20260629140000 +0000" stop="20260629143000 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Spidey and His Amazing Friends</title>
-<sub-title lang="en">Picture Perfect Pandemonium; Catch That Panther Pod</sub-title>
-<desc lang="en">Zola takes artwork from the museum, which jeopardizes the art show; Black Panther and Spidey try to secure runaway tech before Doc Ock finds it.</desc>
-<category lang="en">Animation</category>
-<category lang="en">Action &amp; Adventure</category>
-<category lang="en">Comedy</category>
-<category lang="en">Family</category>
-<category lang="en">Fantasy</category>
-<category lang="en">Science Fiction</category>
-<episode-num system="xmltv_ns">2.10.0/1</episode-num>
-<episode-num system="onscreen">S03E11</episode-num>
-</programme>
 <programme start="20260629143000 +0000" stop="20260629150000 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Iron Man and his Awesome Friends</title>
 <desc lang="en">Absorbing Man uses sticky honey to steal everything at the Farmer's Market. Riri, Tony and Amadeus help build a baseball field, but Swarm's Pop Flies threaten it.</desc>
+</programme>
+<programme start="20260629150000 +0000" stop="20260629152500 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Bluey</title>
+<desc lang="en">Bluey and Bingo become too focused on licking each other's ice cream that they don't notice them melting; Bingo plays a game with Dad about being on a bad mood; Uncle Rad and Frisky mistakenly show up</desc>
 </programme>
 <programme start="20260629150000 +0000" stop="20260629152500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Bluey</title>
@@ -12820,9 +12745,9 @@
 <title lang="en">Bluey</title>
 <desc lang="en">Unicorse, the most annoying puppet in the world, interrupts Bluey's and Mum's bedtime story; Dad pretends he was born yesterday; Mackenzie is having a curry swap at her house.</desc>
 </programme>
-<programme start="20260629181500 +0000" stop="20260629184000 +0000" channel="DisneyJunior.us@East">
+<programme start="20260629184000 +0000" stop="20260629190500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Bluey</title>
-<desc lang="en">Unicorse, the most annoying puppet in the world, interrupts Bluey's and Mum's bedtime story; Dad pretends he was born yesterday; Mackenzie is having a curry swap at her house.</desc>
+<desc lang="en">Mum and Dad have to finish up their housework; Dad plays Sheepdog with Bluey and Bingo; while going home, Jack pretends to be a sailor.</desc>
 </programme>
 <programme start="20260629184000 +0000" stop="20260629190500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Bluey</title>
@@ -12869,9 +12794,9 @@
 <title lang="en">Magicampers</title>
 <desc lang="en">Strange new critters start appearing all over Magicamp; Harper's harp causes magical problems.</desc>
 </programme>
-<programme start="20260629221500 +0000" stop="20260629224000 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Magicampers</title>
-<desc lang="en">Strange new critters start appearing all over Magicamp; Harper's harp causes magical problems.</desc>
+<programme start="20260629224000 +0000" stop="20260629230500 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Mickey Mouse Clubhouse+</title>
+<desc lang="en">Mickey and pals get a call from Martian Mickey and Minnie. Their Space Clubhouse needs replacing, so Mickey and friends use Mouseketools to build their own clubhouse.</desc>
 </programme>
 <programme start="20260629224000 +0000" stop="20260629230500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Mickey Mouse Clubhouse+</title>
@@ -12929,10 +12854,6 @@
 <title lang="en">Bluey</title>
 <desc lang="en">Muffin pretends to be Grouchy Granny at a garage sale; while playing astronauts with Jack and Rusty, Mackenzie keeps going missing and no one knows why, not even Mackenzie; Bluey and Bingo give their</desc>
 </programme>
-<programme start="20260630020500 +0000" stop="20260630022500 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Bluey</title>
-<desc lang="en">Muffin pretends to be Grouchy Granny at a garage sale; while playing astronauts with Jack and Rusty, Mackenzie keeps going missing and no one knows why, not even Mackenzie; Bluey and Bingo give their</desc>
-</programme>
 <programme start="20260630022500 +0000" stop="20260630025000 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Spidey and His Amazing Friends</title>
 <sub-title lang="en">The Maltese Kitten; A Day With Black Panther</sub-title>
@@ -12945,6 +12866,19 @@
 <category lang="en">Science Fiction</category>
 <episode-num system="xmltv_ns">1.16.0/1</episode-num>
 <episode-num system="onscreen">S02E17</episode-num>
+</programme>
+<programme start="20260630025000 +0000" stop="20260630031500 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Spidey and His Amazing Friends</title>
+<sub-title lang="en">Aunt May's Mess; Foam Sweet Foam</sub-title>
+<desc lang="en">Aunt May incidentally comes across Doc Ock's floating gizmo at the antique store, so Spidey and the team try to pick up the item before the villian retrieves it; Spidey creates a new web formula, but</desc>
+<category lang="en">Animation</category>
+<category lang="en">Action &amp; Adventure</category>
+<category lang="en">Comedy</category>
+<category lang="en">Family</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Science Fiction</category>
+<episode-num system="xmltv_ns">0.20.0/1</episode-num>
+<episode-num system="onscreen">S01E21</episode-num>
 </programme>
 <programme start="20260630025000 +0000" stop="20260630031500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Spidey and His Amazing Friends</title>
@@ -13029,10 +12963,6 @@
 <title lang="en">BeddyByes</title>
 <desc lang="en">MeMo comforts BaBa when they lose their precious forever flower; BaBa wants to jump like MeMo, so together they find a fun way to help BaBa bounce.</desc>
 </programme>
-<programme start="20260630061000 +0000" stop="20260630063500 +0000" channel="DisneyJunior.us@East">
-<title lang="en">BeddyByes</title>
-<desc lang="en">MeMo comforts BaBa when they lose their precious forever flower; BaBa wants to jump like MeMo, so together they find a fun way to help BaBa bounce.</desc>
-</programme>
 <programme start="20260630063500 +0000" stop="20260630070000 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Mickey Mouse Clubhouse</title>
 <sub-title lang="en">Mickey's Silly Problem</sub-title>
@@ -13045,6 +12975,19 @@
 <category lang="en">Music</category>
 <episode-num system="xmltv_ns">1.17.0/1</episode-num>
 <episode-num system="onscreen">S02E18</episode-num>
+</programme>
+<programme start="20260630070000 +0000" stop="20260630072500 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Mickey Mouse Clubhouse</title>
+<sub-title lang="en">Donald Hatches an Egg</sub-title>
+<desc lang="en">When Donald excitingly contemplates having a new baby to take care of, he decides to take on a new hobby of hatching eggs, but some things get in the way and he realizes it's not as easy of a task as</desc>
+<category lang="en">Animation</category>
+<category lang="en">Action &amp; Adventure</category>
+<category lang="en">Comedy</category>
+<category lang="en">Family</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Music</category>
+<episode-num system="xmltv_ns">2.33.0/1</episode-num>
+<episode-num system="onscreen">S03E34</episode-num>
 </programme>
 <programme start="20260630070000 +0000" stop="20260630072500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Mickey Mouse Clubhouse</title>
@@ -13116,13 +13059,13 @@
 <title lang="en">Bluey</title>
 <desc lang="en">Bluey and Bingo deliver mud pizzas to the grownups, but their pedal car is broken; a giant invisible friend shows Mum and Dad who is really in charge; Bluey and Bingo play Whale Watching, but Mum and</desc>
 </programme>
-<programme start="20260630100000 +0000" stop="20260630103000 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Bluey</title>
-<desc lang="en">Bluey and Bingo deliver mud pizzas to the grownups, but their pedal car is broken; a giant invisible friend shows Mum and Dad who is really in charge; Bluey and Bingo play Whale Watching, but Mum and</desc>
-</programme>
 <programme start="20260630103000 +0000" stop="20260630110000 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Bluey</title>
 <desc lang="en">While Bluey, Bingo and Mum accuse Dad of being a teaser, he claims that he was just joking around; Dad attempts to teach the girls about responsibility as they want a pet; Bluey and Bingo use Daddy Ro</desc>
+</programme>
+<programme start="20260630110000 +0000" stop="20260630113000 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Mickey Mouse Clubhouse+</title>
+<desc lang="en">Queen Clarabelle's tea party is disrupted by a dragon. The Sensational Six discover it's their friend Farfus and invite him to join the party.</desc>
 </programme>
 <programme start="20260630110000 +0000" stop="20260630113000 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Mickey Mouse Clubhouse+</title>
@@ -13174,18 +13117,9 @@
 <episode-num system="xmltv_ns">1.0.0/1</episode-num>
 <episode-num system="onscreen">S02E01</episode-num>
 </programme>
-<programme start="20260630141500 +0000" stop="20260630144000 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Spidey and His Amazing Friends</title>
-<sub-title lang="en">A Syrupy Solution/Little Ant, Big Problem</sub-title>
-<desc lang="en">Gwen teams up with her dad to save the forest from Doc Ock; Peter accidentally grows his pet ant to the size of a dog.</desc>
-<category lang="en">Animation</category>
-<category lang="en">Action &amp; Adventure</category>
-<category lang="en">Comedy</category>
-<category lang="en">Family</category>
-<category lang="en">Fantasy</category>
-<category lang="en">Science Fiction</category>
-<episode-num system="xmltv_ns">1.0.0/1</episode-num>
-<episode-num system="onscreen">S02E01</episode-num>
+<programme start="20260630144000 +0000" stop="20260630150500 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Iron Man and his Awesome Friends</title>
+<desc lang="en">The Iron Friends visit Thor in Asgard, only for Ultron to try ruling the realm. Swarm crashes a hot air balloon festival with her Robotic Needlenose Bugs.</desc>
 </programme>
 <programme start="20260630144000 +0000" stop="20260630150500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Iron Man and his Awesome Friends</title>
@@ -13249,9 +13183,9 @@
 <title lang="en">Bluey</title>
 <desc lang="en">Bluey, Bingo and Missy pretend to be pirates at the park playground; Bingo can't remember where she left her beloved Floppy, so she retraces her steps to track her down; Bluey needs her Mum's advice o</desc>
 </programme>
-<programme start="20260630181500 +0000" stop="20260630184000 +0000" channel="DisneyJunior.us@East">
+<programme start="20260630184000 +0000" stop="20260630190500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Bluey</title>
-<desc lang="en">Bluey, Bingo and Missy pretend to be pirates at the park playground; Bingo can't remember where she left her beloved Floppy, so she retraces her steps to track her down; Bluey needs her Mum's advice o</desc>
+<desc lang="en">Bluey is determined to make Bingo feel happy again after she gets upset from a game at dinner; Bluey and Bingo distract their father from taking them to school; Bingo has a dream about going on an int</desc>
 </programme>
 <programme start="20260630184000 +0000" stop="20260630190500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Bluey</title>
@@ -13298,9 +13232,9 @@
 <title lang="en">Magicampers</title>
 <desc lang="en">Merritt stumbles into a mystical pond which makes her very young at heart; Darly leads the Magicampers in an attempt to plan a surprise party for Loomis.</desc>
 </programme>
-<programme start="20260630221500 +0000" stop="20260630224000 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Magicampers</title>
-<desc lang="en">Merritt stumbles into a mystical pond which makes her very young at heart; Darly leads the Magicampers in an attempt to plan a surprise party for Loomis.</desc>
+<programme start="20260630224000 +0000" stop="20260630230500 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Mickey Mouse Clubhouse+</title>
+<desc lang="en">Mickey camps with Pluto at Friendship Lake but misses his pals. They miss him too and surprise him by showing up for a fun reunion at the campsite.</desc>
 </programme>
 <programme start="20260630224000 +0000" stop="20260630230500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Mickey Mouse Clubhouse+</title>
@@ -13358,10 +13292,6 @@
 <title lang="en">Bluey</title>
 <desc lang="en">Bluey moves into her own room; Bluey wants her Father's Day card to be flawless; Mum puts together an obstacle course in the backyard.</desc>
 </programme>
-<programme start="20260701020500 +0000" stop="20260701022500 +0000" channel="DisneyJunior.us@East">
-<title lang="en">Bluey</title>
-<desc lang="en">Bluey moves into her own room; Bluey wants her Father's Day card to be flawless; Mum puts together an obstacle course in the backyard.</desc>
-</programme>
 <programme start="20260701022500 +0000" stop="20260701025000 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Spidey and His Amazing Friends</title>
 <sub-title lang="en">The Wozzlesnook; Superhero Switcheroo</sub-title>
@@ -13374,6 +13304,19 @@
 <category lang="en">Science Fiction</category>
 <episode-num system="xmltv_ns">0.19.0/1</episode-num>
 <episode-num system="onscreen">S01E20</episode-num>
+</programme>
+<programme start="20260701025000 +0000" stop="20260701031500 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Spidey and His Amazing Friends</title>
+<sub-title lang="en">Camping Conundrum;The Great Green Crime Spree</sub-title>
+<desc lang="en">While camping, the Spidey Team learns that Old Dam is in danger of flooding the park; Spidey and Ghosty try to prove the Hulk's innocence after Green Goblin frames the buff superhero for a crime.</desc>
+<category lang="en">Animation</category>
+<category lang="en">Action &amp; Adventure</category>
+<category lang="en">Comedy</category>
+<category lang="en">Family</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Science Fiction</category>
+<episode-num system="xmltv_ns">0.0.0/1</episode-num>
+<episode-num system="onscreen">S01E01</episode-num>
 </programme>
 <programme start="20260701025000 +0000" stop="20260701031500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Spidey and His Amazing Friends</title>
@@ -13458,10 +13401,6 @@
 <title lang="en">BeddyByes</title>
 <desc lang="en">MeMo and BaBa enjoy seeing and playing with floaty things; BaBa wants to play the flute as well as MeMo, so MeMo helps BaBa to play the recorder.</desc>
 </programme>
-<programme start="20260701061000 +0000" stop="20260701063500 +0000" channel="DisneyJunior.us@East">
-<title lang="en">BeddyByes</title>
-<desc lang="en">MeMo and BaBa enjoy seeing and playing with floaty things; BaBa wants to play the flute as well as MeMo, so MeMo helps BaBa to play the recorder.</desc>
-</programme>
 <programme start="20260701063500 +0000" stop="20260701070000 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Mickey Mouse Clubhouse</title>
 <sub-title lang="en">Fancy Dancin' Goofy</sub-title>
@@ -13474,6 +13413,19 @@
 <category lang="en">Music</category>
 <episode-num system="xmltv_ns">1.0.0/1</episode-num>
 <episode-num system="onscreen">S02E01</episode-num>
+</programme>
+<programme start="20260701070000 +0000" stop="20260701072500 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Mickey Mouse Clubhouse</title>
+<sub-title lang="en">Donald's Clubhouse</sub-title>
+<desc lang="en">Mickey leaves Donald in charge of the Clubhouse; when Donald and Goofy accidentally turn a small mess into a big mess, the whole gang works together to tidy up in time for a visit from Mother Goose Cl</desc>
+<category lang="en">Animation</category>
+<category lang="en">Action &amp; Adventure</category>
+<category lang="en">Comedy</category>
+<category lang="en">Family</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Music</category>
+<episode-num system="xmltv_ns">2.20.0/1</episode-num>
+<episode-num system="onscreen">S03E21</episode-num>
 </programme>
 <programme start="20260701070000 +0000" stop="20260701072500 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Mickey Mouse Clubhouse</title>
@@ -13544,6 +13496,68 @@
 <programme start="20260701100000 +0000" stop="20260701103000 +0000" channel="DisneyJunior.us@East">
 <title lang="en">Bluey</title>
 <desc lang="en">Bluey is excited to play on the monkey bars, but her father keeps stopping to talk with other grown-ups; Bluey takes her father as her first taxi passenger; Bluey sets off an adventures to catch up wi</desc>
+</programme>
+<programme start="20260701103000 +0000" stop="20260701110000 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Bluey</title>
+<desc lang="en">Muffin is forced to wear a cone to stop her from sucking her thumb; Hercules goes against Bluey's idea to play a circus game, but she has a plan to make everyone happy; Mum helps keep Bluey and Bingo</desc>
+</programme>
+<programme start="20260701110000 +0000" stop="20260701113000 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Mickey Mouse Clubhouse+</title>
+<desc lang="en">Using the special tools that have been provided for them, Mickey Mouse and the rest of his clubhouse friends work together to help build a new beehive for the bees so they can continue making honey si</desc>
+</programme>
+<programme start="20260701110000 +0000" stop="20260701113000 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Mickey Mouse Clubhouse+</title>
+<desc lang="en">Using the special tools that have been provided for them, Mickey Mouse and the rest of his clubhouse friends work together to help build a new beehive for the bees so they can continue making honey si</desc>
+</programme>
+<programme start="20260701113000 +0000" stop="20260701120000 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Sofia the First: Royal Magic</title>
+<desc lang="en">Wanting to do a good deed, Amber helps Sofia with the village feast but causes some magical problems instead; Sofia needs Layla's help to tame a magic flower.</desc>
+</programme>
+<programme start="20260701120000 +0000" stop="20260701123000 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Bluey</title>
+<desc lang="en">Grandad plays restaurant with Bluey and Bingo; Bingo wants to eat pavlova, so the kids play café together; Bluey gets the house all muddy.</desc>
+</programme>
+<programme start="20260701123000 +0000" stop="20260701130000 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Bluey</title>
+<desc lang="en">At the supermarket, Bluey acts like a parent while Dad acts like a child; when Bluey and Judo run away during a game, a heartbroken Bingo is left all alone; bored of the playground, Dad and the kids g</desc>
+</programme>
+<programme start="20260701130000 +0000" stop="20260701132500 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Mickey Mouse Clubhouse+</title>
+<desc lang="en">When Mickey and his friends meet a new little pal that's actually a handy helping friend, they're excited to have fun with him until he suddenly floats away in a balloon, so now they have to rescue hi</desc>
+</programme>
+<programme start="20260701132500 +0000" stop="20260701135000 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Hey AJ!</title>
+<desc lang="en">AJ and Jessie try roller-skating for the first time with Siggi and Marty; when Marty is sad to miss his first game day since retirement, superhero AJ rescues him from Major FOMO.</desc>
+</programme>
+<programme start="20260701135000 +0000" stop="20260701141500 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Spidey and His Amazing Friends</title>
+<sub-title lang="en">Sonic Boom Boom; Mini Golf Goof</sub-title>
+<desc lang="en">Doc Ock's latest plot disrupts sea life, so Team Spidey goes underwater to save the day; Ghost-Spider works with Ant-Man and Wasp to prevent Green Goblin from destroying a mini golf course as part of</desc>
+<category lang="en">Animation</category>
+<category lang="en">Action &amp; Adventure</category>
+<category lang="en">Comedy</category>
+<category lang="en">Family</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Science Fiction</category>
+<episode-num system="xmltv_ns">1.3.0/1</episode-num>
+<episode-num system="onscreen">S02E04</episode-num>
+</programme>
+<programme start="20260701141500 +0000" stop="20260701144000 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Spidey and His Amazing Friends</title>
+<sub-title lang="en">Iron Zola; Aunt May's Birthday Blowout</sub-title>
+<desc lang="en">Zola gains powers similar to Iron Man's, so Team Spidey jumps into action to save the city; Aunt May's birthday bash ends in trouble for Spidey and Gobby.</desc>
+<category lang="en">Animation</category>
+<category lang="en">Action &amp; Adventure</category>
+<category lang="en">Comedy</category>
+<category lang="en">Family</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Science Fiction</category>
+<episode-num system="xmltv_ns">2.11.0/1</episode-num>
+<episode-num system="onscreen">S03E12</episode-num>
+</programme>
+<programme start="20260701144000 +0000" stop="20260701150500 +0000" channel="DisneyJunior.us@East">
+<title lang="en">Iron Man and his Awesome Friends</title>
+<desc lang="en">Aña joins Tony, Riri and Scott at the pier, but Swarm's robo-crabs cause a shellfish mess. The Iron Friends armor up to stop Ultron's Ultron Says ray from controlling the city.</desc>
 </programme>
 <programme start="20260628042500 +0000" stop="20260628052500 +0000" channel="dk#454">
 <title lang="da">Badminton: US Open - Kampe</title>
@@ -13828,7 +13842,7 @@
 <image>https://cdn.images.simply.tv/2461004953621143244.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260628160000 +0000" stop="20260628180000 +0000" channel="dk#718">
-<title lang="da">Atletik: Diamond League</title>
+<title lang="da">Athletics: Diamond League</title>
 <desc lang="da">From 2026. Watch athletics from the Diamond League, which brings together the world's best athletics athletes in top international competitions, where the season's points determine the overall winner.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.107.0/1</episode-num>
@@ -13844,7 +13858,7 @@
 <image>https://cdn.images.simply.tv/7858239312137746829.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260628200000 +0000" stop="20260628220500 +0000" channel="dk#718">
-<title lang="da">Atletik: Diamond League</title>
+<title lang="da">Athletics: Diamond League</title>
 <desc lang="da">From 2026. Watch athletics from the Diamond League, which brings together the world's best athletics athletes in top international competitions, where the season's points determine the overall winner.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.107.0/1</episode-num>
@@ -13868,7 +13882,7 @@
 <image>https://cdn.images.simply.tv/7858239312137746829.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260629052000 +0000" stop="20260629072500 +0000" channel="dk#718">
-<title lang="da">Atletik: Diamond League</title>
+<title lang="da">Athletics: Diamond League</title>
 <desc lang="da">From 2026. Watch athletics from the Diamond League, which brings together the world's best athletics athletes in top international competitions, where the season's points determine the overall winner.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.107.0/1</episode-num>
@@ -13916,7 +13930,7 @@
 <image>https://cdn.images.simply.tv/2461004953621143244.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260629172500 +0000" stop="20260629193000 +0000" channel="dk#718">
-<title lang="da">Atletik: Diamond League</title>
+<title lang="da">Athletics: Diamond League</title>
 <desc lang="da">From 2026. Watch athletics from the Diamond League, which brings together the world's best athletics athletes in top international competitions, where the season's points determine the overall winner.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.107.0/1</episode-num>
@@ -18972,7 +18986,7 @@
 <title lang="id">Kisah Nyata</title>
 </programme>
 <programme start="20260628080000 +0000" stop="20260628100000 +0000" channel="Indosiar.id@SD">
-<title lang="id">True Afternoon Story</title>
+<title lang="id">Kisah Nyata Sore</title>
 </programme>
 <programme start="20260628100000 +0000" stop="20260628120000 +0000" channel="Indosiar.id@SD">
 <title lang="id">Merangkai Kisah Indah</title>
@@ -20933,31 +20947,6 @@
 <programme start="20260630163000 +0000" stop="20260630170000 +0000" channel="KompasTV.id@SD">
 <title lang="id">Kilas Kompas</title>
 </programme>
-<programme start="20260628100000 +0000" stop="20260628103000 +0000" channel="lch2294">
-<title lang="es">Icarus Sports : Hyrox The World Of Fitness Racing</title>
-<desc lang="es">A show that immerses you in the intensity of HYROX, where each story reflects effort, resistance and the moment to overcome.</desc>
-<image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/66/23661623_aed12a349da43dd25891f1c8c2dbf522.jpg</image>
-</programme>
-<programme start="20260628103000 +0000" stop="20260628110000 +0000" channel="lch2294">
-<title lang="es">Icarus Sports : Hyrox The World Of Fitness Racing</title>
-<desc lang="es">The profiles of different HYROX participants are explored, from elderly participants to mothers and daughters competing side by side.</desc>
-<image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/66/23661623_aed12a349da43dd25891f1c8c2dbf522.jpg</image>
-</programme>
-<programme start="20260628110000 +0000" stop="20260628113000 +0000" channel="lch2294">
-<title lang="es">Icarus Sports : Hyrox The World Of Fitness Racing</title>
-<desc lang="es">A show that immerses you in the intensity of HYROX, where each story reflects effort, resistance and the moment to overcome.</desc>
-<image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/66/23661623_aed12a349da43dd25891f1c8c2dbf522.jpg</image>
-</programme>
-<programme start="20260628113000 +0000" stop="20260628120000 +0000" channel="lch2294">
-<title lang="es">Icarus Sports : Hyrox The World Of Fitness Racing</title>
-<desc lang="es">A show that immerses you in the intensity of HYROX, where each story reflects effort, resistance and the moment to overcome.</desc>
-<image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/66/23661623_aed12a349da43dd25891f1c8c2dbf522.jpg</image>
-</programme>
-<programme start="20260628120000 +0000" stop="20260628140000 +0000" channel="lch2294">
-<title lang="es">Budo Sento Championship</title>
-<desc lang="es">The only professional martial arts league that includes submission fighting, Muay Thai and MMA.</desc>
-<image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/23/19230161_2803CF0FAD387CF7.jpg</image>
-</programme>
 <programme start="20260628140000 +0000" stop="20260628160000 +0000" channel="lch2294">
 <title lang="es">AEW Collision</title>
 <desc lang="es">The popular professional wrestlers on the AEW roster compete against each other in matches every Saturday to win the champion title.</desc>
@@ -21017,12 +21006,12 @@
 <desc lang="es">MJF vs. Mark Briscoe in steel cage match, Kenny Omega vs. Zack Saber Jr. and more fights in the event in which the stars of AEW, NJPW, Stardom and CMLL will collide. From the SAP Center, in San Jose, California.</desc>
 <image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/24/37/24377752_21c1c23ce88c0b88e6cc1bccfbbf62bf.jpg</image>
 </programme>
-<programme start="20260629080000 +0000" stop="20260629120000 +0000" channel="lch2294">
-<title lang="es">AEW: Forbidden Door 2026</title>
-<desc lang="es">MJF vs. Mark Briscoe in steel cage match, Kenny Omega vs. Zack Saber Jr. and more fights in the event in which the stars of AEW, NJPW, Stardom and CMLL will collide. From the SAP Center, in San Jose, California.</desc>
-<image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/24/37/24377752_21c1c23ce88c0b88e6cc1bccfbbf62bf.jpg</image>
-</programme>
 <programme start="20260629120000 +0000" stop="20260629140000 +0000" channel="lch2294">
+<title lang="es">Budo Sento Championship</title>
+<desc lang="es">The only professional martial arts league that includes submission fighting, Muay Thai and MMA.</desc>
+<image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/23/19230161_2803CF0FAD387CF7.jpg</image>
+</programme>
+<programme start="20260629140000 +0000" stop="20260629160000 +0000" channel="lch2294">
 <title lang="es">Budo Sento Championship</title>
 <desc lang="es">The only professional martial arts league that includes submission fighting, Muay Thai and MMA.</desc>
 <image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/23/19230161_2803CF0FAD387CF7.jpg</image>
@@ -21122,15 +21111,15 @@
 <desc lang="es">The popular professional wrestlers on the AEW roster compete against each other in matches every Saturday to win the champion title.</desc>
 <image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/28/21288894_DD822F19DD347BC8.jpg</image>
 </programme>
-<programme start="20260630100000 +0000" stop="20260630120000 +0000" channel="lch2294">
-<title lang="es">AEW Collision</title>
-<desc lang="es">The popular professional wrestlers on the AEW roster compete against each other in matches every Saturday to win the champion title.</desc>
-<image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/28/21288894_DD822F19DD347BC8.jpg</image>
-</programme>
 <programme start="20260630120000 +0000" stop="20260630140000 +0000" channel="lch2294">
 <title lang="es">All Elite Wrestling: Dynamite</title>
 <desc lang="es">The most intense fight comes with AEW Dynamite: spectacular matches, rivalries to the limit and stars who leave everything in the ring.</desc>
 <image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/83/23835551_4cd4b6aea123342ceb7dda86cf658ff1.jpg</image>
+</programme>
+<programme start="20260630140000 +0000" stop="20260630160000 +0000" channel="lch2294">
+<title lang="es">AEW Collision</title>
+<desc lang="es">The popular professional wrestlers on the AEW roster compete against each other in matches every Saturday to win the champion title.</desc>
+<image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/28/21288894_DD822F19DD347BC8.jpg</image>
 </programme>
 <programme start="20260630140000 +0000" stop="20260630160000 +0000" channel="lch2294">
 <title lang="es">AEW Collision</title>
@@ -21144,7 +21133,7 @@
 </programme>
 <programme start="20260630180000 +0000" stop="20260630203000 +0000" channel="lch2294">
 <title lang="es">Fútbol Rápido MASL : St. Louis Ambush vs. Utica City FC</title>
-<desc lang="es">Cobertura de la temporada regular 2025-26 de la MASL. Utica City FC visita a St. Louis Ambush. Desde The Family Arena, en St. Charles, Misuri.</desc>
+<desc lang="es">Coverage of the 2025-26 MASL regular season. Utica City FC visits the St. Louis Ambush. From The Family Arena, in St. Charles, Missouri.</desc>
 <image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/24/74/24749090_0104be054fb69bd4f3144a7bb7931ee3.jpg</image>
 </programme>
 <programme start="20260630203000 +0000" stop="20260630210000 +0000" channel="lch2294">
@@ -21192,17 +21181,15 @@
 <desc lang="es">Match for first place for men in the Challenge Tlaxcala, part of the Beach Pro Tour 2026. From Tlaxcala, Mexico.</desc>
 <image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/95/22953237_3a88f4e598c7ef4b611ddbf2ef6d5167.jpg</image>
 </programme>
-<programme start="20260628071900 +0000" stop="20260628110000 +0000" channel="M1SD">
-<title lang="es">Enjoy DAZN on Movistar Plus</title>
-<desc lang="es">Enjoy DAZN on Movistar Plus</desc>
+<programme start="20260701110000 +0000" stop="20260701120000 +0000" channel="lch2294">
+<title lang="es">All Elite Show</title>
+<desc lang="es">The show with the most dynamic and fun summary of AEW, where experts will analyze the most epic fights, news and predictions.</desc>
+<image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/48/23481195_3828a62423d8a12b10c933626b01c641.jpg</image>
 </programme>
-<programme start="20260628110000 +0000" stop="20260628124700 +0000" channel="M1SD">
-<title lang="es">E1 Series</title>
-<desc lang="es">The E1 Series is an electric boat competition that is celebrating its third season.</desc>
-<episode-num system="xmltv_ns">0.2.0/1</episode-num>
-<episode-num system="onscreen">S01E03</episode-num>
-<image>https://estatico.emisiondof6.com/recorte/n/vegend/F4348344.jpg</image>
-<icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/F4348342"/>
+<programme start="20260701120000 +0000" stop="20260701160000 +0000" channel="lch2294">
+<title lang="es">AEW: Forbidden Door 2026</title>
+<desc lang="es">MJF vs. Mark Briscoe in steel cage match, Kenny Omega vs. Zack Saber Jr. and more fights in the event in which the stars of AEW, NJPW, Stardom and CMLL will collide. From the SAP Center, in San Jose, California.</desc>
+<image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/24/37/24377752_21c1c23ce88c0b88e6cc1bccfbbf62bf.jpg</image>
 </programme>
 <programme start="20260628124700 +0000" stop="20260628132000 +0000" channel="M1SD">
 <title lang="es">The Titan Patagonia, an unmatched experience</title>
@@ -21283,10 +21270,6 @@
 <desc lang="es">Enjoy DAZN on Movistar Plus</desc>
 </programme>
 <programme start="20260629031300 +0000" stop="20260629071300 +0000" channel="M1SD">
-<title lang="es">Enjoy DAZN on Movistar Plus</title>
-<desc lang="es">Enjoy DAZN on Movistar Plus</desc>
-</programme>
-<programme start="20260629071300 +0000" stop="20260629110000 +0000" channel="M1SD">
 <title lang="es">Enjoy DAZN on Movistar Plus</title>
 <desc lang="es">Enjoy DAZN on Movistar Plus</desc>
 </programme>
@@ -21390,10 +21373,6 @@
 <title lang="es">Enjoy DAZN on Movistar Plus</title>
 <desc lang="es">Enjoy DAZN on Movistar Plus</desc>
 </programme>
-<programme start="20260630065300 +0000" stop="20260630105300 +0000" channel="M1SD">
-<title lang="es">Enjoy DAZN on Movistar Plus</title>
-<desc lang="es">Enjoy DAZN on Movistar Plus</desc>
-</programme>
 <programme start="20260630105300 +0000" stop="20260630110000 +0000" channel="M1SD">
 <title lang="es">Enjoy DAZN on Movistar Plus</title>
 <desc lang="es">Enjoy DAZN on Movistar Plus</desc>
@@ -21405,6 +21384,12 @@
 <episode-num system="onscreen">S01E01</episode-num>
 <image>https://estatico.emisiondof6.com/recorte/n/vegend/F4389436.jpg</image>
 <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/F4401276"/>
+</programme>
+<programme start="20260630125500 +0000" stop="20260630132000 +0000" channel="M1SD">
+<title lang="es">Mohamed Salah, the modern pharaoh of Anfield</title>
+<desc lang="es">From the banks of the Nile to the stands of the legendary Anfield, Mohamed Salah has woven a story of effort, talent and humility. His lethal speed, precision and serene smile have made him a symbol of Liverpool and world football.</desc>
+<image>https://estatico.emisiondof6.com/recorte/n/vegend/F4371804.jpg</image>
+<icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/F4371802"/>
 </programme>
 <programme start="20260630125500 +0000" stop="20260630132000 +0000" channel="M1SD">
 <title lang="es">Mohamed Salah, the modern pharaoh of Anfield</title>
@@ -21494,11 +21479,19 @@
 <title lang="es">Enjoy DAZN on Movistar Plus</title>
 <desc lang="es">Enjoy DAZN on Movistar Plus</desc>
 </programme>
-<programme start="20260628064000 +0000" stop="20260628084000 +0000" channel="M2SD">
-<title lang="es">Red Bull Rookies Cup</title>
-<desc lang="es">The Red Bull MotoGP Rookies Cup is an excellent pool of drivers. The competition was founded in 2007 and since then many of the participants have progressed to the World Motorcycle Championship. This season has 7 rounds and 14 races.</desc>
-<episode-num system="xmltv_ns">0.1.0/1</episode-num>
-<episode-num system="onscreen">S01E02</episode-num>
+<programme start="20260701110000 +0000" stop="20260701120000 +0000" channel="M1SD">
+<title lang="es">MotoGP Global Series Ronda 2</title>
+<desc lang="es">The Global Series is the highest MotoGP competition at the eSports level.</desc>
+<episode-num system="xmltv_ns">0.0.0/1</episode-num>
+<episode-num system="onscreen">S01E01</episode-num>
+<image>https://estatico.emisiondof6.com/recorte/n/vegend/F4451581.jpg</image>
+<icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/F4451579"/>
+</programme>
+<programme start="20260701120000 +0000" stop="20260701132000 +0000" channel="M1SD">
+<title lang="es">Hatton Crevillent Cup</title>
+<desc lang="es">The Juanfran Torres Football City hosts this sporting event that consolidates Crevillent as the epicenter of youth football.</desc>
+<episode-num system="xmltv_ns">0.2.0/1</episode-num>
+<episode-num system="onscreen">S01E03</episode-num>
 <image>https://estatico.emisiondof6.com/recorte/n/vegend/F4451581.jpg</image>
 <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/F4451579"/>
 </programme>
@@ -21526,7 +21519,7 @@
 <title lang="es">Enjoy DAZN on Movistar Plus</title>
 <desc lang="es">Enjoy DAZN on Movistar Plus</desc>
 </programme>
-<programme start="20260629080000 +0000" stop="20260629120000 +0000" channel="M2SD">
+<programme start="20260629120000 +0000" stop="20260629160000 +0000" channel="M2SD">
 <title lang="es">Enjoy DAZN on Movistar Plus</title>
 <desc lang="es">Enjoy DAZN on Movistar Plus</desc>
 </programme>
@@ -21554,7 +21547,7 @@
 <title lang="es">Enjoy DAZN on Movistar Plus</title>
 <desc lang="es">Enjoy DAZN on Movistar Plus</desc>
 </programme>
-<programme start="20260630080000 +0000" stop="20260630120000 +0000" channel="M2SD">
+<programme start="20260630120000 +0000" stop="20260630160000 +0000" channel="M2SD">
 <title lang="es">Enjoy DAZN on Movistar Plus</title>
 <desc lang="es">Enjoy DAZN on Movistar Plus</desc>
 </programme>
@@ -21579,6 +21572,10 @@
 <desc lang="es">Enjoy DAZN on Movistar Plus</desc>
 </programme>
 <programme start="20260701080000 +0000" stop="20260701120000 +0000" channel="M2SD">
+<title lang="es">Enjoy DAZN on Movistar Plus</title>
+<desc lang="es">Enjoy DAZN on Movistar Plus</desc>
+</programme>
+<programme start="20260701120000 +0000" stop="20260701160000 +0000" channel="M2SD">
 <title lang="es">Enjoy DAZN on Movistar Plus</title>
 <desc lang="es">Enjoy DAZN on Movistar Plus</desc>
 </programme>
@@ -22467,7 +22464,7 @@
 <desc lang="id">Gilang memutuskan untuk berlibur bersama Sarah dan Kevin, dua orang sahabatnya sejak SMA untuk merayakan ulang tahunnya. Rencana tersebut terganggu dengan kehadiran dua orang tamu tak diundang.</desc>
 </programme>
 <programme start="20260627191500 +0000" stop="20260627203000 +0000" channel="MAXStream.id@SD">
-<title lang="id">Dapil Komeng</title>
+<title lang="id">Komeng electoral district</title>
 <desc lang="id">Sketsa Komedi yang menceritakan kelucuan Komeng dalam mewujudkan mimpinya dengan cara masuk ke lemari rahasia yang akan membawanya kemana saja dan bertemu siapa saja yang dia inginkan</desc>
 </programme>
 <programme start="20260627203000 +0000" stop="20260627210000 +0000" channel="MAXStream.id@SD">
@@ -22547,7 +22544,7 @@
 <desc lang="id">Sketsa Komedi Oleh Denny Caknan, Cak Percil dan Abah Kirun. Dalam Lakon Keseharian. Yang Memberikan Solusi Penuh Masalah Dibalut Dengan Komedi Jawa Yang Kental.</desc>
 </programme>
 <programme start="20260628113000 +0000" stop="20260628121500 +0000" channel="MAXStream.id@SD">
-<title lang="id">Sincerely</title>
+<title lang="id">Ikhlas Paling Serius</title>
 <desc lang="id">Drama romantis yang mengikuti Fajar, seorang people pleaser yang menjadi asisten pribadi Farah, CEO perfeksionis. Fajar terjebak dilema saat ditugaskan memata-matai Farah, namun justru jatuh cinta dan terlibat konflik rumit.</desc>
 </programme>
 <programme start="20260628121500 +0000" stop="20260628123000 +0000" channel="MAXStream.id@SD">
@@ -22589,7 +22586,7 @@
 <title lang="id">The Best Of Ini Talkshow</title>
 </programme>
 <programme start="20260627190000 +0000" stop="20260627195000 +0000" channel="MDTV.id@HD">
-<title lang="id">Main Hakim Sendiri</title>
+<title lang="id">Take Judge Alone</title>
 </programme>
 <programme start="20260627195000 +0000" stop="20260627203000 +0000" channel="MDTV.id@HD">
 <title lang="id">Di Balik Mitos</title>
@@ -22655,7 +22652,7 @@
 <title lang="id">The Best Of Ini Talkshow</title>
 </programme>
 <programme start="20260628190000 +0000" stop="20260628195000 +0000" channel="MDTV.id@HD">
-<title lang="id">Main Hakim Sendiri</title>
+<title lang="id">Take Judge Alone</title>
 </programme>
 <programme start="20260628195000 +0000" stop="20260628210000 +0000" channel="MDTV.id@HD">
 <title lang="id">Di Balik Mitos</title>
@@ -22718,7 +22715,7 @@
 <title lang="id">The Best Of Ini Talkshow</title>
 </programme>
 <programme start="20260629190000 +0000" stop="20260629195000 +0000" channel="MDTV.id@HD">
-<title lang="id">Main Hakim Sendiri</title>
+<title lang="id">Take Judge Alone</title>
 </programme>
 <programme start="20260629195000 +0000" stop="20260629210000 +0000" channel="MDTV.id@HD">
 <title lang="id">Di Balik Mitos</title>
@@ -30527,13 +30524,13 @@
 </programme>
 <programme start="20260628230000 +0000" stop="20260629010000 +0000" channel="mx#fox-sports-2">
 <title lang="es">Budapest, Hungary - Women's Final Session</title>
-<desc lang="es">Vive las emociones de la UIPM Pentathlon World Cup.</desc>
+<desc lang="es">Live the emotions of the UIPM Pentathlon World Cup.</desc>
 <category lang="es">UIPM Pentathlon World Cup</category>
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
 </programme>
 <programme start="20260629010000 +0000" stop="20260629030000 +0000" channel="mx#fox-sports-2">
 <title lang="es">Budapest, Hungary - Men's Final Session</title>
-<desc lang="es">Vive las emociones de la UIPM Pentathlon World Cup.</desc>
+<desc lang="es">Live the emotions of the UIPM Pentathlon World Cup.</desc>
 <category lang="es">UIPM Pentathlon World Cup</category>
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
 </programme>
@@ -30605,13 +30602,13 @@
 </programme>
 <programme start="20260629160000 +0000" stop="20260629193000 +0000" channel="mx#fox-sports-2">
 <title lang="es">Budapest Hungary Women's Semi-Final A y B</title>
-<desc lang="es">Vive las emociones de la UIPM Pentathlon World Cup.</desc>
+<desc lang="es">Live the emotions of the UIPM Pentathlon World Cup.</desc>
 <category lang="es">UIPM Pentathlon World Cup</category>
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
 </programme>
 <programme start="20260629193000 +0000" stop="20260629213000 +0000" channel="mx#fox-sports-2">
 <title lang="es">Budapest, Hungary - Women's Final Session</title>
-<desc lang="es">Vive las emociones de la UIPM Pentathlon World Cup.</desc>
+<desc lang="es">Live the emotions of the UIPM Pentathlon World Cup.</desc>
 <category lang="es">UIPM Pentathlon World Cup</category>
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
 </programme>
@@ -30658,7 +30655,7 @@
 </programme>
 <programme start="20260630060000 +0000" stop="20260630080000 +0000" channel="mx#fox-sports-2">
 <title lang="es">Budapest, Hungary - Women's Final Session</title>
-<desc lang="es">Vive las emociones de la UIPM Pentathlon World Cup.</desc>
+<desc lang="es">Live the emotions of the UIPM Pentathlon World Cup.</desc>
 <category lang="es">UIPM Pentathlon World Cup</category>
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
 </programme>
@@ -30717,13 +30714,13 @@
 </programme>
 <programme start="20260630160000 +0000" stop="20260630193000 +0000" channel="mx#fox-sports-2">
 <title lang="es">Budapest Hungary Men's Semi-Final A y B</title>
-<desc lang="es">Vive las emociones de la UIPM Pentathlon World Cup.</desc>
+<desc lang="es">Live the emotions of the UIPM Pentathlon World Cup.</desc>
 <category lang="es">UIPM Pentathlon World Cup</category>
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
 </programme>
 <programme start="20260630193000 +0000" stop="20260630213000 +0000" channel="mx#fox-sports-2">
 <title lang="es">Budapest, Hungary - Men's Final Session</title>
-<desc lang="es">Vive las emociones de la UIPM Pentathlon World Cup.</desc>
+<desc lang="es">Live the emotions of the UIPM Pentathlon World Cup.</desc>
 <category lang="es">UIPM Pentathlon World Cup</category>
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
 </programme>
@@ -35093,7 +35090,7 @@
 </programme>
 <programme start="20260630120000 +0000" stop="20260630150000 +0000" channel="no#0406">
 <title lang="no">Mallorca Championships</title>
-<desc lang="no">Fra Mallorca, Spania, og finalen mellom Ethan Quinn og Alejandro Davidovich Fokina i ATP 250-turneringen Mallorca Championships.</desc>
+<desc lang="no">From Mallorca, Spain, and the final between Ethan Quinn and Alejandro Davidovich Fokina in the ATP 250 tournament Mallorca Championships.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.10.0/1</episode-num>
 <episode-num system="onscreen">S2026E11</episode-num>
@@ -35715,46 +35712,6 @@
 <desc lang="sk">World Darts Championship Record (London, Great Britain), (Sports)</desc>
 <category lang="sk">šport</category>
 </programme>
-<programme start="20260628103733 +0000" stop="20260628114409 +0000" channel="PlutoTV/ca#638e10220aa6a6000726979f">
-<title lang="en">Top Gear UK</title>
-<sub-title>Episode 6</sub-title>
-<desc lang="en">Will the McLaren SLR or a boat make it from London to Oslo first? Contains Strong Language.</desc>
-<category lang="en">Comedy</category>
-<category lang="en">Series</category>
-<category lang="en">Sports</category>
-<episode-num system="original-air-date">20260628103733 +0000</episode-num>
-<icon src="https://images.pluto.tv/series/6a17658559cd9e760f13206a/tile_1782627736921.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
-</programme>
-<programme start="20260628114409 +0000" stop="20260628125045 +0000" channel="PlutoTV/ca#638e10220aa6a6000726979f">
-<title lang="en">Top Gear UK</title>
-<sub-title>Episode 7</sub-title>
-<desc lang="en">Which is faster - man or machine? The Top Gear team aim to find out.</desc>
-<category lang="en">Comedy</category>
-<category lang="en">Series</category>
-<category lang="en">Sports</category>
-<episode-num system="original-air-date">20260628114409 +0000</episode-num>
-<icon src="https://images.pluto.tv/series/6a17658559cd9e760f13206a/tile_1782627736921.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
-</programme>
-<programme start="20260628125045 +0000" stop="20260628135733 +0000" channel="PlutoTV/ca#638e10220aa6a6000726979f">
-<title lang="en">Top Gear UK</title>
-<sub-title>Episode 8</sub-title>
-<desc lang="en">A trio of convertibles are tested in Iceland. Contains Strong Language.</desc>
-<category lang="en">Comedy</category>
-<category lang="en">Series</category>
-<category lang="en">Sports</category>
-<episode-num system="original-air-date">20260628125045 +0000</episode-num>
-<icon src="https://images.pluto.tv/series/6a17658559cd9e760f13206a/tile_1782627736921.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
-</programme>
-<programme start="20260628135733 +0000" stop="20260628150442 +0000" channel="PlutoTV/ca#638e10220aa6a6000726979f">
-<title lang="en">Top Gear UK</title>
-<sub-title>Episode 9</sub-title>
-<desc lang="en">Jeremy gives his verdict on BMW's new M5. Contains Strong Language.</desc>
-<category lang="en">Comedy</category>
-<category lang="en">Series</category>
-<category lang="en">Sports</category>
-<episode-num system="original-air-date">20260628135733 +0000</episode-num>
-<icon src="https://images.pluto.tv/series/6a17658559cd9e760f13206a/tile_1782627736921.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
-</programme>
 <programme start="20260628150442 +0000" stop="20260628161807 +0000" channel="PlutoTV/ca#638e10220aa6a6000726979f">
 <title lang="en">Top Gear UK</title>
 <sub-title>Episode 10</sub-title>
@@ -35835,29 +35792,35 @@
 <episode-num system="original-air-date">20260628231015 +0000</episode-num>
 <icon src="https://images.pluto.tv/series/6a17658559cd9e760f13206a/tile_1782627736921.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
-<programme start="20260628102500 +0000" stop="20260628123500 +0000" channel="PlutoTV/gb#6401d85a49839300087b116c">
-<title lang="en">Outlander</title>
-<desc lang="en">An alien soldier (James Caviezel) crashes on Earth during the time of the Vikings and blends his technology with theirs to hunt his enemy.</desc>
-<category lang="en">Entertainment</category>
+<programme start="20260629001748 +0000" stop="20260629013157 +0000" channel="PlutoTV/ca#638e10220aa6a6000726979f">
+<title lang="en">Top Gear UK</title>
+<sub-title>Episode 3</sub-title>
+<desc lang="en">Is it possible to build a truly amphibious car? Contains Strong Language.</desc>
+<category lang="en">Comedy</category>
 <category lang="en">Series</category>
-<episode-num system="original-air-date">20260628102500 +0000</episode-num>
-<icon src="https://images.pluto.tv/series/685c08282339944cecd6cbf5/tile_1750861896343.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
+<category lang="en">Sports</category>
+<episode-num system="original-air-date">20260629001748 +0000</episode-num>
+<icon src="https://images.pluto.tv/series/6a17658559cd9e760f13206a/tile_1782627736921.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
-<programme start="20260628123500 +0000" stop="20260628143600 +0000" channel="PlutoTV/gb#6401d85a49839300087b116c">
-<title lang="en">Three Musketeers</title>
-<desc lang="en">The disbanded Musketeers reunite to defeat a beautiful double agent and the scheming man she is working for.</desc>
-<category lang="en">Entertainment</category>
+<programme start="20260629013157 +0000" stop="20260629024440 +0000" channel="PlutoTV/ca#638e10220aa6a6000726979f">
+<title lang="en">Top Gear UK</title>
+<sub-title>Episode 4</sub-title>
+<desc lang="en">The Porshe Cayenne Turbo S is put to the test. Contains Strong Language.</desc>
+<category lang="en">Comedy</category>
 <category lang="en">Series</category>
-<episode-num system="original-air-date">20260628123500 +0000</episode-num>
-<icon src="https://images.pluto.tv/series/685c08272339944cecd6ca13/tile_1750861874436.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
+<category lang="en">Sports</category>
+<episode-num system="original-air-date">20260629013157 +0000</episode-num>
+<icon src="https://images.pluto.tv/series/6a17658559cd9e760f13206a/tile_1782627736921.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
-<programme start="20260628143600 +0000" stop="20260628164400 +0000" channel="PlutoTV/gb#6401d85a49839300087b116c">
-<title lang="en">Conan the Barbarian</title>
-<desc lang="en">The Cimmerian warrior slashes his way across Hyboria on a mission that begins as a personal vendetta but turns into an epic battle against a supernatural evil.</desc>
-<category lang="en">Entertainment</category>
+<programme start="20260629024440 +0000" stop="20260629035159 +0000" channel="PlutoTV/ca#638e10220aa6a6000726979f">
+<title lang="en">Top Gear UK</title>
+<sub-title>Episode 5</sub-title>
+<desc lang="en">Top Gear gets in on world cup fever with car football. Contains Strong Language.</desc>
+<category lang="en">Comedy</category>
 <category lang="en">Series</category>
-<episode-num system="original-air-date">20260628143600 +0000</episode-num>
-<icon src="https://images.pluto.tv/series/68b188640652cfdb65cc20fd/tile_1756526931918.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
+<category lang="en">Sports</category>
+<episode-num system="original-air-date">20260629024440 +0000</episode-num>
+<icon src="https://images.pluto.tv/series/6a17658559cd9e760f13206a/tile_1782627736921.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
 <programme start="20260628164400 +0000" stop="20260628183100 +0000" channel="PlutoTV/gb#6401d85a49839300087b116c">
 <title lang="en">The Legend of Hercules</title>
@@ -35891,53 +35854,21 @@
 <episode-num system="original-air-date">20260628233200 +0000</episode-num>
 <icon src="https://images.pluto.tv/series/68b188640652cfdb65cc20fd/tile_1756526931918.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
-<programme start="20260628103733 +0000" stop="20260628114409 +0000" channel="PlutoTV/us#636adc255bcf470007d6e0e2">
-<title lang="en">Top Gear UK</title>
-<sub-title>Episode 6</sub-title>
-<desc lang="en">Will the McLaren SLR or a boat make it from London to Oslo first? Contains Strong Language.</desc>
+<programme start="20260629013600 +0000" stop="20260629034600 +0000" channel="PlutoTV/gb#6401d85a49839300087b116c">
+<title lang="en">Outlander</title>
+<desc lang="en">An alien soldier (James Caviezel) crashes on Earth during the time of the Vikings and blends his technology with theirs to hunt his enemy.</desc>
 <category lang="en">Entertainment</category>
 <category lang="en">Series</category>
-<category lang="en">Reality</category>
-<episode-num system="original-air-date">20260628103733 +0000</episode-num>
-<icon src="https://images.pluto.tv/series/686bfa204541340bee847b9d/tile_1782627773429.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
-</programme>
-<programme start="20260628114409 +0000" stop="20260628125045 +0000" channel="PlutoTV/us#636adc255bcf470007d6e0e2">
-<title lang="en">Top Gear UK</title>
-<sub-title>Episode 7</sub-title>
-<desc lang="en">Which is faster - man or machine? The Top Gear team aim to find out.</desc>
-<category lang="en">Entertainment</category>
-<category lang="en">Series</category>
-<category lang="en">Reality</category>
-<episode-num system="original-air-date">20260628114409 +0000</episode-num>
-<icon src="https://images.pluto.tv/series/686bfa204541340bee847b9d/tile_1782627773429.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
-</programme>
-<programme start="20260628125045 +0000" stop="20260628135733 +0000" channel="PlutoTV/us#636adc255bcf470007d6e0e2">
-<title lang="en">Top Gear UK</title>
-<sub-title>Episode 8</sub-title>
-<desc lang="en">A trio of convertibles are tested in Iceland. Contains Strong Language.</desc>
-<category lang="en">Entertainment</category>
-<category lang="en">Series</category>
-<category lang="en">Reality</category>
-<episode-num system="original-air-date">20260628125045 +0000</episode-num>
-<icon src="https://images.pluto.tv/series/686bfa204541340bee847b9d/tile_1782627773429.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
-</programme>
-<programme start="20260628135733 +0000" stop="20260628150442 +0000" channel="PlutoTV/us#636adc255bcf470007d6e0e2">
-<title lang="en">Top Gear UK</title>
-<sub-title>Episode 9</sub-title>
-<desc lang="en">Jeremy gives his verdict on BMW's new M5. Contains Strong Language.</desc>
-<category lang="en">Entertainment</category>
-<category lang="en">Series</category>
-<category lang="en">Reality</category>
-<episode-num system="original-air-date">20260628135733 +0000</episode-num>
-<icon src="https://images.pluto.tv/series/686bfa204541340bee847b9d/tile_1782627773429.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
+<episode-num system="original-air-date">20260629013600 +0000</episode-num>
+<icon src="https://images.pluto.tv/series/685c08282339944cecd6cbf5/tile_1750861896343.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
 <programme start="20260628150442 +0000" stop="20260628161807 +0000" channel="PlutoTV/us#636adc255bcf470007d6e0e2">
 <title lang="en">Top Gear UK</title>
 <sub-title>Episode 10</sub-title>
 <desc lang="en">The latest off-road toys and a 4x4 driving across a lake! Contains Strong Language.</desc>
+<category lang="en">Reality</category>
 <category lang="en">Entertainment</category>
 <category lang="en">Series</category>
-<category lang="en">Reality</category>
 <episode-num system="original-air-date">20260628150442 +0000</episode-num>
 <icon src="https://images.pluto.tv/series/686bfa204541340bee847b9d/tile_1782627773429.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
@@ -35945,9 +35876,9 @@
 <title lang="en">Top Gear UK</title>
 <sub-title>Episode 1</sub-title>
 <desc lang="en">Jeremy, Richard and James head for the Isle of Man to expereince the best of the best.</desc>
+<category lang="en">Reality</category>
 <category lang="en">Entertainment</category>
 <category lang="en">Series</category>
-<category lang="en">Reality</category>
 <episode-num system="original-air-date">20260628161807 +0000</episode-num>
 <icon src="https://images.pluto.tv/series/686bfa204541340bee847b9d/tile_1782627773429.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
@@ -35955,9 +35886,9 @@
 <title lang="en">Top Gear UK</title>
 <sub-title>Episode 2</sub-title>
 <desc lang="en">James and Richard tests the best boys' toys in the world. Contains Strong Language.</desc>
+<category lang="en">Reality</category>
 <category lang="en">Entertainment</category>
 <category lang="en">Series</category>
-<category lang="en">Reality</category>
 <episode-num system="original-air-date">20260628172542 +0000</episode-num>
 <icon src="https://images.pluto.tv/series/686bfa204541340bee847b9d/tile_1782627773429.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
@@ -35965,9 +35896,9 @@
 <title lang="en">Top Gear UK</title>
 <sub-title>Episode 3</sub-title>
 <desc lang="en">Jeremy, Richard and James drive three supercars through France to the Millau bridge.</desc>
+<category lang="en">Reality</category>
 <category lang="en">Entertainment</category>
 <category lang="en">Series</category>
-<category lang="en">Reality</category>
 <episode-num system="original-air-date">20260628183112 +0000</episode-num>
 <icon src="https://images.pluto.tv/series/686bfa204541340bee847b9d/tile_1782627773429.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
@@ -35975,9 +35906,9 @@
 <title lang="en">Top Gear UK</title>
 <sub-title>Episode 4</sub-title>
 <desc lang="en">Can you buy a decent mid-engined Italian supercar for under £10,000? Contains Strong Language.</desc>
+<category lang="en">Reality</category>
 <category lang="en">Entertainment</category>
 <category lang="en">Series</category>
-<category lang="en">Reality</category>
 <episode-num system="original-air-date">20260628193827 +0000</episode-num>
 <icon src="https://images.pluto.tv/series/686bfa204541340bee847b9d/tile_1782627773429.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
@@ -35985,9 +35916,9 @@
 <title lang="en">Top Gear UK</title>
 <sub-title>Episode 5</sub-title>
 <desc lang="en">It's Bugatti Veyron vs. plane as the boys race from Italy to London. Contains Strong Language.</desc>
+<category lang="en">Reality</category>
 <category lang="en">Entertainment</category>
 <category lang="en">Series</category>
-<category lang="en">Reality</category>
 <episode-num system="original-air-date">20260628205013 +0000</episode-num>
 <icon src="https://images.pluto.tv/series/686bfa204541340bee847b9d/tile_1782627773429.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
@@ -35995,9 +35926,9 @@
 <title lang="en">Top Gear UK</title>
 <sub-title>Episode 6</sub-title>
 <desc lang="en">What will break first at sub-zero temperatures: a car or Richard Hammond? Contains Strong Language.</desc>
+<category lang="en">Reality</category>
 <category lang="en">Entertainment</category>
 <category lang="en">Series</category>
-<category lang="en">Reality</category>
 <episode-num system="original-air-date">20260628220334 +0000</episode-num>
 <icon src="https://images.pluto.tv/series/686bfa204541340bee847b9d/tile_1782627773429.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
@@ -36005,27 +35936,41 @@
 <title lang="en">Top Gear UK</title>
 <sub-title>Episode 1</sub-title>
 <desc lang="en">Jeremy Clarkson revs up this season with an insanely powerful Swedish supercar. Contains Strong Language.</desc>
+<category lang="en">Reality</category>
 <category lang="en">Entertainment</category>
 <category lang="en">Series</category>
-<category lang="en">Reality</category>
 <episode-num system="original-air-date">20260628231015 +0000</episode-num>
 <icon src="https://images.pluto.tv/series/686bfa204541340bee847b9d/tile_1782627773429.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
-<programme start="20260628113500 +0000" stop="20260628140200 +0000" channel="PlutoTV/us#645e7828e1979c00087b75b4">
-<title lang="en">Mud</title>
-<desc lang="en">On a Mississippi River island, two young friends (Tye Sheridan, Jacob Lofland) encounter a fugitive (Matthew McConaughey) whose wild tales about a beautiful woman and a line of bounty hunters come true.</desc>
+<programme start="20260629001748 +0000" stop="20260629013157 +0000" channel="PlutoTV/us#636adc255bcf470007d6e0e2">
+<title lang="en">Top Gear UK</title>
+<sub-title>Episode 3</sub-title>
+<desc lang="en">Is it possible to build a truly amphibious car? Contains Strong Language.</desc>
+<category lang="en">Reality</category>
 <category lang="en">Entertainment</category>
 <category lang="en">Series</category>
-<episode-num system="original-air-date">20260628113500 +0000</episode-num>
-<icon src="https://images.pluto.tv/series/6627395a4da6e300131912e4/tile.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
+<episode-num system="original-air-date">20260629001748 +0000</episode-num>
+<icon src="https://images.pluto.tv/series/686bfa204541340bee847b9d/tile_1782627773429.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
-<programme start="20260628140200 +0000" stop="20260628161500 +0000" channel="PlutoTV/us#645e7828e1979c00087b75b4">
-<title lang="en">Joe</title>
-<desc lang="en">The rough-hewn boss (Nicolas Cage) of a lumber crew courts trouble when he steps in to protect the youngest member (Tye Sheridan) of his team from an abusive father.</desc>
+<programme start="20260629013157 +0000" stop="20260629024440 +0000" channel="PlutoTV/us#636adc255bcf470007d6e0e2">
+<title lang="en">Top Gear UK</title>
+<sub-title>Episode 4</sub-title>
+<desc lang="en">The Porshe Cayenne Turbo S is put to the test. Contains Strong Language.</desc>
+<category lang="en">Reality</category>
 <category lang="en">Entertainment</category>
 <category lang="en">Series</category>
-<episode-num system="original-air-date">20260628140200 +0000</episode-num>
-<icon src="https://images.pluto.tv/series/64e6573ac94b1500136aa8a8/tile.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
+<episode-num system="original-air-date">20260629013157 +0000</episode-num>
+<icon src="https://images.pluto.tv/series/686bfa204541340bee847b9d/tile_1782627773429.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
+</programme>
+<programme start="20260629024440 +0000" stop="20260629035159 +0000" channel="PlutoTV/us#636adc255bcf470007d6e0e2">
+<title lang="en">Top Gear UK</title>
+<sub-title>Episode 5</sub-title>
+<desc lang="en">Top Gear gets in on world cup fever with car football. Contains Strong Language.</desc>
+<category lang="en">Reality</category>
+<category lang="en">Entertainment</category>
+<category lang="en">Series</category>
+<episode-num system="original-air-date">20260629024440 +0000</episode-num>
+<icon src="https://images.pluto.tv/series/686bfa204541340bee847b9d/tile_1782627773429.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
 <programme start="20260628161500 +0000" stop="20260628181000 +0000" channel="PlutoTV/us#645e7828e1979c00087b75b4">
 <title lang="en">The Shadow of Violence</title>
@@ -36058,6 +36003,22 @@
 <category lang="en">Series</category>
 <episode-num system="original-air-date">20260628220400 +0000</episode-num>
 <icon src="https://images.pluto.tv/series/6627395a4da6e300131912e4/tile.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
+</programme>
+<programme start="20260629003000 +0000" stop="20260629024300 +0000" channel="PlutoTV/us#645e7828e1979c00087b75b4">
+<title lang="en">Joe</title>
+<desc lang="en">The rough-hewn boss (Nicolas Cage) of a lumber crew courts trouble when he steps in to protect the youngest member (Tye Sheridan) of his team from an abusive father.</desc>
+<category lang="en">Entertainment</category>
+<category lang="en">Series</category>
+<episode-num system="original-air-date">20260629003000 +0000</episode-num>
+<icon src="https://images.pluto.tv/series/64e6573ac94b1500136aa8a8/tile.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
+</programme>
+<programme start="20260629024300 +0000" stop="20260629043800 +0000" channel="PlutoTV/us#645e7828e1979c00087b75b4">
+<title lang="en">The Shadow of Violence</title>
+<desc lang="en">A former boxer cares for his autistic son while working as an enforcer for a family of drug dealers in rural Ireland.</desc>
+<category lang="en">Entertainment</category>
+<category lang="en">Series</category>
+<episode-num system="original-air-date">20260629024300 +0000</episode-num>
+<icon src="https://images.pluto.tv/series/65de4d78794da50014653f72/tile.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900"/>
 </programme>
 <programme start="20260627230000 +0000" stop="20260628010000 +0000" channel="PremierSports1.ie@HD">
 <title lang="en">Top 14: Final - Toulouse v Montpellier</title>
@@ -36853,7 +36814,7 @@
 <title lang="id">Boboiboy Movie 2</title>
 </programme>
 <programme start="20260628143000 +0000" stop="20260628150000 +0000" channel="RajawaliTV.id@SD">
-<title lang="id">Boba - Bombastis Banget</title>
+<title lang="id">Boba - Really Bombastic</title>
 </programme>
 <programme start="20260628150000 +0000" stop="20260628153000 +0000" channel="RajawaliTV.id@SD">
 <title lang="id">Check In - Check Informasi</title>
@@ -36934,7 +36895,7 @@
 <title lang="id">Kokom - Kompilasi Komedi</title>
 </programme>
 <programme start="20260629180000 +0000" stop="20260629183000 +0000" channel="RajawaliTV.id@SD">
-<title lang="id">Cahaya Bagi Negeri</title>
+<title lang="id">Light for the State</title>
 </programme>
 <programme start="20260629183000 +0000" stop="20260629200000 +0000" channel="RajawaliTV.id@SD">
 <title lang="id">Movinesia</title>
@@ -39534,7 +39495,7 @@
 <title lang="id">Buser</title>
 </programme>
 <programme start="20260627220000 +0000" stop="20260627230000 +0000" channel="SCTV.id@SD">
-<title lang="id">6 AM coverage</title>
+<title lang="id">Liputan 6 Pagi</title>
 </programme>
 <programme start="20260627230000 +0000" stop="20260627233000 +0000" channel="SCTV.id@SD">
 <title lang="id">Point Of View</title>
@@ -39591,7 +39552,7 @@
 <title lang="id">Buser</title>
 </programme>
 <programme start="20260628220000 +0000" stop="20260628230000 +0000" channel="SCTV.id@SD">
-<title lang="id">6 AM coverage</title>
+<title lang="id">Liputan 6 Pagi</title>
 </programme>
 <programme start="20260628230000 +0000" stop="20260629000000 +0000" channel="SCTV.id@SD">
 <title lang="id">Hot Shot</title>
@@ -39645,7 +39606,7 @@
 <title lang="id">Buser</title>
 </programme>
 <programme start="20260629220000 +0000" stop="20260629230000 +0000" channel="SCTV.id@SD">
-<title lang="id">6 AM coverage</title>
+<title lang="id">Liputan 6 Pagi</title>
 </programme>
 <programme start="20260629230000 +0000" stop="20260630000000 +0000" channel="SCTV.id@SD">
 <title lang="id">Hello celebrities</title>
@@ -40942,7 +40903,7 @@
 <desc lang="sk">Record, Las Vegas</desc>
 </programme>
 <programme start="20260629083000 +0000" stop="20260629103000 +0000" channel="sport_1">
-<title lang="sk">Fotbal: Neapol - Juventus</title>
+<title lang="sk">Football: Naples - Juventus</title>
 <desc lang="sk">Record, Serie A, 14th round</desc>
 </programme>
 <programme start="20260629103000 +0000" stop="20260629123000 +0000" channel="sport_1">
@@ -41069,12 +41030,12 @@
 </programme>
 <programme start="20260628154500 +0000" stop="20260628174500 +0000" channel="sport_2">
 <title lang="sk">Tenis</title>
-<desc lang="sk">WTA 250, Eastbourne, semi-finals, (Sports)</desc>
+<desc lang="sk">WTA 250, Eastbourne, semifinále, (šport)</desc>
 <category lang="sk">šport</category>
 </programme>
 <programme start="20260628174500 +0000" stop="20260628194500 +0000" channel="sport_2">
 <title lang="sk">Tenis</title>
-<desc lang="sk">WTA 250, Eastbourne, semi-finals, (Sports)</desc>
+<desc lang="sk">WTA 250, Eastbourne, semifinále, (šport)</desc>
 <category lang="sk">šport</category>
 </programme>
 <programme start="20260628194500 +0000" stop="20260628214500 +0000" channel="sport_2">
@@ -41592,8 +41553,8 @@
 <category lang="pt">Desporto</category>
 </programme>
 <programme start="20260629135800 +0000" stop="20260629175800 +0000" channel="SportTV1.pt@SD">
-<title lang="pt">16 Avos Final 1: Football - FIFA World Cup 2026 (Recorded)</title>
-<desc lang="pt">Remember the football World Cup game.</desc>
+<title lang="pt">South Africa x Canada - 16th Final: Football - 2026 FIFA World Cup (Recorded)</title>
+<desc lang="pt">Remember the football World Cup game between South Africa and Canada.</desc>
 <category lang="pt">Futebol</category>
 <category lang="pt">Desporto</category>
 </programme>
@@ -41608,13 +41569,13 @@
 <category lang="pt">Futebol</category>
 <category lang="pt">Desporto</category>
 </programme>
-<programme start="20260629192800 +0000" stop="20260629195900 +0000" channel="SportTV1.pt@SD">
+<programme start="20260629192800 +0000" stop="20260629200000 +0000" channel="SportTV1.pt@SD">
 <title lang="pt">Football - FIFA World Cup 2026 (Long Summary)</title>
 <desc lang="pt">Extended summary of the World Cup football match between Brazil and Japan.</desc>
 <category lang="pt">Futebol</category>
 <category lang="pt">Desporto</category>
 </programme>
-<programme start="20260629195900 +0000" stop="20260629205000 +0000" channel="SportTV1.pt@SD">
+<programme start="20260629200000 +0000" stop="20260629205000 +0000" channel="SportTV1.pt@SD">
 <title lang="pt">French League - Magazine: Film of the Season - Destiny - pt. 3</title>
 <desc lang="pt">The most memorable moments of Ligue 1, the elite of French football. This magazine brings you a complete summary of the journey, highlighting the decisive victories, the luxurious individual displays and all the tactical excitement that defines the fight for the title and European places in France.</desc>
 <category lang="pt">Magazine de desporto</category>
@@ -41792,10 +41753,9 @@
 <category lang="pt">Desporto</category>
 </programme>
 <programme start="20260628123000 +0000" stop="20260628143600 +0000" channel="SportTV2.pt@SD">
-<title lang="pt">Stade Toulousain x Montpellier Herault - Final: Rugby - Top 14 (Recorded)</title>
-<desc lang="pt">Remember the TOP 14 rugby game, between Stade Toulousain and Montpellier Hérault SC.</desc>
-<category lang="pt">Rugby</category>
-<category lang="pt">Desportos de equipa</category>
+<title lang="pt">Eastbourne - Final: Ténis - ATP World Tour 250 2026 (Recorded)</title>
+<desc lang="pt">Relive the best moments of ATP 250. A detailed summary of the most balanced matches, the master moves and the decisive points that marked the journey. Follow the rise of new talents and the affirmation of veterans in the fight for fundamental titles on the world tennis circuit.</desc>
+<category lang="pt">Ténis</category>
 <category lang="pt">Desporto</category>
 </programme>
 <programme start="20260628143600 +0000" stop="20260628153300 +0000" channel="SportTV2.pt@SD">
@@ -41902,11 +41862,16 @@
 <desc lang="pt">No emission.</desc>
 <category lang="pt">Estilo de vida</category>
 </programme>
-<programme start="20260629195900 +0000" stop="20260630000000 +0000" channel="SportTV2.pt@SD">
+<programme start="20260629195900 +0000" stop="20260629235900 +0000" channel="SportTV2.pt@SD">
 <title lang="pt">Tennis - Wimbledon 2026 - Best Match of the Day (Remembered)</title>
 <desc lang="pt">Tennis - Wimbledon 2026 - Best Match of the Day (Remembered)</desc>
 <category lang="pt">Ténis</category>
 <category lang="pt">Desporto</category>
+</programme>
+<programme start="20260629235900 +0000" stop="20260630000000 +0000" channel="SportTV2.pt@SD">
+<title lang="pt">Out of Hours</title>
+<desc lang="pt">No emission.</desc>
+<category lang="pt">Estilo de vida</category>
 </programme>
 <programme start="20260630000000 +0000" stop="20260630005900 +0000" channel="SportTV2.pt@SD">
 <title lang="pt">Resumo do Dia 1 - Wimbledon 2026 - Highlights (Magazine)</title>
@@ -41954,11 +41919,16 @@
 <desc lang="pt">No emission.</desc>
 <category lang="pt">Estilo de vida</category>
 </programme>
-<programme start="20260630195900 +0000" stop="20260701000100 +0000" channel="SportTV2.pt@SD">
+<programme start="20260630195900 +0000" stop="20260630235900 +0000" channel="SportTV2.pt@SD">
 <title lang="pt">Tennis - Wimbledon 2026 - Best Match of the Day (Remembered)</title>
 <desc lang="pt">Tennis - Wimbledon 2026 - Best Match of the Day (Remembered)</desc>
 <category lang="pt">Ténis</category>
 <category lang="pt">Desporto</category>
+</programme>
+<programme start="20260630235900 +0000" stop="20260701000100 +0000" channel="SportTV2.pt@SD">
+<title lang="pt">Out of Hours</title>
+<desc lang="pt">No emission.</desc>
+<category lang="pt">Estilo de vida</category>
 </programme>
 <programme start="20260628014300 +0000" stop="20260628034300 +0000" channel="SportTV3.pt@SD">
 <title lang="pt">No Emission</title>
@@ -41993,24 +41963,42 @@
 <category lang="pt">Magazine de desporto</category>
 <category lang="pt">Desporto</category>
 </programme>
-<programme start="20260628080000 +0000" stop="20260628100000 +0000" channel="SportTV3.pt@SD">
-<title lang="pt">KPMG Women's PGA Championship (Recorded)</title>
-<desc lang="pt">KPMG Women's PGA Championship (Recorded)</desc>
-<category lang="pt">Golfe</category>
+<programme start="20260628080000 +0000" stop="20260628083000 +0000" channel="SportTV3.pt@SD">
+<title lang="pt">NBA Action</title>
+<desc lang="pt">Weekly magazine dedicated to the biggest basketball competition in the world.</desc>
+<category lang="pt">Magazine de desporto</category>
 <category lang="pt">Desporto</category>
 </programme>
-<programme start="20260628100000 +0000" stop="20260628140000 +0000" channel="SportTV3.pt@SD">
+<programme start="20260628083000 +0000" stop="20260628123000 +0000" channel="SportTV3.pt@SD">
 <title lang="pt">Open Itália - Dia 4 - DP World Tour (Live)</title>
 <desc lang="pt">Follow DP World Tour decisions live. Feel the precision and mental control of the world's golf elite in tournaments like the ISPS HANDA Championship, where every shot and strategy on the greens decides who climbs the rankings towards the grand final in Dubai.</desc>
 <category lang="pt">Golfe</category>
 <category lang="pt">Desporto</category>
 </programme>
-<programme start="20260628140000 +0000" stop="20260628145900 +0000" channel="SportTV3.pt@SD">
+<programme start="20260628123000 +0000" stop="20260628133000 +0000" channel="SportTV3.pt@SD">
 <title lang="pt">Out of Hours</title>
 <desc lang="pt">No emission.</desc>
 <category lang="pt">Estilo de vida</category>
 </programme>
-<programme start="20260628145900 +0000" stop="20260628152700 +0000" channel="SportTV3.pt@SD">
+<programme start="20260628133000 +0000" stop="20260628142000 +0000" channel="SportTV3.pt@SD">
+<title lang="pt">World Surf League - Inside Pro 2026 (Magazine)</title>
+<desc lang="pt">Behind the scenes and analysis of the world circuit at Inside Pro of the World Surf League. This magazine highlights the spectacular maneuvers, training routines and stories of elite surfers as they seek to win a world title and dominate the most iconic waves on the planet.</desc>
+<category lang="pt">Magazine de desporto</category>
+<category lang="pt">Desporto</category>
+</programme>
+<programme start="20260628142000 +0000" stop="20260628145000 +0000" channel="SportTV3.pt@SD">
+<title lang="pt">NBA - On Fire</title>
+<desc lang="pt">Follow the pulse of the best league in the world on NBA On Fire. This magazine brings you summaries of the most spectacular plays, analysis of the great duels and the statistics that define the stars of North American basketball, keeping you up to date with all the excitement at the pavilion.</desc>
+<category lang="pt">Magazine de desporto</category>
+<category lang="pt">Desporto</category>
+</programme>
+<programme start="20260628145000 +0000" stop="20260628150000 +0000" channel="SportTV3.pt@SD">
+<title lang="pt">PCCA 2026 Modalities (Magazine)</title>
+<desc lang="pt">PCCA 2026 Modalities (Magazine)</desc>
+<category lang="pt">Magazine de desporto</category>
+<category lang="pt">Desporto</category>
+</programme>
+<programme start="20260628150000 +0000" stop="20260628152700 +0000" channel="SportTV3.pt@SD">
 <title lang="pt">Golf &amp; Golfistas</title>
 <desc lang="pt">The essential magazine for lovers of the sport. Golf &amp; Golfistas offers a privileged view of major tournaments, the most prestigious courses and the golf lifestyle. Discover exclusive interviews, technical tips and all the latest news from the national and international circuit.</desc>
 <category lang="pt">Magazine de desporto</category>
@@ -44893,7 +44881,7 @@
 <title lang="id">Obrolan Tiap Waktu</title>
 </programme>
 <programme start="20260628041500 +0000" stop="20260628050000 +0000" channel="Trans7.id@SD">
-<title lang="id">Enaknya Mantul</title>
+<title lang="id">Mantul is delicious</title>
 </programme>
 <programme start="20260628050000 +0000" stop="20260628054500 +0000" channel="Trans7.id@SD">
 <title lang="id">Jejak Petualangan</title>
@@ -44986,7 +44974,7 @@
 <title lang="id">Makan Receh</title>
 </programme>
 <programme start="20260629100000 +0000" stop="20260629110000 +0000" channel="Trans7.id@SD">
-<title lang="id">Selebrita Update</title>
+<title lang="id">Celebrity Update</title>
 </programme>
 <programme start="20260629110000 +0000" stop="20260629114500 +0000" channel="Trans7.id@SD">
 <title lang="id">On The Spot</title>
@@ -45067,7 +45055,7 @@
 <title lang="id">Makan Receh</title>
 </programme>
 <programme start="20260630100000 +0000" stop="20260630110000 +0000" channel="Trans7.id@SD">
-<title lang="id">Selebrita Update</title>
+<title lang="id">Celebrity Update</title>
 </programme>
 <programme start="20260630110000 +0000" stop="20260630114500 +0000" channel="Trans7.id@SD">
 <title lang="id">On The Spot</title>
@@ -45276,21 +45264,6 @@
 <programme start="20260630150000 +0000" stop="20260630165959 +0000" channel="TransTV.id@SD">
 <title lang="id">Bioskop TransTV - The Outpost</title>
 </programme>
-<programme start="20260628110000 +0000" stop="20260628120000 +0000" channel="TSN1.ca@SD">
-<title lang="fr">Sports centers</title>
-</programme>
-<programme start="20260628120000 +0000" stop="20260628130000 +0000" channel="TSN1.ca@SD">
-<title lang="fr">Sports centers</title>
-</programme>
-<programme start="20260628130000 +0000" stop="20260628140000 +0000" channel="TSN1.ca@SD">
-<title lang="fr">Sports centers</title>
-</programme>
-<programme start="20260628140000 +0000" stop="20260628150000 +0000" channel="TSN1.ca@SD">
-<title lang="fr">Sports centers</title>
-</programme>
-<programme start="20260628150000 +0000" stop="20260628153000 +0000" channel="TSN1.ca@SD">
-<title lang="fr">FIFA World Cup Highlight Show</title>
-</programme>
 <programme start="20260628153000 +0000" stop="20260628160000 +0000" channel="TSN1.ca@SD">
 <title lang="fr">Canada at the World Cup</title>
 </programme>
@@ -45354,7 +45327,7 @@
 <programme start="20260629083000 +0000" stop="20260629093000 +0000" channel="TSN1.ca@SD">
 <title lang="fr">Sports centers</title>
 </programme>
-<programme start="20260629093000 +0000" stop="20260629100000 +0000" channel="TSN1.ca@SD">
+<programme start="20260629093000 +0000" stop="20260629103000 +0000" channel="TSN1.ca@SD">
 <title lang="fr">Sports centers</title>
 </programme>
 <programme start="20260629093000 +0000" stop="20260629103000 +0000" channel="TSN1.ca@SD">
@@ -45363,13 +45336,28 @@
 <programme start="20260629103000 +0000" stop="20260629113000 +0000" channel="TSN1.ca@SD">
 <title lang="fr">Sports centers</title>
 </programme>
+<programme start="20260629103000 +0000" stop="20260629113000 +0000" channel="TSN1.ca@SD">
+<title lang="fr">Sports centers</title>
+</programme>
+<programme start="20260629113000 +0000" stop="20260629123000 +0000" channel="TSN1.ca@SD">
+<title lang="fr">Sports centers</title>
+</programme>
 <programme start="20260629113000 +0000" stop="20260629123000 +0000" channel="TSN1.ca@SD">
 <title lang="fr">Sports centers</title>
 </programme>
 <programme start="20260629123000 +0000" stop="20260629133000 +0000" channel="TSN1.ca@SD">
 <title lang="fr">Sports centers</title>
 </programme>
+<programme start="20260629123000 +0000" stop="20260629133000 +0000" channel="TSN1.ca@SD">
+<title lang="fr">Sports centers</title>
+</programme>
 <programme start="20260629133000 +0000" stop="20260629143000 +0000" channel="TSN1.ca@SD">
+<title lang="fr">Sports centers</title>
+</programme>
+<programme start="20260629133000 +0000" stop="20260629143000 +0000" channel="TSN1.ca@SD">
+<title lang="fr">Sports centers</title>
+</programme>
+<programme start="20260629143000 +0000" stop="20260629150000 +0000" channel="TSN1.ca@SD">
 <title lang="fr">Sports centers</title>
 </programme>
 <programme start="20260629143000 +0000" stop="20260629153000 +0000" channel="TSN1.ca@SD">
@@ -45464,36 +45452,6 @@
 </programme>
 <programme start="20260701030000 +0000" stop="20260701033000 +0000" channel="TSN1.ca@SD">
 <title lang="fr">World Cup Tonight</title>
-</programme>
-<programme start="20260628103000 +0000" stop="20260628110000 +0000" channel="TSN2.ca@SD">
-<title lang="fr">Canada at the World Cup</title>
-</programme>
-<programme start="20260628110000 +0000" stop="20260628113000 +0000" channel="TSN2.ca@SD">
-<title lang="fr">FIFA World Cup Highlight Show</title>
-</programme>
-<programme start="20260628113000 +0000" stop="20260628120000 +0000" channel="TSN2.ca@SD">
-<title lang="fr">Canada at the World Cup</title>
-</programme>
-<programme start="20260628120000 +0000" stop="20260628123000 +0000" channel="TSN2.ca@SD">
-<title lang="fr">FIFA World Cup Highlight Show</title>
-</programme>
-<programme start="20260628123000 +0000" stop="20260628130000 +0000" channel="TSN2.ca@SD">
-<title lang="fr">Canada at the World Cup</title>
-</programme>
-<programme start="20260628130000 +0000" stop="20260628133000 +0000" channel="TSN2.ca@SD">
-<title lang="fr">FIFA World Cup Highlight Show</title>
-</programme>
-<programme start="20260628133000 +0000" stop="20260628140000 +0000" channel="TSN2.ca@SD">
-<title lang="fr">Canada at the World Cup</title>
-</programme>
-<programme start="20260628140000 +0000" stop="20260628143000 +0000" channel="TSN2.ca@SD">
-<title lang="fr">FIFA World Cup Highlight Show</title>
-</programme>
-<programme start="20260628143000 +0000" stop="20260628150000 +0000" channel="TSN2.ca@SD">
-<title lang="fr">Canada at the World Cup</title>
-</programme>
-<programme start="20260628150000 +0000" stop="20260628153000 +0000" channel="TSN2.ca@SD">
-<title lang="fr">FIFA World Cup Highlight Show</title>
 </programme>
 <programme start="20260628153000 +0000" stop="20260628160000 +0000" channel="TSN2.ca@SD">
 <title lang="fr">Canada at the World Cup</title>
@@ -45681,21 +45639,6 @@
 <programme start="20260701030000 +0000" stop="20260701033000 +0000" channel="TSN2.ca@SD">
 <title lang="fr">Wimbledon Primetime</title>
 </programme>
-<programme start="20260628110000 +0000" stop="20260628120000 +0000" channel="TSN3.ca@SD">
-<title lang="fr">Sports centers</title>
-</programme>
-<programme start="20260628120000 +0000" stop="20260628130000 +0000" channel="TSN3.ca@SD">
-<title lang="fr">Sports centers</title>
-</programme>
-<programme start="20260628130000 +0000" stop="20260628140000 +0000" channel="TSN3.ca@SD">
-<title lang="fr">Sports centers</title>
-</programme>
-<programme start="20260628140000 +0000" stop="20260628150000 +0000" channel="TSN3.ca@SD">
-<title lang="fr">Sports centers</title>
-</programme>
-<programme start="20260628150000 +0000" stop="20260628153000 +0000" channel="TSN3.ca@SD">
-<title lang="fr">FIFA World Cup Highlight Show</title>
-</programme>
 <programme start="20260628153000 +0000" stop="20260628160000 +0000" channel="TSN3.ca@SD">
 <title lang="fr">Canada at the World Cup</title>
 </programme>
@@ -45765,7 +45708,7 @@
 <programme start="20260629083000 +0000" stop="20260629093000 +0000" channel="TSN3.ca@SD">
 <title lang="fr">Sports centers</title>
 </programme>
-<programme start="20260629093000 +0000" stop="20260629100000 +0000" channel="TSN3.ca@SD">
+<programme start="20260629093000 +0000" stop="20260629103000 +0000" channel="TSN3.ca@SD">
 <title lang="fr">Sports centers</title>
 </programme>
 <programme start="20260629093000 +0000" stop="20260629103000 +0000" channel="TSN3.ca@SD">
@@ -45774,13 +45717,28 @@
 <programme start="20260629103000 +0000" stop="20260629113000 +0000" channel="TSN3.ca@SD">
 <title lang="fr">Sports centers</title>
 </programme>
+<programme start="20260629103000 +0000" stop="20260629113000 +0000" channel="TSN3.ca@SD">
+<title lang="fr">Sports centers</title>
+</programme>
+<programme start="20260629113000 +0000" stop="20260629123000 +0000" channel="TSN3.ca@SD">
+<title lang="fr">Sports centers</title>
+</programme>
 <programme start="20260629113000 +0000" stop="20260629123000 +0000" channel="TSN3.ca@SD">
 <title lang="fr">Sports centers</title>
 </programme>
 <programme start="20260629123000 +0000" stop="20260629133000 +0000" channel="TSN3.ca@SD">
 <title lang="fr">Sports centers</title>
 </programme>
+<programme start="20260629123000 +0000" stop="20260629133000 +0000" channel="TSN3.ca@SD">
+<title lang="fr">Sports centers</title>
+</programme>
 <programme start="20260629133000 +0000" stop="20260629143000 +0000" channel="TSN3.ca@SD">
+<title lang="fr">Sports centers</title>
+</programme>
+<programme start="20260629133000 +0000" stop="20260629143000 +0000" channel="TSN3.ca@SD">
+<title lang="fr">Sports centers</title>
+</programme>
+<programme start="20260629143000 +0000" stop="20260629150000 +0000" channel="TSN3.ca@SD">
 <title lang="fr">Sports centers</title>
 </programme>
 <programme start="20260629143000 +0000" stop="20260629153000 +0000" channel="TSN3.ca@SD">
@@ -45876,21 +45834,6 @@
 <programme start="20260701030000 +0000" stop="20260701033000 +0000" channel="TSN3.ca@SD">
 <title lang="fr">World Cup Tonight</title>
 </programme>
-<programme start="20260628110000 +0000" stop="20260628120000 +0000" channel="TSN4.ca@SD">
-<title lang="fr">Sports centers</title>
-</programme>
-<programme start="20260628120000 +0000" stop="20260628130000 +0000" channel="TSN4.ca@SD">
-<title lang="fr">Sports centers</title>
-</programme>
-<programme start="20260628130000 +0000" stop="20260628140000 +0000" channel="TSN4.ca@SD">
-<title lang="fr">Sports centers</title>
-</programme>
-<programme start="20260628140000 +0000" stop="20260628150000 +0000" channel="TSN4.ca@SD">
-<title lang="fr">Sports centers</title>
-</programme>
-<programme start="20260628150000 +0000" stop="20260628153000 +0000" channel="TSN4.ca@SD">
-<title lang="fr">FIFA World Cup Highlight Show</title>
-</programme>
 <programme start="20260628153000 +0000" stop="20260628160000 +0000" channel="TSN4.ca@SD">
 <title lang="fr">Canada at the World Cup</title>
 </programme>
@@ -45960,7 +45903,7 @@
 <programme start="20260629090000 +0000" stop="20260629100000 +0000" channel="TSN4.ca@SD">
 <title lang="fr">SC With Jay and Dan</title>
 </programme>
-<programme start="20260629100000 +0000" stop="20260629103000 +0000" channel="TSN4.ca@SD">
+<programme start="20260629100000 +0000" stop="20260629110000 +0000" channel="TSN4.ca@SD">
 <title lang="fr">SC With Jay and Dan</title>
 </programme>
 <programme start="20260629100000 +0000" stop="20260629110000 +0000" channel="TSN4.ca@SD">
@@ -45969,13 +45912,28 @@
 <programme start="20260629110000 +0000" stop="20260629120000 +0000" channel="TSN4.ca@SD">
 <title lang="fr">SC With Jay and Dan</title>
 </programme>
+<programme start="20260629110000 +0000" stop="20260629120000 +0000" channel="TSN4.ca@SD">
+<title lang="fr">SC With Jay and Dan</title>
+</programme>
+<programme start="20260629120000 +0000" stop="20260629130000 +0000" channel="TSN4.ca@SD">
+<title lang="fr">SC With Jay and Dan</title>
+</programme>
 <programme start="20260629120000 +0000" stop="20260629130000 +0000" channel="TSN4.ca@SD">
 <title lang="fr">SC With Jay and Dan</title>
 </programme>
 <programme start="20260629130000 +0000" stop="20260629140000 +0000" channel="TSN4.ca@SD">
 <title lang="fr">SC With Jay and Dan</title>
 </programme>
+<programme start="20260629130000 +0000" stop="20260629140000 +0000" channel="TSN4.ca@SD">
+<title lang="fr">SC With Jay and Dan</title>
+</programme>
 <programme start="20260629140000 +0000" stop="20260629150000 +0000" channel="TSN4.ca@SD">
+<title lang="fr">SC With Jay and Dan</title>
+</programme>
+<programme start="20260629140000 +0000" stop="20260629150000 +0000" channel="TSN4.ca@SD">
+<title lang="fr">SC With Jay and Dan</title>
+</programme>
+<programme start="20260629150000 +0000" stop="20260629153000 +0000" channel="TSN4.ca@SD">
 <title lang="fr">SC With Jay and Dan</title>
 </programme>
 <programme start="20260629150000 +0000" stop="20260629160000 +0000" channel="TSN4.ca@SD">
@@ -46064,18 +46022,6 @@
 </programme>
 <programme start="20260701030000 +0000" stop="20260701033000 +0000" channel="TSN4.ca@SD">
 <title lang="fr">World Cup Tonight</title>
-</programme>
-<programme start="20260628110000 +0000" stop="20260628113000 +0000" channel="TSN5.ca@SD">
-<title lang="fr">Sports centers</title>
-</programme>
-<programme start="20260628113000 +0000" stop="20260628125500 +0000" channel="TSN5.ca@SD">
-<title lang="fr">Formula One on the Grid</title>
-</programme>
-<programme start="20260628125500 +0000" stop="20260628150000 +0000" channel="TSN5.ca@SD">
-<title lang="fr">Austrian Grand Prix</title>
-</programme>
-<programme start="20260628150000 +0000" stop="20260628160000 +0000" channel="TSN5.ca@SD">
-<title lang="fr">Paddock Live</title>
 </programme>
 <programme start="20260628160000 +0000" stop="20260628170000 +0000" channel="TSN5.ca@SD">
 <title lang="fr">2025-26 Formula E Highlights</title>
@@ -46234,7 +46180,7 @@
 </programme>
 <programme start="20260627233000 +0000" stop="20260628000000 +0000" channel="TV9Nusantara.id@SD">
 <title lang="id">Religious Music</title>
-<desc lang="id">Religious Music Program</desc>
+<desc lang="id">Program Musik Religi</desc>
 </programme>
 <programme start="20260628000000 +0000" stop="20260628010000 +0000" channel="TV9Nusantara.id@SD">
 <title lang="id">Shallu Alan Nabi Putri</title>
@@ -46246,7 +46192,7 @@
 </programme>
 <programme start="20260628020000 +0000" stop="20260628030000 +0000" channel="TV9Nusantara.id@SD">
 <title lang="id">Prophet Yusuf's Religious Cinema</title>
-<desc lang="id">Program sinema religi nabi yusuf</desc>
+<desc lang="id">Prophet Yusuf's religious cinema program</desc>
 </programme>
 <programme start="20260628030000 +0000" stop="20260628033000 +0000" channel="TV9Nusantara.id@SD">
 <title lang="id">Drama Indonesia 30 Menit</title>
@@ -46262,7 +46208,7 @@
 </programme>
 <programme start="20260628050000 +0000" stop="20260628060000 +0000" channel="TV9Nusantara.id@SD">
 <title lang="id">Uswah</title>
-<desc lang="id">Religious Music Program</desc>
+<desc lang="id">Program Musik Religi</desc>
 </programme>
 <programme start="20260628060000 +0000" stop="20260628070000 +0000" channel="TV9Nusantara.id@SD">
 <title lang="id">Drama Indonesia 60 Mnt</title>
@@ -46274,7 +46220,7 @@
 </programme>
 <programme start="20260628080000 +0000" stop="20260628090000 +0000" channel="TV9Nusantara.id@SD">
 <title lang="id">Kiswah Kh Yusron Hasyim Muzadi</title>
-<desc lang="id">Religious Music Program</desc>
+<desc lang="id">Program Musik Religi</desc>
 </programme>
 <programme start="20260628090000 +0000" stop="20260628093000 +0000" channel="TV9Nusantara.id@SD">
 <title lang="id">Religious Tourism</title>
@@ -47019,7 +46965,7 @@
 <image>https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e126_l_m.jpg</image>
 </programme>
 <programme start="20260628123100 +0000" stop="20260628145200 +0000" channel="WarnerChannel.us@Mexico">
-<title lang="es">Batman begins</title>
+<title lang="es">Batman inicia</title>
 <desc lang="es">After his parents are murdered, little Bruce wants to take revenge. After tough training abroad, Bruce returns to Gotham City to fight crime and corruption, unleashing his alter ego: Batman.</desc>
 <category lang="es">Batman BeginsAcción / 2005</category>
 <image>https://cdn.mitvstatic.com/programs/mx_batman-inicia-2005-1_l_m.jpg</image>
@@ -47516,18 +47462,6 @@
 <category lang="es">ItTerror / 2017 / 7.4</category>
 <image>https://cdn.mitvstatic.com/programs/mx_eso-2017_l_m.jpg</image>
 </programme>
-<programme start="20260628100000 +0000" stop="20260628120000 +0000" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/32281">
-<title lang="es">NBA Shot Clock: Best Games of the Month</title>
-<sub-title lang="es">November</sub-title>
-<desc lang="es">The best NBA games of the month in a condensed format.</desc>
-<icon src="https://zap2it.tmsimg.com/assets/p31889485_b_v13_aa.jpg"/>
-</programme>
-<programme start="20260628120000 +0000" stop="20260628140000 +0000" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/32281">
-<title lang="es">NBA Shot Clock: Best Games of the Month</title>
-<sub-title lang="es">December</sub-title>
-<desc lang="es">The best NBA games of the month in a condensed format.</desc>
-<icon src="https://zap2it.tmsimg.com/assets/p31889485_b_v13_aa.jpg"/>
-</programme>
 <programme start="20260628140000 +0000" stop="20260628160000 +0000" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/32281">
 <title lang="es">NBA Shot Clock: Best Games of the Month</title>
 <sub-title lang="es">January</sub-title>
@@ -47567,27 +47501,6 @@
 <sub-title lang="es">March</sub-title>
 <desc lang="es">The best NBA games of the month in a condensed format.</desc>
 <icon src="https://zap2it.tmsimg.com/assets/p31889485_b_v13_aa.jpg"/>
-</programme>
-<programme start="20260629093000 +0000" stop="20260629113000 +0000" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/32281">
-<title lang="es">NBA Playback</title>
-<sub-title lang="es">2026 NBA Playoffs: New York vs. Philadelphia: Game 2</sub-title>
-<desc lang="es">Semifinal.</desc>
-<episode-num system="xmltv_ns">0.193.0/1</episode-num>
-<episode-num system="onscreen">S01E194</episode-num>
-<icon src="https://zap2it.tmsimg.com/assets/p31717868_b_v13_aa.jpg"/>
-</programme>
-<programme start="20260629113000 +0000" stop="20260629130000 +0000" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/32281">
-<title lang="es">WNBA Playback</title>
-<desc lang="es">Replay action from a WNBA matchup.</desc>
-<icon src="https://zap2it.tmsimg.com/assets/p33371994_b_v13_aa.jpg"/>
-</programme>
-<programme start="20260629130000 +0000" stop="20260629150000 +0000" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/32281">
-<title lang="es">WNBA Shot Clock: Games of the Week</title>
-<sub-title lang="es">6/19-6/25</sub-title>
-<desc lang="es">The best WNBA games of the week in a condensed format.</desc>
-<episode-num system="xmltv_ns">0.6.0/1</episode-num>
-<episode-num system="onscreen">S01E07</episode-num>
-<icon src="https://zap2it.tmsimg.com/assets/p33009297_b_v9_ab.jpg"/>
 </programme>
 <programme start="20260629150000 +0000" stop="20260629160000 +0000" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/32281">
 <title lang="es">Enjoy the NBA Trivia Show: NBA Draft Edition</title>
@@ -47650,24 +47563,6 @@
 <desc lang="es">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
 <icon src="https://zap2it.tmsimg.com/assets/p31467076_b_v10_aa.jpg"/>
 </programme>
-<programme start="20260628100000 +0000" stop="20260628113000 +0000" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/82541">
-<title lang="es">FIFA World Cup 2026</title>
-<sub-title lang="es">Group J: Algeria vs. Austria</sub-title>
-<desc lang="es">Algeria and Austria face off in a Group J match of the FIFA World Cup at Kansas City Stadium. Algeria won 2-1 against Jordan with goals scored by Amine Gouiri and Nadhir Benbouali. Austria hopes to bounce back after a 2-0 loss against Argentina.</desc>
-<icon src="https://zap2it.tmsimg.com/assets/GNLZZGG00373ZZF.jpg"/>
-</programme>
-<programme start="20260628113000 +0000" stop="20260628130000 +0000" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/82541">
-<title lang="es">MotoGP Racing</title>
-<sub-title lang="es">Grand Prix of The Netherlands</sub-title>
-<desc lang="es">From TT Circuit Assen in Drenthe, Netherlands.</desc>
-<icon src="https://zap2it.tmsimg.com/assets/p445587_b_v13_ah.jpg"/>
-</programme>
-<programme start="20260628130000 +0000" stop="20260628150000 +0000" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/82541">
-<title lang="es">FIFA World Cup 2026</title>
-<sub-title lang="es">Group K: Colombia vs. Portugal</sub-title>
-<desc lang="es">Colombia battles against Portugal in a Group K match of the FIFA World Cup at Miami Stadium. Colombia won against Congo DR 1-0 with a goal scored by Daniel Muñoz. Cristiano Ronaldo scored twice for Portugal, winning against Uzbekistan 5-0.</desc>
-<icon src="https://zap2it.tmsimg.com/assets/GNLZZGG00379294.jpg"/>
-</programme>
 <programme start="20260628150000 +0000" stop="20260628160000 +0000" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/82541">
 <title lang="es">NHRA Drag Racing</title>
 <sub-title lang="es">Pro Stock All-Star Callout</sub-title>
@@ -47691,32 +47586,6 @@
 <sub-title lang="es">Group D: USA vs. Paraguay</sub-title>
 <desc lang="es">The United States and Paraguay compete in the first match of Group D in the FIFA World Cup. Weston McKennie leads the United States squad while Paraguay features midfielder Diego Gomez. The United States plays at home in Los Angeles.</desc>
 <icon src="https://zap2it.tmsimg.com/assets/GNLZZGG0035LCN4.jpg"/>
-</programme>
-<programme start="20260629090000 +0000" stop="20260629110000 +0000" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/82541">
-<title lang="es">FIFA World Cup 2026</title>
-<sub-title lang="es">Round of 32: South Africa vs. Canada</sub-title>
-<desc lang="es">South Africa faces Canada in a Round of 32 match of the FIFA World Cup at Los Angeles Stadium. South Africa finished second with a 1-0 win to Korea Republic in the final Group A match. Canada was second in Group B after a 1-2 loss to Switzerland.</desc>
-<icon src="https://zap2it.tmsimg.com/assets/GNLZZGG0037FQ4V.jpg"/>
-</programme>
-<programme start="20260629110000 +0000" stop="20260629120000 +0000" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/82541">
-<title lang="es">FIFA World Cup on FOX After Hours With James Corden</title>
-<desc lang="es">James Corden is joined by former England national team captain Rio Ferdinand and comedian Ian Karmel to spotlight the tournament's most talked-about moments and storylines of the day; guest appearances from the biggest names in culture and soccer.</desc>
-<episode-num system="xmltv_ns">0.10.0/1</episode-num>
-<episode-num system="onscreen">S01E11</episode-num>
-<rating>
-<value>TV-14</value>
-</rating>
-<icon src="https://zap2it.tmsimg.com/assets/p33088477_b_v13_aa.jpg"/>
-</programme>
-<programme start="20260629120000 +0000" stop="20260629140000 +0000" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/82541">
-<title lang="es">Wake Up Barstool</title>
-<desc lang="es">Dave Portnoy, Big Cat, PFT, and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.</desc>
-<episode-num system="xmltv_ns">0.126.0/1</episode-num>
-<episode-num system="onscreen">S01E127</episode-num>
-<rating>
-<value>TV-14</value>
-</rating>
-<icon src="https://zap2it.tmsimg.com/assets/p31051666_b_v10_ac.jpg"/>
 </programme>
 <programme start="20260629140000 +0000" stop="20260629160000 +0000" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/82541">
 <title lang="es">First Things First</title>
@@ -47847,7 +47716,7 @@
 <category lang="id">Entertainment</category>
 </programme>
 <programme start="20260629020000 +0000" stop="20260629050000 +0000" channel="ZeeBioskop.id@SD">
-<title lang="id">Good Newwz</title>
+<title lang="id">Good News</title>
 <category lang="id">Movies</category>
 <category lang="id">Drama</category>
 <category lang="id">Comedy</category>
@@ -53250,7 +53119,7 @@
 </programme>
 <programme channel="AMC+.us2" start="20260630130400 +0000" stop="20260630134800 +0000">
 <title lang="en">True Crime Story</title>
-<sub-title lang="en">Smugshot: Affluenza</sub-title>
+<sub-title lang="en">Smugshot: Turnout</sub-title>
 <desc lang="en">A wealthy Texas teen has a deadly drunk driving accident; his lawyers claim he suffers from affluenza, and it works, no jail time; caught violating his probation, he flees to Mexico, but there is more to this story than just the headlines.</desc>
 <credits>
 <actor>Hilarie Burton Morgan</actor>
@@ -53619,7 +53488,7 @@
 </programme>
 <programme channel="AMC+.us2" start="20260701021600 +0000" stop="20260701030000 +0000">
 <title lang="en">True Crime Story</title>
-<sub-title lang="en">Smugshot: Affluenza</sub-title>
+<sub-title lang="en">Smugshot: Turnout</sub-title>
 <desc lang="en">A wealthy Texas teen has a deadly drunk driving accident; his lawyers claim he suffers from affluenza, and it works, no jail time; caught violating his probation, he flees to Mexico, but there is more to this story than just the headlines.</desc>
 <credits>
 <actor>Hilarie Burton Morgan</actor>
@@ -54690,7 +54559,7 @@
 <programme start="20260628160000 +0000" stop="20260628221000 +0000" channel="Motorvisionplus.de">
 <title>IMSA WeatherTech SportsCar Championship 2026</title>
 <sub-title/>
-<desc>Sahlen's Six Hours of The Glen, Watkins Glen International RacewayDie Sendereihe überträgt die Rennen der IMSA WeatherTech SportsCar Championship.</desc>
+<desc>Sahlen's Six Hours of The Glen, Watkins Glen International RacewayThe broadcast series broadcasts the races of the IMSA WeatherTech SportsCar Championship.</desc>
 <episode-num system="xmltv_ns"/>
 </programme>
 <programme start="20260628221000 +0000" stop="20260628231000 +0000" channel="Motorvisionplus.de">
@@ -54708,7 +54577,7 @@
 <programme start="20260629010000 +0000" stop="20260629024000 +0000" channel="Motorvisionplus.de">
 <title>NTT Indycar Series 2026 Qualifying</title>
 <sub-title/>
-<desc>Java House Grand Prix of Arlington: Qualifying broadcast of IndyCar Series races.</desc>
+<desc>Java House Grand Prix of Arlington: QualifyingÜbertragung von Rennen der IndyCar Serie.</desc>
 <episode-num system="xmltv_ns"/>
 </programme>
 <programme start="20260629024000 +0000" stop="20260629040000 +0000" channel="Motorvisionplus.de">
@@ -55566,7 +55435,7 @@
 <programme start="20260628234700 +0000" stop="20260629001600 +0000" channel="RedBullTV.de">
 <title>Prime Minister has fallen</title>
 <sub-title/>
-<desc>E25 — 2025 Qatar Major, HighlightsSpektakuläre Ballwechsel und intensive Matches prägen das Event im Khalifa International Complex.</desc>
+<desc>E25 — 2025 Qatar Major, highlightsSpectacular rallies and intense matches characterize the event at the Khalifa International Complex.</desc>
 <episode-num system="xmltv_ns"/>
 </programme>
 <programme start="20260629001600 +0000" stop="20260629012300 +0000" channel="RedBullTV.de">
@@ -55602,7 +55471,7 @@
 <programme start="20260629040000 +0000" stop="20260629042800 +0000" channel="RedBullTV.de">
 <title>Prime Minister has fallen</title>
 <sub-title/>
-<desc>E25 — 2025 Qatar Major, HighlightsSpektakuläre Ballwechsel und intensive Matches prägen das Event im Khalifa International Complex.</desc>
+<desc>E25 — 2025 Qatar Major, highlightsSpectacular rallies and intense matches characterize the event at the Khalifa International Complex.</desc>
 <episode-num system="xmltv_ns"/>
 </programme>
 <programme start="20260629042800 +0000" stop="20260629045900 +0000" channel="RedBullTV.de">
