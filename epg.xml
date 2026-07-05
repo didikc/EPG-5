@@ -11323,7 +11323,7 @@
 <title lang="id">Prime News</title>
 </programme>
 <programme start="20260703211500 +0000" stop="20260703214500 +0000" channel="CNNIndonesia.id@SD">
-<title lang="id">Editorial</title>
+<title lang="id">Redaksi</title>
 </programme>
 <programme start="20260703214500 +0000" stop="20260703223000 +0000" channel="CNNIndonesia.id@SD">
 <title lang="id">Gapai Kemuliaan</title>
@@ -11404,7 +11404,7 @@
 <title lang="id">Prime News</title>
 </programme>
 <programme start="20260704211500 +0000" stop="20260704214500 +0000" channel="CNNIndonesia.id@SD">
-<title lang="id">Editorial</title>
+<title lang="id">Redaksi</title>
 </programme>
 <programme start="20260704214500 +0000" stop="20260704223000 +0000" channel="CNNIndonesia.id@SD">
 <title lang="id">Gapai Kemuliaan</title>
@@ -11521,7 +11521,7 @@
 <title lang="id">CNN Indonesia New Day</title>
 </programme>
 <programme start="20260706071500 +0000" stop="20260706080000 +0000" channel="CNNIndonesia.id@SD">
-<title lang="id">Editorial</title>
+<title lang="id">Redaksi</title>
 </programme>
 <programme start="20260706080000 +0000" stop="20260706090000 +0000" channel="CNNIndonesia.id@SD">
 <title lang="id">Track Crime</title>
@@ -11533,7 +11533,7 @@
 <title lang="id">CNN Indonesia Newsroom</title>
 </programme>
 <programme start="20260706111500 +0000" stop="20260706114500 +0000" channel="CNNIndonesia.id@SD">
-<title lang="id">Editorial</title>
+<title lang="id">Redaksi</title>
 </programme>
 <programme start="20260706114500 +0000" stop="20260706120000 +0000" channel="CNNIndonesia.id@SD">
 <title lang="id">CNN Indonesia News Update</title>
@@ -13149,7 +13149,7 @@
 <image>https://cdn.images.simply.tv/13016756757942878501.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704150000 +0000" stop="20260704160000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.100.0/1</episode-num>
@@ -13157,7 +13157,7 @@
 <image>https://cdn.images.simply.tv/1741999535759791782.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704160000 +0000" stop="20260704170000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.101.0/1</episode-num>
@@ -13165,7 +13165,7 @@
 <image>https://cdn.images.simply.tv/1627537971595024084.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704170000 +0000" stop="20260704180000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.102.0/1</episode-num>
@@ -13173,7 +13173,7 @@
 <image>https://cdn.images.simply.tv/1741999535759791782.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704180000 +0000" stop="20260704192000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.103.0/1</episode-num>
@@ -13181,7 +13181,7 @@
 <image>https://cdn.images.simply.tv/1627537971595024084.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704192000 +0000" stop="20260704203000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.100.0/1</episode-num>
@@ -13189,7 +13189,7 @@
 <image>https://cdn.images.simply.tv/1627537971595024084.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704203000 +0000" stop="20260704213000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.104.0/1</episode-num>
@@ -13197,7 +13197,7 @@
 <image>https://cdn.images.simply.tv/1741999535759791782.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704213000 +0000" stop="20260704223000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.105.0/1</episode-num>
@@ -13205,7 +13205,7 @@
 <image>https://cdn.images.simply.tv/1741999535759791782.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704223000 +0000" stop="20260704233000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.106.0/1</episode-num>
@@ -13213,7 +13213,7 @@
 <image>https://cdn.images.simply.tv/1741999535759791782.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704233000 +0000" stop="20260705003000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.107.0/1</episode-num>
@@ -13229,12 +13229,12 @@
 <image>https://cdn.images.simply.tv/8301967600925423235.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705030000 +0000" stop="20260705034500 +0000" channel="dk#454">
-<title lang="da">Sendeohold</title>
-<desc lang="da">Sendeohold</desc>
+<title lang="da">Sendeophold</title>
+<desc lang="da">Sendeophold</desc>
 <category lang="da">sport</category>
 </programme>
 <programme start="20260705034500 +0000" stop="20260705044000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.100.0/1</episode-num>
@@ -13242,7 +13242,7 @@
 <image>https://cdn.images.simply.tv/1741999535759791782.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705044000 +0000" stop="20260705054000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.101.0/1</episode-num>
@@ -13250,7 +13250,7 @@
 <image>https://cdn.images.simply.tv/1741999535759791782.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705054000 +0000" stop="20260705064000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.102.0/1</episode-num>
@@ -13258,7 +13258,7 @@
 <image>https://cdn.images.simply.tv/1741999535759791782.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705064000 +0000" stop="20260705074500 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.103.0/1</episode-num>
@@ -13282,7 +13282,7 @@
 <image>https://cdn.images.simply.tv/14395788568880876860.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705105000 +0000" stop="20260705115000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.104.0/1</episode-num>
@@ -13290,7 +13290,7 @@
 <image>https://cdn.images.simply.tv/1741999535759791782.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705115000 +0000" stop="20260705125000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.105.0/1</episode-num>
@@ -13298,7 +13298,7 @@
 <image>https://cdn.images.simply.tv/1627537971595024084.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705125000 +0000" stop="20260705135000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.106.0/1</episode-num>
@@ -13306,7 +13306,7 @@
 <image>https://cdn.images.simply.tv/1627537971595024084.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705135000 +0000" stop="20260705145500 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.107.0/1</episode-num>
@@ -13362,8 +13362,8 @@
 <image>https://cdn.images.simply.tv/12116646210389882104.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706023500 +0000" stop="20260706035000 +0000" channel="dk#454">
-<title lang="da">Sendeohold</title>
-<desc lang="da">Sendeohold</desc>
+<title lang="da">Sendeophold</title>
+<desc lang="da">Sendeophold</desc>
 <category lang="da">sport</category>
 </programme>
 <programme start="20260706035000 +0000" stop="20260706075500 +0000" channel="dk#454">
@@ -13383,7 +13383,7 @@
 <image>https://cdn.images.simply.tv/14723735963200557257.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706083000 +0000" stop="20260706093000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.105.0/1</episode-num>
@@ -13391,7 +13391,7 @@
 <image>https://cdn.images.simply.tv/1627537971595024084.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706093000 +0000" stop="20260706103000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.106.0/1</episode-num>
@@ -13399,7 +13399,7 @@
 <image>https://cdn.images.simply.tv/1741999535759791782.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706103000 +0000" stop="20260706113000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.107.0/1</episode-num>
@@ -13407,7 +13407,7 @@
 <image>https://cdn.images.simply.tv/1741999535759791782.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706113000 +0000" stop="20260706123000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.108.0/1</episode-num>
@@ -13415,7 +13415,7 @@
 <image>https://cdn.images.simply.tv/1627537971595024084.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706123000 +0000" stop="20260706133000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.109.0/1</episode-num>
@@ -13423,7 +13423,7 @@
 <image>https://cdn.images.simply.tv/1627537971595024084.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706133000 +0000" stop="20260706143000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.110.0/1</episode-num>
@@ -13431,7 +13431,7 @@
 <image>https://cdn.images.simply.tv/1741999535759791782.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706143000 +0000" stop="20260706153000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.111.0/1</episode-num>
@@ -13439,7 +13439,7 @@
 <image>https://cdn.images.simply.tv/1627537971595024084.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706153000 +0000" stop="20260706163000 +0000" channel="dk#454">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.112.0/1</episode-num>
@@ -13485,13 +13485,13 @@
 <image>https://cdn.images.simply.tv/14723735963200557257.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706223000 +0000" stop="20260707023000 +0000" channel="dk#454">
-<title lang="da">Sendeohold</title>
-<desc lang="da">Sendeohold</desc>
+<title lang="da">Sendeophold</title>
+<desc lang="da">Sendeophold</desc>
 <category lang="da">sport</category>
 </programme>
 <programme start="20260707023000 +0000" stop="20260707040000 +0000" channel="dk#454">
-<title lang="da">Sendeohold</title>
-<desc lang="da">Sendeohold</desc>
+<title lang="da">Sendeophold</title>
+<desc lang="da">Sendeophold</desc>
 <category lang="da">sport</category>
 </programme>
 <programme start="20260704060000 +0000" stop="20260704070000 +0000" channel="dk#718">
@@ -13528,7 +13528,7 @@
 </programme>
 <programme start="20260704115500 +0000" stop="20260704135500 +0000" channel="dk#718">
 <title lang="da">Soccer: World Cup</title>
-<desc lang="da">Fra 2026. Columbia møder Ghana i VM i Fodbold 2026. Kampen spilles i Kansas City Stadium.</desc>
+<desc lang="da">From 2026. Columbia meets Ghana in the 2026 FIFA World Cup. The match will be played in the Kansas City Stadium.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.87.0/1</episode-num>
 <episode-num system="onscreen">S2026E88</episode-num>
@@ -13584,7 +13584,7 @@
 </programme>
 <programme start="20260704235500 +0000" stop="20260705051500 +0000" channel="dk#718">
 <title lang="da">Soccer: World Cup</title>
-<desc lang="da">From 2026. Paraguay meets France in the World Cup in Football 2026. The match is played in the Philadelphia Stadium. The round of 16.</desc>
+<desc lang="da">From 2026. Paraguay meets France in the 2026 FIFA World Cup. The match will be played at the Philadelphia Stadium. The round of 16.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.89.0/1</episode-num>
 <episode-num system="onscreen">S2026E90</episode-num>
@@ -13600,7 +13600,7 @@
 </programme>
 <programme start="20260705072000 +0000" stop="20260705092000 +0000" channel="dk#718">
 <title lang="da">Soccer: World Cup</title>
-<desc lang="da">From 2026. Paraguay meets France in the World Cup in Football 2026. The match is played in the Philadelphia Stadium. The round of 16.</desc>
+<desc lang="da">From 2026. Paraguay meets France in the 2026 FIFA World Cup. The match will be played at the Philadelphia Stadium. The round of 16.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.89.0/1</episode-num>
 <episode-num system="onscreen">S2026E90</episode-num>
@@ -13624,7 +13624,7 @@
 </programme>
 <programme start="20260705120500 +0000" stop="20260705140000 +0000" channel="dk#718">
 <title lang="da">Soccer: World Cup</title>
-<desc lang="da">From 2026. Paraguay meets France in the World Cup in Football 2026. The match is played in the Philadelphia Stadium. The round of 16.</desc>
+<desc lang="da">From 2026. Paraguay meets France in the 2026 FIFA World Cup. The match will be played at the Philadelphia Stadium. The round of 16.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.89.0/1</episode-num>
 <episode-num system="onscreen">S2026E90</episode-num>
@@ -13639,7 +13639,7 @@
 <image>https://cdn.images.simply.tv/2462683357300979660.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705150000 +0000" stop="20260705160500 +0000" channel="dk#718">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.108.0/1</episode-num>
@@ -13647,7 +13647,7 @@
 <image>https://cdn.images.simply.tv/1627537971595024084.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705160500 +0000" stop="20260705171500 +0000" channel="dk#718">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.109.0/1</episode-num>
@@ -13655,7 +13655,7 @@
 <image>https://cdn.images.simply.tv/1627537971595024084.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705171500 +0000" stop="20260705182500 +0000" channel="dk#718">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.110.0/1</episode-num>
@@ -13663,7 +13663,7 @@
 <image>https://cdn.images.simply.tv/1627537971595024084.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705182500 +0000" stop="20260705193500 +0000" channel="dk#718">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.111.0/1</episode-num>
@@ -13671,7 +13671,7 @@
 <image>https://cdn.images.simply.tv/1627537971595024084.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705193500 +0000" stop="20260705204500 +0000" channel="dk#718">
-<title lang="da">Badminton: Canada Open - Matches</title>
+<title lang="da">Badminton: Canada Open - Kampe</title>
 <desc lang="da">From 2026. Super 300 tournament</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.112.0/1</episode-num>
@@ -13688,7 +13688,7 @@
 </programme>
 <programme start="20260705225000 +0000" stop="20260706045500 +0000" channel="dk#718">
 <title lang="da">Soccer: World Cup</title>
-<desc lang="da">From 2026. Brazil meets Norway in the 2026 FIFA World Cup. The match will be played in the New York/New Jersey Stadium. The round of 16.</desc>
+<desc lang="da">From 2026. Brazil meets Norway in the World Cup in Football 2026. The match will be played in the New York/New Jersey Stadium. The round of 16.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.90.0/1</episode-num>
 <episode-num system="onscreen">S2026E91</episode-num>
@@ -18625,7 +18625,7 @@
 <desc lang="id">Yanto, seorang cleaning service dari perusahaan obat ternama harus menyelamatkan kekasihnya, Dewi yang diculik oleh para segerombolan pasukan bersenjata dan profesional. Yanto meminta bantuan dari para keempat sahabatnya</desc>
 </programme>
 <programme start="20260704112500 +0000" stop="20260704130000 +0000" channel="IMC.id@SD">
-<title lang="id">Warkop Maju Kena Mundur Kena</title>
+<title lang="id">The Forward Warkop was hit by the reverse</title>
 <desc lang="id">Kasino melarang Dono dan Indro, teman sekosnya yang juga bawahannya kerja di bengkel, untuk jangan sampai tertarik oleh wanita. Padahal secara diam-diam, Kasino selalu merindukan seorang gadis yang fotonya pertama ia temui</desc>
 </programme>
 <programme start="20260704130000 +0000" stop="20260704150500 +0000" channel="IMC.id@SD">
@@ -18672,7 +18672,7 @@
 <title lang="id">Kisah Nyata Siang</title>
 </programme>
 <programme start="20260704060000 +0000" stop="20260704073000 +0000" channel="Indosiar.id@SD">
-<title lang="id">True story</title>
+<title lang="id">Kisah Nyata</title>
 </programme>
 <programme start="20260704073000 +0000" stop="20260704080000 +0000" channel="Indosiar.id@SD">
 <title lang="id">Dancow Indonesia Cerdas</title>
@@ -18717,7 +18717,7 @@
 <title lang="id">Kisah Nyata Siang</title>
 </programme>
 <programme start="20260705060000 +0000" stop="20260705073000 +0000" channel="Indosiar.id@SD">
-<title lang="id">True story</title>
+<title lang="id">Kisah Nyata</title>
 </programme>
 <programme start="20260705073000 +0000" stop="20260705080000 +0000" channel="Indosiar.id@SD">
 <title lang="id">Dancow Indonesia Cerdas</title>
@@ -18765,7 +18765,7 @@
 <title lang="id">Kisah Nyata Siang</title>
 </programme>
 <programme start="20260706063000 +0000" stop="20260706080000 +0000" channel="Indosiar.id@SD">
-<title lang="id">True story</title>
+<title lang="id">Kisah Nyata</title>
 </programme>
 <programme start="20260706080000 +0000" stop="20260706100000 +0000" channel="Indosiar.id@SD">
 <title lang="id">Kisah Nyata Siang</title>
@@ -20438,7 +20438,7 @@
 <title lang="id">Sapa Indonesia Pagi</title>
 </programme>
 <programme start="20260704013000 +0000" stop="20260704020000 +0000" channel="KompasTV.id@SD">
-<title lang="id">Kompas Sport</title>
+<title lang="id">Compass Sports</title>
 </programme>
 <programme start="20260704020000 +0000" stop="20260704023000 +0000" channel="KompasTV.id@SD">
 <title lang="id">Susthenesia</title>
@@ -20639,7 +20639,7 @@
 <title lang="id">Berita Utama</title>
 </programme>
 <programme start="20260706160000 +0000" stop="20260706163000 +0000" channel="KompasTV.id@SD">
-<title lang="id">Kompas Sport</title>
+<title lang="id">Compass Sports</title>
 </programme>
 <programme start="20260706163000 +0000" stop="20260706170000 +0000" channel="KompasTV.id@SD">
 <title lang="id">Kilas Kompas</title>
@@ -21506,7 +21506,7 @@
 <desc lang="id">Serial Animasi yang melanjutkan kisah petualangan Yi Jin dan Peng dari film 'Abominable'. Mereka sekarang harus melindungi makhluk ajaib bernama Everest dan dunia tak kasat mata dari orang orang yang ingin mengeksploitasinya.</desc>
 </programme>
 <programme start="20260703180000 +0000" stop="20260703183000 +0000" channel="MAXKids.id@SD">
-<title lang="id">Kring Kring Has a Story</title>
+<title lang="id">Kring Kring Ada Cerita</title>
 <desc lang="id">Sebuah Program yang berisikan pesan kebaikan yang disampaikan melalui dongeng, lagu dan drama singkat yang dibawakan oleh anak - anak.</desc>
 </programme>
 <programme start="20260703183000 +0000" stop="20260703184500 +0000" channel="MAXKids.id@SD">
@@ -21582,7 +21582,7 @@
 <desc lang="id">Hi Kiddos adalah sebuah program edukasi untuk anak yang menyajikan video bertema ilmu pengetahuan dan belajar sambil menjelajahi tempat-tempat menarik.</desc>
 </programme>
 <programme start="20260704023000 +0000" stop="20260704030000 +0000" channel="MAXKids.id@SD">
-<title lang="id">Kring Kring Has a Story</title>
+<title lang="id">Kring Kring Ada Cerita</title>
 <desc lang="id">Sebuah Program yang berisikan pesan kebaikan yang disampaikan melalui dongeng, lagu dan drama singkat yang dibawakan oleh anak - anak.</desc>
 </programme>
 <programme start="20260704030000 +0000" stop="20260704031500 +0000" channel="MAXKids.id@SD">
@@ -23015,7 +23015,7 @@
 <title lang="id">Metro Afternoon</title>
 </programme>
 <programme start="20260706083000 +0000" stop="20260706090000 +0000" channel="MetroTV.id@SD">
-<title lang="id">Indonesian Priority</title>
+<title lang="id">Prioritas Indonesia</title>
 </programme>
 <programme start="20260706090000 +0000" stop="20260706090500 +0000" channel="MetroTV.id@SD">
 <title lang="id">Headline News</title>
@@ -30792,7 +30792,7 @@
 </programme>
 <programme start="20260706040000 +0000" stop="20260706050000 +0000" channel="mx#fox-sports-2">
 <title lang="es">Budapest, Hungary - Men's Final Session</title>
-<desc lang="es">Live the emotions of the UIPM Pentathlon World Cup.</desc>
+<desc lang="es">Vive las emociones de la UIPM Pentathlon World Cup.</desc>
 <category lang="es">UIPM Pentathlon World Cup</category>
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
 </programme>
@@ -30930,7 +30930,7 @@
 </programme>
 <programme start="20260704070000 +0000" stop="20260704090000 +0000" channel="mx#fox-sports-3">
 <title lang="es">Budapest, Hungary - Women's Final Session</title>
-<desc lang="es">Live the emotions of the UIPM Pentathlon World Cup.</desc>
+<desc lang="es">Vive las emociones de la UIPM Pentathlon World Cup.</desc>
 <category lang="es">UIPM Pentathlon World Cup</category>
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
 </programme>
@@ -31035,7 +31035,7 @@
 </programme>
 <programme start="20260705070000 +0000" stop="20260705090000 +0000" channel="mx#fox-sports-3">
 <title lang="es">Budapest, Hungary - Men's Final Session</title>
-<desc lang="es">Live the emotions of the UIPM Pentathlon World Cup.</desc>
+<desc lang="es">Vive las emociones de la UIPM Pentathlon World Cup.</desc>
 <category lang="es">UIPM Pentathlon World Cup</category>
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
 </programme>
@@ -31218,7 +31218,7 @@
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
 </programme>
 <programme start="20260706220000 +0000" stop="20260707003000 +0000" channel="mx#fox-sports-3">
-<title lang="es">Milwaukee Wave vs. Empire Strikers</title>
+<title lang="es">Milwaukee Wave vs. Empire Strykers</title>
 <desc lang="es">Experience all the excitement of Major Arena Soccer League indoor soccer games. Enjoy matches from the top professional indoor soccer league in North America, which includes teams from the United States and Mexico.</desc>
 <category lang="es">Partido 1, Playoffs</category>
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
@@ -35221,7 +35221,7 @@
 </programme>
 <programme start="20260704180000 +0000" stop="20260704185500 +0000" channel="nova_sport_1_hd">
 <title lang="sk">EFKA: The fastest girl in the universe</title>
-<desc lang="sk">Documentary about the career of world-class snowboard crosser Eva Adamczyková, (documentary)</desc>
+<desc lang="sk">Documentary about the career of world snowboard crosser Eva Adamczyková, (documentary)</desc>
 <category lang="sk">dokument</category>
 </programme>
 <programme start="20260704185500 +0000" stop="20260704190000 +0000" channel="nova_sport_1_hd">
@@ -35471,7 +35471,7 @@
 </programme>
 <programme start="20260706210500 +0000" stop="20260706220000 +0000" channel="nova_sport_1_hd">
 <title lang="sk">EFKA: The fastest girl in the universe</title>
-<desc lang="sk">Documentary about the career of world-class snowboard crosser Eva Adamczyková, (documentary)</desc>
+<desc lang="sk">Documentary about the career of world snowboard crosser Eva Adamczyková, (documentary)</desc>
 <category lang="sk">dokument</category>
 </programme>
 <programme start="20260703193500 +0000" stop="20260703224500 +0000" channel="nova_sport_2_hd">
@@ -39517,7 +39517,7 @@
 <title lang="id">Buser</title>
 </programme>
 <programme start="20260703220000 +0000" stop="20260703230000 +0000" channel="SCTV.id@SD">
-<title lang="id">6 AM coverage</title>
+<title lang="id">Liputan 6 Pagi</title>
 </programme>
 <programme start="20260703230000 +0000" stop="20260704000000 +0000" channel="SCTV.id@SD">
 <title lang="id">Hello celebrities</title>
@@ -39571,7 +39571,7 @@
 <title lang="id">Buser</title>
 </programme>
 <programme start="20260704220000 +0000" stop="20260704230000 +0000" channel="SCTV.id@SD">
-<title lang="id">6 AM coverage</title>
+<title lang="id">Liputan 6 Pagi</title>
 </programme>
 <programme start="20260704230000 +0000" stop="20260704233000 +0000" channel="SCTV.id@SD">
 <title lang="id">Point Of View</title>
@@ -39631,7 +39631,7 @@
 <title lang="id">Buser</title>
 </programme>
 <programme start="20260705220000 +0000" stop="20260705230000 +0000" channel="SCTV.id@SD">
-<title lang="id">6 AM coverage</title>
+<title lang="id">Liputan 6 Pagi</title>
 </programme>
 <programme start="20260705230000 +0000" stop="20260706000000 +0000" channel="SCTV.id@SD">
 <title lang="id">Hello celebrities</title>
@@ -40189,7 +40189,7 @@
 <desc lang="sk">Record, Friendly match</desc>
 </programme>
 <programme start="20260704080000 +0000" stop="20260704100000 +0000" channel="sport_1">
-<title lang="sk">Fotbal: Řím - Inter</title>
+<title lang="sk">Football: Rome - Inter</title>
 <desc lang="sk">Record, Serie A, 7th round</desc>
 </programme>
 <programme start="20260704100000 +0000" stop="20260704101500 +0000" channel="sport_1">
@@ -40200,7 +40200,7 @@
 <desc lang="sk">Record, Europa League, League Stage</desc>
 </programme>
 <programme start="20260704121500 +0000" stop="20260704141500 +0000" channel="sport_1">
-<title lang="sk">Fotbal: Fiorentina - Sigma Olomouc</title>
+<title lang="sk">Football: Fiorentina - Sigma Olomouc</title>
 <desc lang="sk">Record, Conference League, League Stage</desc>
 </programme>
 <programme start="20260704141500 +0000" stop="20260704143000 +0000" channel="sport_1">
@@ -40263,11 +40263,11 @@
 <desc lang="sk">Record, Europa League, League Stage</desc>
 </programme>
 <programme start="20260705203000 +0000" stop="20260705223000 +0000" channel="sport_1">
-<title lang="sk">Fotbal: Fiorentina - Sigma Olomouc</title>
+<title lang="sk">Football: Fiorentina - Sigma Olomouc</title>
 <desc lang="sk">Record, Conference League, League Stage</desc>
 </programme>
 <programme start="20260705203000 +0000" stop="20260705223000 +0000" channel="sport_1">
-<title lang="sk">Fotbal: Fiorentina - Sigma Olomouc</title>
+<title lang="sk">Football: Fiorentina - Sigma Olomouc</title>
 <desc lang="sk">Record, Conference League, League Stage</desc>
 </programme>
 <programme start="20260705223000 +0000" stop="20260705230000 +0000" channel="sport_1">
@@ -40450,7 +40450,7 @@
 </programme>
 <programme start="20260706020000 +0000" stop="20260706040000 +0000" channel="sport_2">
 <title lang="sk">Tenis</title>
-<desc lang="sk">WTA 250, Eastbourne, finále, (šport)</desc>
+<desc lang="sk">WTA 250, Eastbourne, Final, (Sports)</desc>
 <category lang="sk">šport</category>
 </programme>
 <programme start="20260706040000 +0000" stop="20260706053000 +0000" channel="sport_2">
@@ -40460,7 +40460,7 @@
 </programme>
 <programme start="20260706053000 +0000" stop="20260706070000 +0000" channel="sport_2">
 <title lang="sk">Handball</title>
-<desc lang="sk">Liga mistrů, ženy Gloria Bistrita - DVSC Schaeffler, (šport)</desc>
+<desc lang="sk">Champions League Women Gloria Bistrita - DVSC Schaeffler (Sports)</desc>
 <category lang="sk">šport</category>
 </programme>
 <programme start="20260706070000 +0000" stop="20260706080000 +0000" channel="sport_2">
@@ -40539,7 +40539,7 @@
 <category lang="pt">Estilo de vida</category>
 </programme>
 <programme start="20260704070000 +0000" stop="20260704091000 +0000" channel="SportTV1.pt@SD">
-<title lang="pt">New Zealand x France - Nations Championship 2026 (Live)</title>
+<title lang="pt">Nova Zelândia x França - Nations Championship 2026 (Live)</title>
 <desc lang="pt">Live broadcast of the Rugby Nations Championship game between New Zealand and France.</desc>
 <category lang="pt">Rugby</category>
 <category lang="pt">Desportos de equipa</category>
@@ -42379,7 +42379,7 @@
 <title lang="id">Indonesiaku</title>
 </programme>
 <programme start="20260706071500 +0000" stop="20260706080000 +0000" channel="Trans7.id@SD">
-<title lang="id">Editorial</title>
+<title lang="id">Redaksi</title>
 </programme>
 <programme start="20260706080000 +0000" stop="20260706090000 +0000" channel="Trans7.id@SD">
 <title lang="id">Make Happy</title>
@@ -42463,7 +42463,7 @@
 <title lang="id">Spill DD Tea</title>
 </programme>
 <programme start="20260704100000 +0000" stop="20260704110000 +0000" channel="TransTV.id@SD">
-<title lang="id">Makes you hungry</title>
+<title lang="id">Bikin Laper</title>
 </programme>
 <programme start="20260704110000 +0000" stop="20260704121500 +0000" channel="TransTV.id@SD">
 <title lang="id">Insert Story</title>
@@ -42529,7 +42529,7 @@
 <title lang="id">Sehari Jadi Ratu</title>
 </programme>
 <programme start="20260705100000 +0000" stop="20260705110000 +0000" channel="TransTV.id@SD">
-<title lang="id">Makes you hungry</title>
+<title lang="id">Bikin Laper</title>
 </programme>
 <programme start="20260705110000 +0000" stop="20260705121500 +0000" channel="TransTV.id@SD">
 <title lang="id">Insert Story</title>
@@ -42592,13 +42592,13 @@
 <title lang="id">Dream Box Indonesia</title>
 </programme>
 <programme start="20260706103000 +0000" stop="20260706114500 +0000" channel="TransTV.id@SD">
-<title lang="id">Makes you hungry</title>
+<title lang="id">Bikin Laper</title>
 </programme>
 <programme start="20260706114500 +0000" stop="20260706130000 +0000" channel="TransTV.id@SD">
 <title lang="id">Insert Story</title>
 </programme>
 <programme start="20260706130000 +0000" stop="20260706150000 +0000" channel="TransTV.id@SD">
-<title lang="id">Bioskop TransTV - The Suicide Squad</title>
+<title lang="id">TransTV Cinema - The Suicide Squad</title>
 </programme>
 <programme start="20260706150000 +0000" stop="20260706170000 +0000" channel="TransTV.id@SD">
 <title lang="id">TransTV Cinema - Golden Job</title>
@@ -45790,7 +45790,7 @@
 </programme>
 <programme start="20260707120500 +0000" stop="20260707123500 +0000" channel="Motorvision.TV.de">
 <title lang="de">Stunt Heroes</title>
-<sub-title lang="de">Massenkarambolage</sub-title>
+<sub-title lang="de">Mass pile-up</sub-title>
 <desc lang="de">Fog, darkness, a rear-end collision with many cars. This happens again and again on German motorways. The “Stunt Heroes” recreate such a scene. It is the starting point for a stunt with people burning, a firefighter who arrives too late and a car that blows up. You can see how this works in this episode of the stunt report series. (Station info).</desc>
 <date>2012</date>
 <category lang="de">Dokumentationsreihe</category>
@@ -46981,7 +46981,7 @@
 </programme>
 <programme start="20260707120500 +0000" stop="20260707123500 +0000" channel="Motorvision+.de">
 <title lang="de">Stunt Heroes</title>
-<sub-title lang="de">Massenkarambolage</sub-title>
+<sub-title lang="de">Mass pile-up</sub-title>
 <desc lang="de">Fog, darkness, a rear-end collision with many cars. This happens again and again on German motorways. The “Stunt Heroes” recreate such a scene. It is the starting point for a stunt with burning people and a firefighter.</desc>
 <date>2013</date>
 <category lang="de">Dokumentation</category>
@@ -47282,7 +47282,7 @@
 </programme>
 <programme start="20260708033000 +0000" stop="20260708040000 +0000" channel="Motorvision+.de">
 <title lang="de">Stunt Heroes</title>
-<sub-title lang="de">Massenkarambolage</sub-title>
+<sub-title lang="de">Mass pile-up</sub-title>
 <desc lang="de">Fog, darkness, a rear-end collision with many cars. This happens again and again on German motorways. The “Stunt Heroes” recreate such a scene. It is the starting point for a stunt with burning people and a firefighter.</desc>
 <date>2013</date>
 <category lang="de">Dokumentation</category>
@@ -55156,7 +55156,7 @@
 <programme start="20260707062500 +0000" stop="20260707065400 +0000" channel="RedBullTV.de">
 <title>Prime Minister has fallen</title>
 <sub-title/>
-<desc>E25 — 2025 Qatar Major, highlightsSpectacular rallies and intense matches characterize the event at the Khalifa International Complex.</desc>
+<desc>E25 — 2025 Qatar Major, HighlightsSpektakuläre Ballwechsel und intensive Matches prägen das Event im Khalifa International Complex.</desc>
 <episode-num system="xmltv_ns"/>
 </programme>
 <programme start="20260707065400 +0000" stop="20260707072400 +0000" channel="RedBullTV.de">
