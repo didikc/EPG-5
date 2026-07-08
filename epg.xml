@@ -1337,7 +1337,7 @@
 <programme start="20260704100000 +0000" stop="20260704120000 +0000" channel="361">
 <title lang="no">Finale</title>
 <sub-title lang="no">Finale</sub-title>
-<desc lang="no">Finale i EHF Champions League. Kommentator: Daniel Høglund.</desc>
+<desc lang="no">Final in the EHF Champions League. Commentator: Daniel Høglund.</desc>
 <category lang="no">Sport</category>
 <icon src="https://imageservice.rikstv.no/hash/3E08067D1CFF75B931DAFBFFF6C9C5B4.jpg"/>
 </programme>
@@ -4356,7 +4356,7 @@
 <programme start="20260704053800 +0000" stop="20260704062300 +0000" channel="AXNWhite.us@Portugal">
 <title lang="pt">The Good Doctor</title>
 <sub-title lang="pt">Teeny Blue Eyes</sub-title>
-<desc lang="pt">When a renowned surgeon comes to receive treatment at St. Bonaventure, the staff's enthusiasm is quickly overshadowed by the doctor's behavior. Meanwhile, Shaun and Lea are forced to make a defining decision that will change the course of their relationship.</desc>
+<desc lang="pt">When a reputable surgeon comes to receive treatment at St. Bonaventure, the staff's enthusiasm is quickly overshadowed by the doctor's behavior. Meanwhile, Shaun and Lea are forced to make a defining decision that will change the course of their relationship.</desc>
 <episode-num system="xmltv_ns">3.11.0/1</episode-num>
 <episode-num system="onscreen">S04E12</episode-num>
 <image>https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http://vip.pam.local.internal/PAM.Images/Store/506fecbfbe5a4886822103b6f93607fe&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI</image>
@@ -5865,7 +5865,7 @@
 <title lang="es">Musical: All the trident goals of the league 2015/16</title>
 </programme>
 <programme start="20260704184500 +0000" stop="20260704191500 +0000" channel="barca_tv">
-<title lang="es">What a Rock!</title>
+<title lang="es">Quina Penya!</title>
 </programme>
 <programme start="20260704191500 +0000" stop="20260704193000 +0000" channel="barca_tv">
 <title lang="es">Musical: All the goals of Dani Alves</title>
@@ -5910,7 +5910,7 @@
 <title lang="es">600"</title>
 </programme>
 <programme start="20260705113000 +0000" stop="20260705120000 +0000" channel="barca_tv">
-<title lang="es">What a Rock!</title>
+<title lang="es">Quina Penya!</title>
 </programme>
 <programme start="20260705120000 +0000" stop="20260705134500 +0000" channel="barca_tv">
 <title lang="es">Women's football</title>
@@ -5961,7 +5961,7 @@
 <title lang="es">600"</title>
 </programme>
 <programme start="20260706081500 +0000" stop="20260706084500 +0000" channel="barca_tv">
-<title lang="es">What a Rock!</title>
+<title lang="es">Quina Penya!</title>
 </programme>
 <programme start="20260706084500 +0000" stop="20260706090000 +0000" channel="barca_tv">
 <title lang="es">600"</title>
@@ -6024,7 +6024,7 @@
 <title lang="es">Here Palau</title>
 </programme>
 <programme start="20260706213000 +0000" stop="20260706220000 +0000" channel="barca_tv">
-<title lang="es">What a Rock!</title>
+<title lang="es">Quina Penya!</title>
 </programme>
 <programme start="20260706220000 +0000" stop="20260706223000 +0000" channel="barca_tv">
 <title lang="es">5/17/2006: Unexpected melody</title>
@@ -6785,7 +6785,7 @@
 </programme>
 <programme start="20260705160000 +0000" stop="20260705163000 +0000" channel="beINSports1.qa@France">
 <title lang="fr">World Cup Replay</title>
-<desc lang="fr">England - DR Congo</desc>
+<desc lang="fr">Angleterre - RD Congo</desc>
 </programme>
 <programme start="20260705163000 +0000" stop="20260705170000 +0000" channel="beINSports1.qa@France">
 <title lang="fr">World Cup Replay</title>
@@ -7762,7 +7762,7 @@
 <title lang="id">Spot On</title>
 </programme>
 <programme start="20260703210000 +0000" stop="20260703213000 +0000" channel="BTV.id@SD">
-<title lang="id">Crime News</title>
+<title lang="id">Berita Kriminal</title>
 </programme>
 <programme start="20260703213000 +0000" stop="20260703220000 +0000" channel="BTV.id@SD">
 <title lang="id">Berita Satu Utama</title>
@@ -7822,7 +7822,7 @@
 <title lang="id">Meja Redaksi</title>
 </programme>
 <programme start="20260704080000 +0000" stop="20260704083000 +0000" channel="BTV.id@SD">
-<title lang="id">Crime News</title>
+<title lang="id">Berita Kriminal</title>
 </programme>
 <programme start="20260704083000 +0000" stop="20260704100000 +0000" channel="BTV.id@SD">
 <title lang="id">Berita Satu Sore</title>
@@ -7876,7 +7876,7 @@
 <title lang="id">Spot On</title>
 </programme>
 <programme start="20260704210000 +0000" stop="20260704213000 +0000" channel="BTV.id@SD">
-<title lang="id">Crime News</title>
+<title lang="id">Berita Kriminal</title>
 </programme>
 <programme start="20260704213000 +0000" stop="20260704220000 +0000" channel="BTV.id@SD">
 <title lang="id">Berita Satu Utama</title>
@@ -7939,7 +7939,7 @@
 <title lang="id">Meja Redaksi</title>
 </programme>
 <programme start="20260705080000 +0000" stop="20260705083000 +0000" channel="BTV.id@SD">
-<title lang="id">Crime News</title>
+<title lang="id">Berita Kriminal</title>
 </programme>
 <programme start="20260705083000 +0000" stop="20260705100000 +0000" channel="BTV.id@SD">
 <title lang="id">Berita Satu Sore</title>
@@ -7996,7 +7996,7 @@
 <title lang="id">Spot On</title>
 </programme>
 <programme start="20260705210000 +0000" stop="20260705213000 +0000" channel="BTV.id@SD">
-<title lang="id">Crime News</title>
+<title lang="id">Berita Kriminal</title>
 </programme>
 <programme start="20260705213000 +0000" stop="20260705220000 +0000" channel="BTV.id@SD">
 <title lang="id">Berita Satu Utama</title>
@@ -8062,7 +8062,7 @@
 <title lang="id">Origin</title>
 </programme>
 <programme start="20260706080000 +0000" stop="20260706083000 +0000" channel="BTV.id@SD">
-<title lang="id">Crime News</title>
+<title lang="id">Berita Kriminal</title>
 </programme>
 <programme start="20260706083000 +0000" stop="20260706090000 +0000" channel="BTV.id@SD">
 <title lang="id">Berita Satu Sore</title>
@@ -11322,7 +11322,7 @@
 <title lang="id">Prime News</title>
 </programme>
 <programme start="20260703211500 +0000" stop="20260703214500 +0000" channel="CNNIndonesia.id@SD">
-<title lang="id">Editorial</title>
+<title lang="id">Redaksi</title>
 </programme>
 <programme start="20260703214500 +0000" stop="20260703223000 +0000" channel="CNNIndonesia.id@SD">
 <title lang="id">Gapai Kemuliaan</title>
@@ -11403,7 +11403,7 @@
 <title lang="id">Prime News</title>
 </programme>
 <programme start="20260704211500 +0000" stop="20260704214500 +0000" channel="CNNIndonesia.id@SD">
-<title lang="id">Editorial</title>
+<title lang="id">Redaksi</title>
 </programme>
 <programme start="20260704214500 +0000" stop="20260704223000 +0000" channel="CNNIndonesia.id@SD">
 <title lang="id">Gapai Kemuliaan</title>
@@ -11520,7 +11520,7 @@
 <title lang="id">CNN Indonesia New Day</title>
 </programme>
 <programme start="20260706071500 +0000" stop="20260706080000 +0000" channel="CNNIndonesia.id@SD">
-<title lang="id">Editorial</title>
+<title lang="id">Redaksi</title>
 </programme>
 <programme start="20260706080000 +0000" stop="20260706090000 +0000" channel="CNNIndonesia.id@SD">
 <title lang="id">Track Crime</title>
@@ -11532,7 +11532,7 @@
 <title lang="id">CNN Indonesia Newsroom</title>
 </programme>
 <programme start="20260706111500 +0000" stop="20260706114500 +0000" channel="CNNIndonesia.id@SD">
-<title lang="id">Editorial</title>
+<title lang="id">Redaksi</title>
 </programme>
 <programme start="20260706114500 +0000" stop="20260706120000 +0000" channel="CNNIndonesia.id@SD">
 <title lang="id">CNN Indonesia News Update</title>
@@ -13228,8 +13228,8 @@
 <image>https://cdn.images.simply.tv/8301967600925423235.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705030000 +0000" stop="20260705034500 +0000" channel="dk#454">
-<title lang="da">Sendeohold</title>
-<desc lang="da">Sendeohold</desc>
+<title lang="da">Sendeophold</title>
+<desc lang="da">Sendeophold</desc>
 <category lang="da">sport</category>
 </programme>
 <programme start="20260705034500 +0000" stop="20260705044000 +0000" channel="dk#454">
@@ -13313,7 +13313,7 @@
 <image>https://cdn.images.simply.tv/1741999535759791782.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705145500 +0000" stop="20260705170000 +0000" channel="dk#454">
-<title lang="da">Atletik: Diamond League</title>
+<title lang="da">Athletics: Diamond League</title>
 <desc lang="da">From 2026. Watch athletics from the Diamond League, which brings together the world's best athletics athletes in top international competitions, where the season's points determine the overall winner.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.107.0/1</episode-num>
@@ -13321,7 +13321,7 @@
 <image>https://cdn.images.simply.tv/13452931232221506468.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705170000 +0000" stop="20260705190500 +0000" channel="dk#454">
-<title lang="da">Atletik: Diamond League</title>
+<title lang="da">Athletics: Diamond League</title>
 <desc lang="da">From 2026. Watch athletics from the Diamond League, which brings together the world's best athletics athletes in top international competitions, where the season's points determine the overall winner.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.108.0/1</episode-num>
@@ -13361,8 +13361,8 @@
 <image>https://cdn.images.simply.tv/12116646210389882104.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706023500 +0000" stop="20260706035000 +0000" channel="dk#454">
-<title lang="da">Sendeohold</title>
-<desc lang="da">Sendeohold</desc>
+<title lang="da">Sendeophold</title>
+<desc lang="da">Sendeophold</desc>
 <category lang="da">sport</category>
 </programme>
 <programme start="20260706035000 +0000" stop="20260706075500 +0000" channel="dk#454">
@@ -13484,13 +13484,13 @@
 <image>https://cdn.images.simply.tv/14723735963200557257.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706223000 +0000" stop="20260707023000 +0000" channel="dk#454">
-<title lang="da">Sendeohold</title>
-<desc lang="da">Sendeohold</desc>
+<title lang="da">Sendeophold</title>
+<desc lang="da">Sendeophold</desc>
 <category lang="da">sport</category>
 </programme>
 <programme start="20260707023000 +0000" stop="20260707040000 +0000" channel="dk#454">
-<title lang="da">Sendeohold</title>
-<desc lang="da">Sendeohold</desc>
+<title lang="da">Sendeophold</title>
+<desc lang="da">Sendeophold</desc>
 <category lang="da">sport</category>
 </programme>
 <programme start="20260704060000 +0000" stop="20260704070000 +0000" channel="dk#718">
@@ -13566,7 +13566,7 @@
 <image>https://cdn.images.simply.tv/17108093511279183881.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704200000 +0000" stop="20260704220000 +0000" channel="dk#718">
-<title lang="da">Atletik: Diamond League</title>
+<title lang="da">Athletics: Diamond League</title>
 <desc lang="da">From 2026. Watch athletics from the Diamond League, which brings together the world's best athletics athletes in top international competitions, where the season's points determine the overall winner.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.108.0/1</episode-num>
@@ -13590,7 +13590,7 @@
 <image>https://cdn.images.simply.tv/4477538960675991244.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705051500 +0000" stop="20260705072000 +0000" channel="dk#718">
-<title lang="da">Atletik: Diamond League</title>
+<title lang="da">Athletics: Diamond League</title>
 <desc lang="da">From 2026. Watch athletics from the Diamond League, which brings together the world's best athletics athletes in top international competitions, where the season's points determine the overall winner.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.108.0/1</episode-num>
@@ -13678,7 +13678,7 @@
 <image>https://cdn.images.simply.tv/1741999535759791782.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705204500 +0000" stop="20260705225000 +0000" channel="dk#718">
-<title lang="da">Atletik: Diamond League</title>
+<title lang="da">Athletics: Diamond League</title>
 <desc lang="da">From 2026. Watch athletics from the Diamond League, which brings together the world's best athletics athletes in top international competitions, where the season's points determine the overall winner.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.108.0/1</episode-num>
@@ -13726,7 +13726,7 @@
 <image>https://cdn.images.simply.tv/11829594987909140428.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706115000 +0000" stop="20260706135500 +0000" channel="dk#718">
-<title lang="da">Atletik: Diamond League</title>
+<title lang="da">Athletics: Diamond League</title>
 <desc lang="da">From 2026. Watch athletics from the Diamond League, which brings together the world's best athletics athletes in top international competitions, where the season's points determine the overall winner.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.108.0/1</episode-num>
@@ -13766,7 +13766,7 @@
 <image>https://cdn.images.simply.tv/8227845566771531660.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706195000 +0000" stop="20260706214500 +0000" channel="dk#718">
-<title lang="da">Atletik: Diamond League</title>
+<title lang="da">Athletics: Diamond League</title>
 <desc lang="da">From 2026. Watch athletics from the Diamond League, which brings together the world's best athletics athletes in top international competitions, where the season's points determine the overall winner.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.108.0/1</episode-num>
@@ -13774,7 +13774,7 @@
 <image>https://cdn.images.simply.tv/11357110908677247085.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706214500 +0000" stop="20260706235000 +0000" channel="dk#718">
-<title lang="da">Atletik: Diamond League</title>
+<title lang="da">Athletics: Diamond League</title>
 <desc lang="da">From 2026. Watch athletics from the Diamond League, which brings together the world's best athletics athletes in top international competitions, where the season's points determine the overall winner.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.107.0/1</episode-num>
@@ -13869,7 +13869,7 @@
 </programme>
 <programme start="20260704230000 +0000" stop="20260704233500 +0000" channel="dk#1015">
 <title lang="da">SPORT LIVE wants to go to the Olympics</title>
-<desc lang="da">Follow the path of a number of Danish athletes towards the Olympics in Los Angeles.</desc>
+<desc lang="da">Follow a number of Danish athletes on their way to the Olympics in Los Angeles.</desc>
 <category lang="da">sport</category>
 <episode-num system="xmltv_ns">2025.0.0/1</episode-num>
 <episode-num system="onscreen">S2026E01</episode-num>
@@ -18616,7 +18616,7 @@
 <desc lang="id">Bayi yang tertukar antara bayi ketutunan jepang dan keturunan Arab, mereka adalah Abdullah dan Takeshi. Mereka ber dua sama-sama membuka usaha di Jakarta dan menjadi pesaing hingga urusan asmara.</desc>
 </programme>
 <programme start="20260704073500 +0000" stop="20260704093500 +0000" channel="IMC.id@SD">
-<title lang="id">The Sweet Ancol Bridge</title>
+<title lang="id">Si Manis Jembatan Ancol</title>
 <desc lang="id">Maryam, sosok perempuan yang mencari kebahagiaan saat rumah tangganya dengan lelaki bernama Roy berada di ambang kehancuran. Hadirnya sosok Yudha mampu membuat Maryam menemukan ketenangan.</desc>
 </programme>
 <programme start="20260704093500 +0000" stop="20260704112500 +0000" channel="IMC.id@SD">
@@ -18624,7 +18624,7 @@
 <desc lang="id">Yanto, seorang cleaning service dari perusahaan obat ternama harus menyelamatkan kekasihnya, Dewi yang diculik oleh para segerombolan pasukan bersenjata dan profesional. Yanto meminta bantuan dari para keempat sahabatnya</desc>
 </programme>
 <programme start="20260704112500 +0000" stop="20260704130000 +0000" channel="IMC.id@SD">
-<title lang="id">Warkop Maju Kena Mundur Kena</title>
+<title lang="id">The Forward Warkop was hit by the reverse</title>
 <desc lang="id">Kasino melarang Dono dan Indro, teman sekosnya yang juga bawahannya kerja di bengkel, untuk jangan sampai tertarik oleh wanita. Padahal secara diam-diam, Kasino selalu merindukan seorang gadis yang fotonya pertama ia temui</desc>
 </programme>
 <programme start="20260704130000 +0000" stop="20260704150500 +0000" channel="IMC.id@SD">
@@ -18785,7 +18785,7 @@
 <title lang="it">Images and music</title>
 </programme>
 <programme start="20260704003000 +0000" stop="20260704013000 +0000" channel="InterTV.it@SD">
-<title lang="it">Radio Eppan</title>
+<title lang="it">Radio Appiano</title>
 </programme>
 <programme start="20260704013000 +0000" stop="20260704021500 +0000" channel="InterTV.it@SD">
 <title lang="it">Synthesis</title>
@@ -18839,7 +18839,7 @@
 <title lang="it">Football: the match Summary</title>
 </programme>
 <programme start="20260704140000 +0000" stop="20260704150000 +0000" channel="InterTV.it@SD">
-<title lang="it">Radio Eppan</title>
+<title lang="it">Radio Appiano</title>
 </programme>
 <programme start="20260704150000 +0000" stop="20260704170000 +0000" channel="InterTV.it@SD">
 <title lang="it">Football: the match Summary</title>
@@ -18851,7 +18851,7 @@
 <title lang="it">Synthesis</title>
 </programme>
 <programme start="20260704180000 +0000" stop="20260704190000 +0000" channel="InterTV.it@SD">
-<title lang="it">Radio Eppan</title>
+<title lang="it">Radio Appiano</title>
 </programme>
 <programme start="20260704190000 +0000" stop="20260704191500 +0000" channel="InterTV.it@SD">
 <title lang="it">105 of these goals</title>
@@ -18881,7 +18881,7 @@
 <title lang="it">Football: the match Summary</title>
 </programme>
 <programme start="20260704230000 +0000" stop="20260704233000 +0000" channel="InterTV.it@SD">
-<title lang="it">Radio Eppan</title>
+<title lang="it">Radio Appiano</title>
 </programme>
 <programme start="20260705000000 +0000" stop="20260705002000 +0000" channel="InterTV.it@SD">
 <title lang="it">Inter News</title>
@@ -18890,7 +18890,7 @@
 <title lang="it">Images and music</title>
 </programme>
 <programme start="20260705003000 +0000" stop="20260705013000 +0000" channel="InterTV.it@SD">
-<title lang="it">Radio Eppan</title>
+<title lang="it">Radio Appiano</title>
 </programme>
 <programme start="20260705013000 +0000" stop="20260705021500 +0000" channel="InterTV.it@SD">
 <title lang="it">Synthesis</title>
@@ -18944,7 +18944,7 @@
 <title lang="it">Football: the match Summary</title>
 </programme>
 <programme start="20260705140000 +0000" stop="20260705150000 +0000" channel="InterTV.it@SD">
-<title lang="it">Radio Eppan</title>
+<title lang="it">Radio Appiano</title>
 </programme>
 <programme start="20260705150000 +0000" stop="20260705170000 +0000" channel="InterTV.it@SD">
 <title lang="it">Football: the match Summary</title>
@@ -18956,7 +18956,7 @@
 <title lang="it">Synthesis</title>
 </programme>
 <programme start="20260705180000 +0000" stop="20260705190000 +0000" channel="InterTV.it@SD">
-<title lang="it">Radio Eppan</title>
+<title lang="it">Radio Appiano</title>
 </programme>
 <programme start="20260705190000 +0000" stop="20260705191500 +0000" channel="InterTV.it@SD">
 <title lang="it">105 of these goals</title>
@@ -18986,7 +18986,7 @@
 <title lang="it">Football: the match Summary</title>
 </programme>
 <programme start="20260705230000 +0000" stop="20260705233000 +0000" channel="InterTV.it@SD">
-<title lang="it">Radio Eppan</title>
+<title lang="it">Radio Appiano</title>
 </programme>
 <programme start="20260706000000 +0000" stop="20260706002000 +0000" channel="InterTV.it@SD">
 <title lang="it">Inter News</title>
@@ -18995,7 +18995,7 @@
 <title lang="it">Images and music</title>
 </programme>
 <programme start="20260706003000 +0000" stop="20260706013000 +0000" channel="InterTV.it@SD">
-<title lang="it">Radio Eppan</title>
+<title lang="it">Radio Appiano</title>
 </programme>
 <programme start="20260706013000 +0000" stop="20260706021500 +0000" channel="InterTV.it@SD">
 <title lang="it">Synthesis</title>
@@ -19049,7 +19049,7 @@
 <title lang="it">Football: the match Summary</title>
 </programme>
 <programme start="20260706140000 +0000" stop="20260706150000 +0000" channel="InterTV.it@SD">
-<title lang="it">Radio Eppan</title>
+<title lang="it">Radio Appiano</title>
 </programme>
 <programme start="20260706150000 +0000" stop="20260706170000 +0000" channel="InterTV.it@SD">
 <title lang="it">Football: the match Summary</title>
@@ -19061,7 +19061,7 @@
 <title lang="it">Synthesis</title>
 </programme>
 <programme start="20260706180000 +0000" stop="20260706190000 +0000" channel="InterTV.it@SD">
-<title lang="it">Radio Eppan</title>
+<title lang="it">Radio Appiano</title>
 </programme>
 <programme start="20260706190000 +0000" stop="20260706191500 +0000" channel="InterTV.it@SD">
 <title lang="it">105 of these goals</title>
@@ -19091,7 +19091,7 @@
 <title lang="it">Football: the match Summary</title>
 </programme>
 <programme start="20260706230000 +0000" stop="20260706233000 +0000" channel="InterTV.it@SD">
-<title lang="it">Radio Eppan</title>
+<title lang="it">Radio Appiano</title>
 </programme>
 <programme start="20260704010500 +0000" stop="20260704041000 +0000" channel="ITV1.uk@HD">
 <title lang="en">FIFA World Cup 2026: Colombia v Ghana</title>
@@ -20437,7 +20437,7 @@
 <title lang="id">Sapa Indonesia Pagi</title>
 </programme>
 <programme start="20260704013000 +0000" stop="20260704020000 +0000" channel="KompasTV.id@SD">
-<title lang="id">Kompas Sport</title>
+<title lang="id">Compass Sports</title>
 </programme>
 <programme start="20260704020000 +0000" stop="20260704023000 +0000" channel="KompasTV.id@SD">
 <title lang="id">Susthenesia</title>
@@ -20638,7 +20638,7 @@
 <title lang="id">Berita Utama</title>
 </programme>
 <programme start="20260706160000 +0000" stop="20260706163000 +0000" channel="KompasTV.id@SD">
-<title lang="id">Kompas Sport</title>
+<title lang="id">Compass Sports</title>
 </programme>
 <programme start="20260706163000 +0000" stop="20260706170000 +0000" channel="KompasTV.id@SD">
 <title lang="id">Kilas Kompas</title>
@@ -21056,7 +21056,7 @@
 </programme>
 <programme start="20260705170500 +0000" stop="20260705173500 +0000" channel="M1SD">
 <title lang="es">Cesc Fábregas, the last dream</title>
-<desc lang="es">Cesc Fábregas lives his last stage as a footballer enjoying the Italian side Como 1907. There he reviewed his sports career with DAZN.</desc>
+<desc lang="es">Cesc Fábregas lives his last stage as a footballer enjoying the Italian club Como 1907. There he reviewed his sports career with DAZN.</desc>
 <image>https://estatico.emisiondof6.com/recorte/n/vegend/F4064711.jpg</image>
 <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/M2297191V2155540"/>
 </programme>
@@ -21505,7 +21505,7 @@
 <desc lang="id">Serial Animasi yang melanjutkan kisah petualangan Yi Jin dan Peng dari film 'Abominable'. Mereka sekarang harus melindungi makhluk ajaib bernama Everest dan dunia tak kasat mata dari orang orang yang ingin mengeksploitasinya.</desc>
 </programme>
 <programme start="20260703180000 +0000" stop="20260703183000 +0000" channel="MAXKids.id@SD">
-<title lang="id">Kring Kring Has a Story</title>
+<title lang="id">Kring Kring Ada Cerita</title>
 <desc lang="id">Sebuah Program yang berisikan pesan kebaikan yang disampaikan melalui dongeng, lagu dan drama singkat yang dibawakan oleh anak - anak.</desc>
 </programme>
 <programme start="20260703183000 +0000" stop="20260703184500 +0000" channel="MAXKids.id@SD">
@@ -21581,7 +21581,7 @@
 <desc lang="id">Hi Kiddos adalah sebuah program edukasi untuk anak yang menyajikan video bertema ilmu pengetahuan dan belajar sambil menjelajahi tempat-tempat menarik.</desc>
 </programme>
 <programme start="20260704023000 +0000" stop="20260704030000 +0000" channel="MAXKids.id@SD">
-<title lang="id">Kring Kring Has a Story</title>
+<title lang="id">Kring Kring Ada Cerita</title>
 <desc lang="id">Sebuah Program yang berisikan pesan kebaikan yang disampaikan melalui dongeng, lagu dan drama singkat yang dibawakan oleh anak - anak.</desc>
 </programme>
 <programme start="20260704030000 +0000" stop="20260704031500 +0000" channel="MAXKids.id@SD">
@@ -21853,7 +21853,7 @@
 <desc lang="id">Mini series yang menceritakan suka dan duka mencari pasangan melalui kencan buta.</desc>
 </programme>
 <programme start="20260704151500 +0000" stop="20260704161500 +0000" channel="MAXReels.id@SD">
-<title lang="id">Studio Dangdut</title>
+<title lang="id">Dangdut Studio</title>
 <desc lang="id">Penampilan dari artis dangdut papan atas yang modern &amp; dibawakan dengan nuansa unik.</desc>
 </programme>
 <programme start="20260704161500 +0000" stop="20260704163000 +0000" channel="MAXReels.id@SD">
@@ -22229,7 +22229,7 @@
 <desc lang="id">Mr. Bean laki-laki yang mempunyai sikap sedikit kekanak-kanakan yang berusaha bertahan hidup di kota London dan sangat kompetititf. Dalam series animasi, ia digambarkan lebih beruntung dan kompeten dari versi live actionya.</desc>
 </programme>
 <programme start="20260704143000 +0000" stop="20260704151500 +0000" channel="MAXStream.id@SD">
-<title lang="id">Tiba - Tiba Berondong</title>
+<title lang="id">Suddenly Popcorn</title>
 <desc lang="id">Bella, dosen psikologi 35 tahun yang mapan namun kesepian. Di dorong dengan tekanan keluarga, ia menggunakan aplikasi kencan &amp; bertemu Langit, pria jenaka ternyata baru 19 tahun dan menjadi mahasiswa barunya, memicu dilema asmara.</desc>
 </programme>
 <programme start="20260704151500 +0000" stop="20260704154500 +0000" channel="MAXStream.id@SD">
@@ -22255,7 +22255,7 @@
 <title lang="id">86</title>
 </programme>
 <programme start="20260703190000 +0000" stop="20260703195000 +0000" channel="MDTV.id@HD">
-<title lang="id">Main Hakim Sendiri</title>
+<title lang="id">Take Judge Alone</title>
 </programme>
 <programme start="20260703195000 +0000" stop="20260703204500 +0000" channel="MDTV.id@HD">
 <title lang="id">Di Balik Mitos</title>
@@ -22324,7 +22324,7 @@
 <title lang="id">The Best Of Ini Talkshow</title>
 </programme>
 <programme start="20260704190000 +0000" stop="20260704195000 +0000" channel="MDTV.id@HD">
-<title lang="id">Main Hakim Sendiri</title>
+<title lang="id">Take Judge Alone</title>
 </programme>
 <programme start="20260704195000 +0000" stop="20260704204500 +0000" channel="MDTV.id@HD">
 <title lang="id">Di Balik Mitos</title>
@@ -22393,7 +22393,7 @@
 <title lang="id">The Best Of Ini Talkshow</title>
 </programme>
 <programme start="20260705190000 +0000" stop="20260705195000 +0000" channel="MDTV.id@HD">
-<title lang="id">Main Hakim Sendiri</title>
+<title lang="id">Take Judge Alone</title>
 </programme>
 <programme start="20260705195000 +0000" stop="20260705205500 +0000" channel="MDTV.id@HD">
 <title lang="id">Di Balik Mitos</title>
@@ -23660,7 +23660,7 @@
 <title lang="mr">In the Name of the King: The Last Mission</title>
 <desc lang="en">An assassin accepts one final job of abducting the daughters of a royal family. His life turns upside down when he is transported to the Middle Ages to fight an evil king and his dragon.</desc>
 <desc lang="hi">An assassin accepts his last assignment of kidnapping the daughters of the royal family. His life is turned upside down when he is sent to the Middle Ages to fight an evil king and his dragon.</desc>
-<desc lang="ta">An assassin who kidnaps royal daughters turns upside down when he travels to medieval times to fight an evil dragon-king.</desc>
+<desc lang="ta">An assassin who kidnaps royal daughters turns upside down when he travels to the Middle Ages to fight an evil dragon-king.</desc>
 <desc lang="te">An assassin who kidnaps the royal family's daughters is transported to the Middle Ages and forced to fight an evil king.</desc>
 <credits>
 <director>Uwe Boll</director>
@@ -24067,7 +24067,7 @@
 <title lang="te">Mission: Impossible II</title>
 <title lang="mr">mission imposible</title>
 <desc lang="en">Agent Ethan Hunt fights against a rogue terrorist and rushes to prevent a deadly virus from spreading. To avert a global catastrophe, Ethan has to bring everything to an end.</desc>
-<desc lang="hi">Agent Ethan Hunt battles a rebel terrorist and moves quickly to stop the spread of a deadly virus. To avert a global catastrophe, Ethan must end everything.</desc>
+<desc lang="hi">Agent Ethan Hunt battles a rebel terrorist and moves quickly to stop the spread of a deadly virus. To avert a global catastrophe, Ethan has to end everything.</desc>
 <desc lang="ta">Agent Ethan Hunt battles a rogue terrorist and rushes to stop the spread of a deadly virus.</desc>
 <desc lang="te">Agent Ethan Hunt sets out to fight a brutal terrorist and prevent the spread of a deadly virus.</desc>
 <credits>
@@ -24184,8 +24184,8 @@
 <title lang="mr">Maximum Conviction</title>
 <desc lang="en">Two former black ops operatives are required to transfer two female convicts to a prison. While on their way, unknown assailants attack them.</desc>
 <desc lang="hi">Two former black ops operatives are tasked with delivering two female prisoners to a prison. On the way, they are attacked by unknown assailants.</desc>
-<desc lang="ta">Two women convicts are being escorted to the jail by two men of ex-secret action unit, when they are attacked by unidentified assailants on their way.</desc>
-<desc lang="te">Two ex-black ops agents have to escort two female prisoners to jail. However, thugs attack them.</desc>
+<desc lang="ta">Two women convicts are being escorted to the jail by two men of the ex-secret action unit, when on their way, they are attacked by unidentified assailants.</desc>
+<desc lang="te">Two ex-black ops agents have to deliver two women prisoners to jail. However, thugs attack them.</desc>
 <credits>
 <director>Keoni Waxman</director>
 <actor>Steven Seagal</actor>
@@ -26265,7 +26265,7 @@
 <title lang="mr">Braven</title>
 <desc lang="en">A logger and his father head to their hunting cabin, hoping for a quiet weekend. Instead, they find themselves in a kill-or-be-killed stand for survival when they encounter a gang of drug traffickers.</desc>
 <desc lang="hi">A woodsman and his father head to their hunting cabin in hopes of a quiet weekend. When they encounter a gang of drug smugglers, they are caught in a situation of killing or dying to survive.</desc>
-<desc lang="ta">A lumberjack and father on a hunt find themselves in a dilemma when they encounter a gang of drug smugglers.</desc>
+<desc lang="ta">A woodcutter and a father on a hunt find themselves in a dilemma when they encounter a gang of drug smugglers.</desc>
 <desc lang="te">Lumberjack Joe Braven is forced to fight drug traffickers to save his wife and father.</desc>
 <desc lang="mr">Joe Braven has to fight a gang of drug smugglers in a mountainous area to protect his wife and father.</desc>
 <credits>
@@ -26467,7 +26467,7 @@
 <desc lang="en">An aspiring gangster pretends to be part of a notorious gang and tries to terrorise a neighbourhood. However, unknown to him, three martial arts experts live there and are ready to take him down.</desc>
 <desc lang="hi">An aspiring gangster pretends to be part of a gang and tries to terrorize the locality. However, what he doesn't know is that there are three martial arts experts ready to capture him.</desc>
 <desc lang="ta">A man who plays the role of a gangster's grandfather has no idea about three martial arts experts ready to take him down.</desc>
-<desc lang="te">Part of a notorious gang, an aspiring gangster encounters three martial arts experts he doesn't know.</desc>
+<desc lang="te">An aspiring gangster who is part of a notorious gang encounters three martial arts experts he doesn't know.</desc>
 <desc lang="mr">As an Umedi goon tries to terrorize the area, three martial arts experts are ready to kill him.</desc>
 <credits>
 <director>Stephen Chow</director>
@@ -26804,7 +26804,7 @@
 <title lang="te">Boy Choir</title>
 <title lang="mr">Boychoir</title>
 <desc lang="en">A demanding choir master at an elite East Coast boarding school pushes a gifted but troubled orphan to fulfil his true potential.</desc>
-<desc lang="hi">A demanding choir master at a prestigious boarding school on the East Coast inspires a talented but troubled orphan boy to fulfill his true potential.</desc>
+<desc lang="hi">A demanding choir master at a prestigious East Coast boarding school inspires a talented but troubled orphan boy to fulfill his true potential.</desc>
 <desc lang="ta">A choir teacher at an East Coast boarding school helps an orphan fulfill his true potential.</desc>
 <desc lang="te">A choir master at an elite boarding school on the East Coast encourages a gifted orphan.</desc>
 <credits>
@@ -27104,7 +27104,7 @@
 <title lang="te">Serena</title>
 <title lang="mr">Serena</title>
 <desc lang="en">In Depression-era North Carolina, the future of George Pemberton's timber empire becomes complicated when he marries Serena.</desc>
-<desc lang="hi">George, a successful lumber merchant, marries the beautiful Serena. However, when Serena begins manipulating George's business decisions, his life is turned upside down.</desc>
+<desc lang="hi">George, a successful lumber merchant, marries the beautiful Serena. However, when Serena begins to manipulate George's business decisions, his life is turned upside down.</desc>
 <desc lang="ta">George marries Serena. When Serena starts manipulating George's business decisions, his life is turned upside down.</desc>
 <desc lang="te">When George, a lumber merchant, marries Serena, his life is turned upside down when she changes his business decisions.</desc>
 <credits>
@@ -27584,7 +27584,7 @@
 <title lang="te">Serena</title>
 <title lang="mr">Serena</title>
 <desc lang="en">In Depression-era North Carolina, the future of George Pemberton's timber empire becomes complicated when he marries Serena.</desc>
-<desc lang="hi">George, a successful lumber merchant, marries the beautiful Serena. However, when Serena begins manipulating George's business decisions, his life is turned upside down.</desc>
+<desc lang="hi">George, a successful lumber merchant, marries the beautiful Serena. However, when Serena begins to manipulate George's business decisions, his life is turned upside down.</desc>
 <desc lang="ta">George marries Serena. When Serena starts manipulating George's business decisions, his life is turned upside down.</desc>
 <desc lang="te">When George, a lumber merchant, marries Serena, his life is turned upside down when she changes his business decisions.</desc>
 <credits>
@@ -27627,7 +27627,7 @@
 <title lang="te">Boy Choir</title>
 <title lang="mr">Boychoir</title>
 <desc lang="en">A demanding choir master at an elite East Coast boarding school pushes a gifted but troubled orphan to fulfil his true potential.</desc>
-<desc lang="hi">A demanding choir master at a prestigious boarding school on the East Coast inspires a talented but troubled orphan boy to fulfill his true potential.</desc>
+<desc lang="hi">A demanding choir master at a prestigious East Coast boarding school inspires a talented but troubled orphan boy to fulfill his true potential.</desc>
 <desc lang="ta">A choir teacher at an East Coast boarding school helps an orphan fulfill his true potential.</desc>
 <desc lang="te">A choir master at an elite boarding school on the East Coast encourages a gifted orphan.</desc>
 <credits>
@@ -28070,7 +28070,7 @@
 <title lang="te">Serena</title>
 <title lang="mr">Serena</title>
 <desc lang="en">In Depression-era North Carolina, the future of George Pemberton's timber empire becomes complicated when he marries Serena.</desc>
-<desc lang="hi">George, a successful lumber merchant, marries the beautiful Serena. However, when Serena begins manipulating George's business decisions, his life is turned upside down.</desc>
+<desc lang="hi">George, a successful lumber merchant, marries the beautiful Serena. However, when Serena begins to manipulate George's business decisions, his life is turned upside down.</desc>
 <desc lang="ta">George marries Serena. When Serena starts manipulating George's business decisions, his life is turned upside down.</desc>
 <desc lang="te">When George, a lumber merchant, marries Serena, his life is turned upside down when she changes his business decisions.</desc>
 <credits>
@@ -28251,7 +28251,7 @@
 <title lang="mr">Knives out</title>
 <desc lang="en">When a renowned novelist passes unexpectedly, a detective scrutinises the family, uncovering tangled relationships and hidden agendas.</desc>
 <desc lang="hi">When a renowned novelist dies unexpectedly, a detective investigates the family, uncovering complicated relationships and hidden agendas.</desc>
-<desc lang="ta">A detective investigates a novelist's family and uncovers hidden agendas.</desc>
+<desc lang="ta">Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</desc>
 <desc lang="te">When a novelist dies unexpectedly, a detective uncovers the family's tangled relationships and hidden agendas.</desc>
 <credits>
 <director>Rian Johnson</director>
@@ -30791,7 +30791,7 @@
 </programme>
 <programme start="20260706040000 +0000" stop="20260706050000 +0000" channel="mx#fox-sports-2">
 <title lang="es">Budapest, Hungary - Men's Final Session</title>
-<desc lang="es">Vive las emociones de la UIPM Pentathlon World Cup.</desc>
+<desc lang="es">Live the emotions of the UIPM Pentathlon World Cup.</desc>
 <category lang="es">UIPM Pentathlon World Cup</category>
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
 </programme>
@@ -30929,7 +30929,7 @@
 </programme>
 <programme start="20260704070000 +0000" stop="20260704090000 +0000" channel="mx#fox-sports-3">
 <title lang="es">Budapest, Hungary - Women's Final Session</title>
-<desc lang="es">Vive las emociones de la UIPM Pentathlon World Cup.</desc>
+<desc lang="es">Live the emotions of the UIPM Pentathlon World Cup.</desc>
 <category lang="es">UIPM Pentathlon World Cup</category>
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
 </programme>
@@ -31034,7 +31034,7 @@
 </programme>
 <programme start="20260705070000 +0000" stop="20260705090000 +0000" channel="mx#fox-sports-3">
 <title lang="es">Budapest, Hungary - Men's Final Session</title>
-<desc lang="es">Vive las emociones de la UIPM Pentathlon World Cup.</desc>
+<desc lang="es">Live the emotions of the UIPM Pentathlon World Cup.</desc>
 <category lang="es">UIPM Pentathlon World Cup</category>
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
 </programme>
@@ -31415,7 +31415,7 @@
 <category lang="no">other</category>
 </programme>
 <programme start="20260704120000 +0000" stop="20260704140000 +0000" channel="no#0197">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From SoFi Stadium, Inglewood, and the Round of 16 between Spain and Austria in the FIFA World Cup. Commentators: Endre Olav Osnes and Petter Myhre.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.15.0/1</episode-num>
@@ -31423,7 +31423,7 @@
 <image>https://cdn.images.simply.tv/6254447734140675015.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704140000 +0000" stop="20260704160000 +0000" channel="no#0197">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From Arrowhead Stadium, Kansas City, and the Round of 16 between Colombia and Ghana in the FIFA World Cup. Commentators: Espen Ween and Joanna Bækkelund.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.1.0/1</episode-num>
@@ -31431,7 +31431,7 @@
 <image>https://cdn.images.simply.tv/2547251757631413017.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704160000 +0000" stop="20260704180000 +0000" channel="no#0197">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From MetLife Stadium, East Rutherford, and the Round of 16 between France and Sweden in the FIFA World Cup. Commentators: Morten Langli and Petter Myhre.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.41.0/1</episode-num>
@@ -31439,15 +31439,15 @@
 <image>https://cdn.images.simply.tv/6254447734140675015.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704180000 +0000" stop="20260704200000 +0000" channel="no#0197">
-<title lang="no">FIFA Soccer World Cup</title>
-<desc lang="no">From 2026. From Lumen Field, Seattle, and the round of 16 final between Belgium and Senegal in the FIFA World Cup. Commentators: Peder Mørtvedt and Joanna Bækkelund.</desc>
+<title lang="no">FIFA Fotball-VM</title>
+<desc lang="no">From 2026. From Lumen Field, Seattle, and the Round of 16 final between Belgium and Senegal in the FIFA World Cup. Commentators: Peder Mørtvedt and Joanna Bækkelund.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.12.0/1</episode-num>
 <episode-num system="onscreen">S2026E13</episode-num>
 <image>https://cdn.images.simply.tv/9516690057714652031.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704200000 +0000" stop="20260704221000 +0000" channel="no#0197">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From Estadio Banorte, Mexico, and the round of 16 final of the FIFA World Cup between Mexico and Ecuador. Commentators: Endre Olav Osnes and Joanna Bækkelund.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.86.0/1</episode-num>
@@ -31475,7 +31475,7 @@
 <category lang="no">other</category>
 </programme>
 <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="no#0197">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From Lincoln Financial Field, Philadelphia, and the round of 16 of the FIFA World Cup.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.63.0/1</episode-num>
@@ -31483,7 +31483,7 @@
 <image>https://cdn.images.simply.tv/6254447734140675015.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="no#0197">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From Arrowhead Stadium, Kansas City, and the Round of 16 between Colombia and Ghana in the FIFA World Cup. Commentators: Espen Ween and Joanna Bækkelund.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.1.0/1</episode-num>
@@ -31491,7 +31491,7 @@
 <image>https://cdn.images.simply.tv/2547251757631413017.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="no#0197">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From MetLife Stadium, East Rutherford, and the Round of 16 between France and Sweden in the FIFA World Cup. Commentators: Morten Langli and Petter Myhre.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.41.0/1</episode-num>
@@ -31499,15 +31499,15 @@
 <image>https://cdn.images.simply.tv/2867758589609085852.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705180000 +0000" stop="20260705200000 +0000" channel="no#0197">
-<title lang="no">FIFA Soccer World Cup</title>
-<desc lang="no">From 2026. From Lumen Field, Seattle, and the round of 16 final between Belgium and Senegal in the FIFA World Cup. Commentators: Peder Mørtvedt and Joanna Bækkelund.</desc>
+<title lang="no">FIFA Fotball-VM</title>
+<desc lang="no">From 2026. From Lumen Field, Seattle, and the Round of 16 final between Belgium and Senegal in the FIFA World Cup. Commentators: Peder Mørtvedt and Joanna Bækkelund.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.12.0/1</episode-num>
 <episode-num system="onscreen">S2026E13</episode-num>
 <image>https://cdn.images.simply.tv/9516690057714652031.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705200000 +0000" stop="20260705221000 +0000" channel="no#0197">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From Estadio Banorte, Mexico, and the round of 16 final of the FIFA World Cup between Mexico and Ecuador. Commentators: Endre Olav Osnes and Joanna Bækkelund.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.86.0/1</episode-num>
@@ -31535,7 +31535,7 @@
 <category lang="no">other</category>
 </programme>
 <programme start="20260706120000 +0000" stop="20260706140000 +0000" channel="no#0197">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From SoFi Stadium, Inglewood, and the Round of 16 between Spain and Austria in the FIFA World Cup. Commentators: Endre Olav Osnes and Petter Myhre.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.15.0/1</episode-num>
@@ -31543,7 +31543,7 @@
 <image>https://cdn.images.simply.tv/12908070981017302938.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706140000 +0000" stop="20260706160000 +0000" channel="no#0197">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From Estadio Banorte, Mexico, and the round of 16 final of the FIFA World Cup between Mexico and Ecuador. Commentators: Endre Olav Osnes and Joanna Bækkelund.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.86.0/1</episode-num>
@@ -31551,7 +31551,7 @@
 <image>https://cdn.images.simply.tv/13052168557650290575.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706160000 +0000" stop="20260706180000 +0000" channel="no#0197">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From Arrowhead Stadium, Kansas City, and the Round of 16 between Colombia and Ghana in the FIFA World Cup. Commentators: Espen Ween and Joanna Bækkelund.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.1.0/1</episode-num>
@@ -31559,7 +31559,7 @@
 <image>https://cdn.images.simply.tv/2547251757631413017.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706180000 +0000" stop="20260707040000 +0000" channel="no#0197">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From Lincoln Financial Field, Philadelphia, and the round of 16 of the FIFA World Cup.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.63.0/1</episode-num>
@@ -31673,7 +31673,7 @@
 <image>https://cdn.images.simply.tv/13890572654359952007.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704075500 +0000" stop="20260704100500 +0000" channel="no#0199">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From Arrowhead Stadium, Kansas City, and the Round of 16 between Colombia and Ghana in the FIFA World Cup. Commentators: Espen Ween and Joanna Bækkelund.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.1.0/1</episode-num>
@@ -31681,7 +31681,7 @@
 <image>https://cdn.images.simply.tv/2547251757631413017.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704100500 +0000" stop="20260704120500 +0000" channel="no#0199">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From Estadio Banorte, Mexico, and the round of 16 final of the FIFA World Cup between Mexico and Ecuador. Commentators: Endre Olav Osnes and Joanna Bækkelund.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.86.0/1</episode-num>
@@ -31689,7 +31689,7 @@
 <image>https://cdn.images.simply.tv/13052168557650290575.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704120500 +0000" stop="20260704140500 +0000" channel="no#0199">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From SoFi Stadium, Inglewood, and the Round of 16 between Spain and Austria in the FIFA World Cup. Commentators: Endre Olav Osnes and Petter Myhre.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.15.0/1</episode-num>
@@ -31697,7 +31697,7 @@
 <image>https://cdn.images.simply.tv/6254447734140675015.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704140500 +0000" stop="20260704160500 +0000" channel="no#0199">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From AT Stadium, Arlington, Texas and the Round of 16 final between Ivory Coast and Norway in the FIFA Soccer World Cup.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.16.0/1</episode-num>
@@ -31705,7 +31705,7 @@
 <image>https://cdn.images.simply.tv/2160534980696607132.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260704160500 +0000" stop="20260704181000 +0000" channel="no#0199">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From Arrowhead Stadium, Kansas City, and the Round of 16 between Colombia and Ghana in the FIFA World Cup. Commentators: Espen Ween and Joanna Bækkelund.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.1.0/1</episode-num>
@@ -31738,7 +31738,7 @@
 </programme>
 <programme start="20260705000000 +0000" stop="20260705020500 +0000" channel="no#0199">
 <title lang="no">The OBOS league</title>
-<desc lang="no">From 2026. From the Gjemselund stadium and the match between Kongsvinger and Sogndal in the OBOS league.</desc>
+<desc lang="no">From 2026. From Gjemselund stadium and the match between Kongsvinger and Sogndal in the OBOS league.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.101.0/1</episode-num>
 <episode-num system="onscreen">S2026E102</episode-num>
@@ -31769,7 +31769,7 @@
 <image>https://cdn.images.simply.tv/13890572654359952007.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705080000 +0000" stop="20260705100500 +0000" channel="no#0199">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From Lincoln Financial Field, Philadelphia, and the round of 16 of the FIFA World Cup.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.63.0/1</episode-num>
@@ -31777,7 +31777,7 @@
 <image>https://cdn.images.simply.tv/2867758589609085852.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260705100500 +0000" stop="20260705121000 +0000" channel="no#0199">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From Arrowhead Stadium, Kansas City, and the Round of 16 between Colombia and Ghana in the FIFA World Cup. Commentators: Espen Ween and Joanna Bækkelund.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.1.0/1</episode-num>
@@ -31850,7 +31850,7 @@
 </programme>
 <programme start="20260705180000 +0000" stop="20260705200000 +0000" channel="no#0199">
 <title lang="no">The OBOS league</title>
-<desc lang="no">From 2026. From the Gjemselund stadium and the match between Kongsvinger and Sogndal in the OBOS league.</desc>
+<desc lang="no">From 2026. From Gjemselund stadium and the match between Kongsvinger and Sogndal in the OBOS league.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.101.0/1</episode-num>
 <episode-num system="onscreen">S2026E102</episode-num>
@@ -31905,7 +31905,7 @@
 <image>https://cdn.images.simply.tv/10603541347167789861.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706100000 +0000" stop="20260706120000 +0000" channel="no#0199">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From Lincoln Financial Field, Philadelphia, and the round of 16 of the FIFA World Cup.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.63.0/1</episode-num>
@@ -31913,7 +31913,7 @@
 <image>https://cdn.images.simply.tv/6254447734140675015.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706120000 +0000" stop="20260706160500 +0000" channel="no#0199">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From Arrowhead Stadium, Kansas City, and the Round of 16 between Colombia and Ghana in the FIFA World Cup. Commentators: Espen Ween and Joanna Bækkelund.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.1.0/1</episode-num>
@@ -31921,7 +31921,7 @@
 <image>https://cdn.images.simply.tv/6254447734140675015.jpg?aspect_ratio=16:9</image>
 </programme>
 <programme start="20260706160500 +0000" stop="20260706181000 +0000" channel="no#0199">
-<title lang="no">FIFA Soccer World Cup</title>
+<title lang="no">FIFA Fotball-VM</title>
 <desc lang="no">From 2026. From SoFi Stadium, Inglewood, and the Round of 16 between Spain and Austria in the FIFA World Cup. Commentators: Endre Olav Osnes and Petter Myhre.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.15.0/1</episode-num>
@@ -31962,7 +31962,7 @@
 </programme>
 <programme start="20260707020500 +0000" stop="20260707040000 +0000" channel="no#0199">
 <title lang="no">The OBOS league</title>
-<desc lang="no">From 2026. From the Gjemselund stadium and the match between Kongsvinger and Sogndal in the OBOS league.</desc>
+<desc lang="no">From 2026. From Gjemselund stadium and the match between Kongsvinger and Sogndal in the OBOS league.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.101.0/1</episode-num>
 <episode-num system="onscreen">S2026E102</episode-num>
@@ -32278,7 +32278,7 @@
 </programme>
 <programme start="20260705080000 +0000" stop="20260705100000 +0000" channel="no#0271">
 <title lang="no">Beachvolley: Elite16, fra Gstaad</title>
-<desc lang="no">From 2026. From 2026. Beach volleyball, Elite16.</desc>
+<desc lang="no">Fra 2026. Fra 2026. Beachvolley, Elite16.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.12.0/1</episode-num>
 <episode-num system="onscreen">S2026E13</episode-num>
@@ -32302,7 +32302,7 @@
 </programme>
 <programme start="20260705110000 +0000" stop="20260705151500 +0000" channel="no#0271">
 <title lang="no">Beachvolley: Elite16, fra Gstaad</title>
-<desc lang="no">From 2026. From 2026. Beach volleyball, Elite16.</desc>
+<desc lang="no">Fra 2026. Fra 2026. Beachvolley, Elite16.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.13.0/1</episode-num>
 <episode-num system="onscreen">S2026E14</episode-num>
@@ -32318,7 +32318,7 @@
 </programme>
 <programme start="20260705154500 +0000" stop="20260705174500 +0000" channel="no#0271">
 <title lang="no">Beachvolley: Elite16, fra Gstaad</title>
-<desc lang="no">From 2026. From 2026. Beach volleyball, Elite16.</desc>
+<desc lang="no">Fra 2026. Fra 2026. Beachvolley, Elite16.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.12.0/1</episode-num>
 <episode-num system="onscreen">S2026E13</episode-num>
@@ -32326,7 +32326,7 @@
 </programme>
 <programme start="20260705174500 +0000" stop="20260705220000 +0000" channel="no#0271">
 <title lang="no">Beachvolley: Elite16, fra Gstaad</title>
-<desc lang="no">From 2026. From 2026. Beach volleyball, Elite16.</desc>
+<desc lang="no">Fra 2026. Fra 2026. Beachvolley, Elite16.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.13.0/1</episode-num>
 <episode-num system="onscreen">S2026E14</episode-num>
@@ -32609,7 +32609,7 @@
 </programme>
 <programme start="20260705133000 +0000" stop="20260705150000 +0000" channel="no#0298">
 <title lang="no">The prisoners at the Fort</title>
-<desc lang="no">From 2023. Erlend Elias is pushed out of his comfort zone in every possible way in this fierce duel against the gamer team led by Dennis Vareide. Fortnite world champion Emil "Nyrox" gets to experience the fear of heights he thought he didn't have.</desc>
+<desc lang="no">From 2023. Erlend Elias is pushed out of his comfort zone in every possible way in this intense duel against the gamer team led by Dennis Vareide. Fortnite world champion Emil "Nyrox" gets to experience the fear of heights he thought he didn't have.</desc>
 <category lang="no">series</category>
 <episode-num system="xmltv_ns">11.1.0/1</episode-num>
 <episode-num system="onscreen">S12E02</episode-num>
@@ -33156,7 +33156,7 @@
 <image>https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2025/06/05/6840ff98b1c19.jpg</image>
 </programme>
 <programme start="20260704090000 +0000" stop="20260704102500 +0000" channel="no#0308">
-<title lang="no">Despicable Me 3</title>
+<title lang="no">Despicable me 3</title>
 <desc lang="no">As of 2017. Gru has been fired from the Anti-Villain League after failing to capture the evil villain, Balthazar Bratt. But when a twin brother he didn't know existed shows up, Gru remembers how wonderful it feels to be evil.</desc>
 <category lang="no">program</category>
 <category lang="no">series</category>
@@ -33276,7 +33276,7 @@
 </programme>
 <programme start="20260705190000 +0000" stop="20260705210000 +0000" channel="no#0308">
 <title lang="no">Anyone But You</title>
-<desc lang="no">From 2023. After a wonderful first date, Bea and Ben's fierce attraction suddenly turns cold. When they are unexpectedly reunited at a wedding in Australia, they end up pretending to be a couple.</desc>
+<desc lang="no">From 2023. After a fantastic first date, Bea and Ben's fierce attraction suddenly turns cold. When they are unexpectedly reunited at a wedding in Australia, they end up pretending to be a couple.</desc>
 <category lang="no">program</category>
 <category lang="no">series</category>
 <image>https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/02/20/65d4a536ca10d.jpg</image>
@@ -33374,7 +33374,7 @@
 </programme>
 <programme start="20260706230000 +0000" stop="20260707010000 +0000" channel="no#0308">
 <title lang="no">Anyone But You</title>
-<desc lang="no">From 2023. After a wonderful first date, Bea and Ben's fierce attraction suddenly turns cold. When they are unexpectedly reunited at a wedding in Australia, they end up pretending to be a couple.</desc>
+<desc lang="no">From 2023. After a fantastic first date, Bea and Ben's fierce attraction suddenly turns cold. When they are unexpectedly reunited at a wedding in Australia, they end up pretending to be a couple.</desc>
 <category lang="no">program</category>
 <category lang="no">series</category>
 <image>https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/02/20/65d4a536ca10d.jpg</image>
@@ -33395,7 +33395,7 @@
 </programme>
 <programme start="20260704040000 +0000" stop="20260704044000 +0000" channel="no#0320">
 <title lang="no">Moonshine</title>
-<desc lang="no">From 2022. Just when it looks like Moonshine is back on its feet, Lidia discovers that the family needs to pay a $15,000 tax lien as soon as possible.</desc>
+<desc lang="no">From 2022. Just when it looks like Moonshine is back on its feet, Lidia discovers that the family needs to pay a $15,000 tax lien ASAP.</desc>
 <category lang="no">series</category>
 <episode-num system="xmltv_ns">1.2.0/1</episode-num>
 <episode-num system="onscreen">S02E03</episode-num>
@@ -33451,7 +33451,7 @@
 </programme>
 <programme start="20260704080000 +0000" stop="20260704082000 +0000" channel="no#0320">
 <title lang="no">Ghosts</title>
-<desc lang="no">From 2024. When Jay's sister Bela and her boyfriend, Eric, visit the Woodstone Mansion, Eric reveals that there has been a big change after he had a near-death experience there at Christmas.</desc>
+<desc lang="no">From 2024. When Jay's sister Bela and her boyfriend, Eric, visit the Woodstone Mansion, Eric reveals that a big change has taken place after he had a near-death experience there at Christmas.</desc>
 <category lang="no">series</category>
 <episode-num system="xmltv_ns">2.2.0/1</episode-num>
 <episode-num system="onscreen">S03E03</episode-num>
@@ -34274,7 +34274,7 @@
 </programme>
 <programme start="20260704070000 +0000" stop="20260704082500 +0000" channel="no#0321">
 <title lang="no">The Last Showgirl</title>
-<desc lang="no">From 2024. A glamorous dancer must plan for the future when her show abruptly closes after 30 years.</desc>
+<desc lang="no">From 2024. A glamorous dancer must plan for the future when her performance abruptly closes after 30 years.</desc>
 <category lang="no">program</category>
 <category lang="no">series</category>
 <image>https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2025/03/13/67d2e11aa4b5c.jpg</image>
@@ -34295,7 +34295,7 @@
 </programme>
 <programme start="20260704130000 +0000" stop="20260704150000 +0000" channel="no#0321">
 <title lang="no">Anyone But You</title>
-<desc lang="no">From 2023. After a wonderful first date, Bea and Ben's fierce attraction suddenly turns cold. When they are unexpectedly reunited at a wedding in Australia, they end up pretending to be a couple.</desc>
+<desc lang="no">From 2023. After a fantastic first date, Bea and Ben's fierce attraction suddenly turns cold. When they are unexpectedly reunited at a wedding in Australia, they end up pretending to be a couple.</desc>
 <category lang="no">program</category>
 <category lang="no">series</category>
 <image>https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/02/20/65d4a536ca10d.jpg</image>
@@ -34358,7 +34358,7 @@
 </programme>
 <programme start="20260705072000 +0000" stop="20260705091000 +0000" channel="no#0321">
 <title lang="no">Anyone But You</title>
-<desc lang="no">From 2023. After a wonderful first date, Bea and Ben's fierce attraction suddenly turns cold. When they are unexpectedly reunited at a wedding in Australia, they end up pretending to be a couple.</desc>
+<desc lang="no">From 2023. After a fantastic first date, Bea and Ben's fierce attraction suddenly turns cold. When they are unexpectedly reunited at a wedding in Australia, they end up pretending to be a couple.</desc>
 <category lang="no">program</category>
 <category lang="no">series</category>
 <image>https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/02/20/65d4a535b8f6c.jpg</image>
@@ -34530,7 +34530,7 @@
 </programme>
 <programme start="20260704080000 +0000" stop="20260704094000 +0000" channel="no#0322">
 <title lang="no">After We Fell</title>
-<desc lang="no">From 2021. Tessa has landed an exciting new job in Seattle, but Hardin's jealousy and unpredictable behavior threaten to destroy their relationship. The situation becomes even more complicated when old secrets are revealed.</desc>
+<desc lang="no">From 2021. Tessa has landed a new and exciting job in Seattle, but Hardin's jealousy and unpredictable behavior threaten to destroy their relationship. The situation becomes even more complicated when old secrets are revealed.</desc>
 <category lang="no">program</category>
 <category lang="no">series</category>
 <image>https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2022/03/07/62256be37417a.jpg</image>
@@ -34565,7 +34565,7 @@
 </programme>
 <programme start="20260704180000 +0000" stop="20260704210500 +0000" channel="no#0322">
 <title lang="no">The Wolf of Wall Street</title>
-<desc lang="no">From 2013. The story of the infamous New York stockbroker Jordan Belfort. Belfort went from small stocks and rectitude to IPO stocks and a life of corruption in the late 1980s.</desc>
+<desc lang="no">From 2013. The story of the infamous New York stockbroker Jordan Belfort. Belfort went from small stocks and rectitude to IPOs and a life of corruption in the late 1980s.</desc>
 <category lang="no">other</category>
 <image>https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2018/02/27/5a949f4f5330a.jpg</image>
 </programme>
@@ -34655,7 +34655,7 @@
 </programme>
 <programme start="20260705221000 +0000" stop="20260706010900 +0000" channel="no#0322">
 <title lang="no">The Wolf of Wall Street</title>
-<desc lang="no">From 2013. The story of the infamous New York stockbroker Jordan Belfort. Belfort went from small stocks and rectitude to IPO stocks and a life of corruption in the late 1980s.</desc>
+<desc lang="no">From 2013. The story of the infamous New York stockbroker Jordan Belfort. Belfort went from small stocks and rectitude to IPOs and a life of corruption in the late 1980s.</desc>
 <category lang="no">other</category>
 <image>https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2020/03/11/5e689ed00110c.jpg</image>
 </programme>
@@ -34710,7 +34710,7 @@
 </programme>
 <programme start="20260706180000 +0000" stop="20260706201000 +0000" channel="no#0322">
 <title lang="no">The Upside</title>
-<desc lang="no">As of 2017. Dell has just been paroled and is looking for a job. Multimillionaire Phillip is in a wheelchair and needs a helper around the clock - a position Dell reluctantly applies for.</desc>
+<desc lang="no">As of 2017. Dell has just been paroled and is looking for a job. Multi-millionaire Phillip is in a wheelchair and needs a helper around the clock - a position Dell reluctantly applies for.</desc>
 <category lang="no">program</category>
 <category lang="no">series</category>
 <image>https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2023/02/05/63def63a8adc4.jpg</image>
@@ -34769,7 +34769,7 @@
 </programme>
 <programme start="20260704080000 +0000" stop="20260704103000 +0000" channel="no#0406">
 <title lang="no">Mallorca Championships</title>
-<desc lang="no">From Mallorca, Spain, and the final between Ethan Quinn and Alejandro Davidovich Fokina in the ATP 250 tournament Mallorca Championships.</desc>
+<desc lang="no">Fra Mallorca, Spania, og finalen mellom Ethan Quinn og Alejandro Davidovich Fokina i ATP 250-turneringen Mallorca Championships.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.10.0/1</episode-num>
 <episode-num system="onscreen">S2026E11</episode-num>
@@ -34855,7 +34855,7 @@
 </programme>
 <programme start="20260705010000 +0000" stop="20260705033000 +0000" channel="no#0406">
 <title lang="no">Mallorca Championships</title>
-<desc lang="no">From Mallorca, Spain, and the final between Ethan Quinn and Alejandro Davidovich Fokina in the ATP 250 tournament Mallorca Championships.</desc>
+<desc lang="no">Fra Mallorca, Spania, og finalen mellom Ethan Quinn og Alejandro Davidovich Fokina i ATP 250-turneringen Mallorca Championships.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.10.0/1</episode-num>
 <episode-num system="onscreen">S2026E11</episode-num>
@@ -34903,7 +34903,7 @@
 </programme>
 <programme start="20260705120000 +0000" stop="20260705143500 +0000" channel="no#0406">
 <title lang="no">Mallorca Championships</title>
-<desc lang="no">From Mallorca, Spain, and the final between Ethan Quinn and Alejandro Davidovich Fokina in the ATP 250 tournament Mallorca Championships.</desc>
+<desc lang="no">Fra Mallorca, Spania, og finalen mellom Ethan Quinn og Alejandro Davidovich Fokina i ATP 250-turneringen Mallorca Championships.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.10.0/1</episode-num>
 <episode-num system="onscreen">S2026E11</episode-num>
@@ -35095,7 +35095,7 @@
 </programme>
 <programme start="20260706210000 +0000" stop="20260706233000 +0000" channel="no#0406">
 <title lang="no">Mallorca Championships</title>
-<desc lang="no">From Mallorca, Spain, and the final between Ethan Quinn and Alejandro Davidovich Fokina in the ATP 250 tournament Mallorca Championships.</desc>
+<desc lang="no">Fra Mallorca, Spania, og finalen mellom Ethan Quinn og Alejandro Davidovich Fokina i ATP 250-turneringen Mallorca Championships.</desc>
 <category lang="no">sport</category>
 <episode-num system="xmltv_ns">2025.10.0/1</episode-num>
 <episode-num system="onscreen">S2026E11</episode-num>
@@ -35220,7 +35220,7 @@
 </programme>
 <programme start="20260704180000 +0000" stop="20260704185500 +0000" channel="nova_sport_1_hd">
 <title lang="sk">EFKA: The fastest girl in the universe</title>
-<desc lang="sk">Documentary about the career of world snowboard crosser Eva Adamczyková, (documentary)</desc>
+<desc lang="sk">Documentary about the career of world-class snowboard crosser Eva Adamczyková, (documentary)</desc>
 <category lang="sk">dokument</category>
 </programme>
 <programme start="20260704185500 +0000" stop="20260704190000 +0000" channel="nova_sport_1_hd">
@@ -35365,7 +35365,7 @@
 </programme>
 <programme start="20260705220000 +0000" stop="20260705225500 +0000" channel="nova_sport_1_hd">
 <title lang="sk">The King's poker (26)</title>
-<desc lang="sk">King's Resort Events (26) To nejlepší z main eventu The Festival v King’s Resortu v Rozvadově., (šport)</desc>
+<desc lang="sk">King's Resort Events (26) The best of the main event The Festival at King's Resort in Rozvadov., (sport)</desc>
 <category lang="sk">šport</category>
 </programme>
 <programme start="20260705225500 +0000" stop="20260705232500 +0000" channel="nova_sport_1_hd">
@@ -35435,7 +35435,7 @@
 </programme>
 <programme start="20260706170000 +0000" stop="20260706180000 +0000" channel="nova_sport_1_hd">
 <title lang="sk">The King's poker (26)</title>
-<desc lang="sk">King's Resort Events (26) To nejlepší z main eventu The Festival v King’s Resortu v Rozvadově., (šport)</desc>
+<desc lang="sk">King's Resort Events (26) The best of the main event The Festival at King's Resort in Rozvadov., (sport)</desc>
 <category lang="sk">šport</category>
 </programme>
 <programme start="20260706180000 +0000" stop="20260706181500 +0000" channel="nova_sport_1_hd">
@@ -35470,7 +35470,7 @@
 </programme>
 <programme start="20260706210500 +0000" stop="20260706220000 +0000" channel="nova_sport_1_hd">
 <title lang="sk">EFKA: The fastest girl in the universe</title>
-<desc lang="sk">Documentary about the career of world snowboard crosser Eva Adamczyková, (documentary)</desc>
+<desc lang="sk">Documentary about the career of world-class snowboard crosser Eva Adamczyková, (documentary)</desc>
 <category lang="sk">dokument</category>
 </programme>
 <programme start="20260703193500 +0000" stop="20260703224500 +0000" channel="nova_sport_2_hd">
@@ -35515,7 +35515,7 @@
 </programme>
 <programme start="20260704111500 +0000" stop="20260704121500 +0000" channel="nova_sport_2_hd">
 <title lang="sk">The King's poker (26)</title>
-<desc lang="sk">King's Resort Events (26) To nejlepší z main eventu The Festival v King’s Resortu v Rozvadově., (šport)</desc>
+<desc lang="sk">King's Resort Events (26) The best of the main event The Festival at King's Resort in Rozvadov., (sport)</desc>
 <category lang="sk">šport</category>
 </programme>
 <programme start="20260704121500 +0000" stop="20260704140000 +0000" channel="nova_sport_2_hd">
@@ -35590,7 +35590,7 @@
 </programme>
 <programme start="20260705140000 +0000" stop="20260705150000 +0000" channel="nova_sport_2_hd">
 <title lang="sk">The King's poker (26)</title>
-<desc lang="sk">King's Resort Events (26) To nejlepší z main eventu The Festival v King’s Resortu v Rozvadově., (šport)</desc>
+<desc lang="sk">King's Resort Events (26) The best of the main event The Festival at King's Resort in Rozvadov., (sport)</desc>
 <category lang="sk">šport</category>
 </programme>
 <programme start="20260705150000 +0000" stop="20260705180000 +0000" channel="nova_sport_2_hd">
@@ -37985,7 +37985,7 @@
 <title lang="te">Miss you already</title>
 <title lang="mr">miss you already</title>
 <desc lang="en">Milly and Jess find their lifelong friendship and lives turned upside down when Milly gets diagnosed with breast cancer while Jess is trying to start a family.</desc>
-<desc lang="hi">Millie and Jess's friendship and life change when Millie is diagnosed with breast cancer and Jess tries to start a family.</desc>
+<desc lang="hi">Millie and Jess's friendship and lives change when Millie is diagnosed with breast cancer and Jess tries to start a family.</desc>
 <desc lang="ta">As Jess tries to start a family, life changes when Millie is diagnosed with breast cancer.</desc>
 <desc lang="te">Millie and Jess' lifelong friendship and lives are turned upside down when Millie is diagnosed with breast cancer.</desc>
 <credits>
@@ -38098,7 +38098,7 @@
 <title lang="te">Jerry Maguire</title>
 <title lang="mr">jerry maguire</title>
 <desc lang="en">Sports agent Jerry Maguire tries to get back on his feet after being fired from his job. However, the only client he has is Rod Tidwell, a disgruntled football player who wants a better contract.</desc>
-<desc lang="hi">Sports agent Jerry Maguire tries to find success again after being fired from his job. However, his only client is Rod Tideway who is a disgruntled football player who wants a better contract.</desc>
+<desc lang="hi">Sports agent Jerry Maguire tries to find success again after being fired from his job. However, his only client is Rod Tideway who is a disgruntled football player and wants a better contract.</desc>
 <desc lang="ta">Jerry, who is fired after illegal practices in his business are exposed, starts his own agency.</desc>
 <desc lang="te">Jerry, a fired sports agent, wants to get back on his feet with the help of football player Tidwell.</desc>
 <credits>
@@ -38177,7 +38177,7 @@
 <title lang="te">Serendipity</title>
 <title lang="mr">Serendipity</title>
 <desc lang="en">A couple search for each other years after the night they first met, fell in love, and separated, convinced that one day they'd end up together.</desc>
-<desc lang="hi">A couple with the belief that one day they will be together find each other years after the night they first met, fell in love and were separated.</desc>
+<desc lang="hi">A couple with faith that one day they will be together, find each other years after the night they first met, fell in love and were separated.</desc>
 <desc lang="ta">A couple years after meeting find each other, fall in love and break up.</desc>
 <desc lang="te">A couple spends years searching, falling in love and falling in love after first meeting, believing that one day they will be together.</desc>
 <credits>
@@ -38357,7 +38357,7 @@
 <title lang="te">The Great Dictator</title>
 <title lang="mr">The Great Dictator</title>
 <desc lang="en">After suffering from memory loss, a soldier returns to his former profession as a barber and attempts to escape persecution by the military forces.</desc>
-<desc lang="hi">After suffering memory loss, a soldier returns to his former profession as a barber and attempts to escape persecution by military forces.</desc>
+<desc lang="hi">After suffering from memory loss, a soldier returns to his former profession as a barber and attempts to escape persecution by military forces.</desc>
 <desc lang="ta">A soldier who continues his former profession of barbering after amnesia tries to escape from army forces.</desc>
 <desc lang="te">An amnesiac soldier returns to his former profession as a barber to escape the persecution of the military forces.</desc>
 <credits>
@@ -38519,7 +38519,7 @@
 <title lang="te">Miss you already</title>
 <title lang="mr">miss you already</title>
 <desc lang="en">Milly and Jess find their lifelong friendship and lives turned upside down when Milly gets diagnosed with breast cancer while Jess is trying to start a family.</desc>
-<desc lang="hi">Millie and Jess's friendship and life change when Millie is diagnosed with breast cancer and Jess tries to start a family.</desc>
+<desc lang="hi">Millie and Jess's friendship and lives change when Millie is diagnosed with breast cancer and Jess tries to start a family.</desc>
 <desc lang="ta">As Jess tries to start a family, life changes when Millie is diagnosed with breast cancer.</desc>
 <desc lang="te">Millie and Jess' lifelong friendship and lives are turned upside down when Millie is diagnosed with breast cancer.</desc>
 <credits>
@@ -38678,7 +38678,7 @@
 <title lang="mr">valentines day</title>
 <desc lang="en">Various couples strive to overcome challenges in their personal lives, as they face highs and lows in their romantic relationships.</desc>
 <desc lang="hi">Various couples attempt to overcome challenges in their personal lives as they face the joys and sorrows of their love relationships.</desc>
-<desc lang="ta">While various couples face ups and downs in their romantic relationships, they also struggle to overcome challenges in their personal lives.</desc>
+<desc lang="ta">As various couples face ups and downs in their romantic relationships, they struggle to overcome challenges in their personal lives as well.</desc>
 <desc lang="te">Facing ups and downs in their love relationships, many couples work to overcome challenges in their personal lives.</desc>
 <credits>
 <director>Garry Marshall</director>
@@ -39177,7 +39177,7 @@
 <title lang="mr">Zoey's Extraordinary Christmas</title>
 <desc lang="en">On her first holiday without her father, Zoey wants to create a magical Christmas for her family just like the ones Mitch used to do.</desc>
 <desc lang="hi">Zoey hopes to create the same magical Christmas her father Mitch used to create for her family during her first holiday without her father.</desc>
-<desc lang="ta">In her first holiday without her father, Joey wants to create a magical Christmas celebration for her family, just like Mitch did before.</desc>
+<desc lang="ta">On her first holiday without her father, Joey wants to create a magical Christmas celebration for her family, just like Mitch did before.</desc>
 <desc lang="te">Zoey, who is celebrating the holidays without her father for the first time, wants to make Christmas as magical for her family as Mitch.</desc>
 <credits>
 <director>Richard Shepard</director>
@@ -39433,7 +39433,7 @@
 <title lang="ta">What Women Want</title>
 <title lang="te">What Women Want</title>
 <desc lang="en">When a middle-aged advertising executive is gifted with the power to read women's minds, he uses it to outwit his new boss.</desc>
-<desc lang="hi">A middle-aged advertising executive is blessed with the power to read women's minds and then uses it to outwit his new boss.</desc>
+<desc lang="hi">A middle-aged advertising executive is gifted with the power to read women's minds and then uses it to outwit his new boss.</desc>
 <desc lang="ta">When a middle-aged man is gifted with the power to read women's minds, he outwits his boss.</desc>
 <desc lang="te">A middle-aged advertising executive who can read women's minds uses it to impress his new boss.</desc>
 <credits>
@@ -39516,19 +39516,19 @@
 <title lang="id">Buser</title>
 </programme>
 <programme start="20260703220000 +0000" stop="20260703230000 +0000" channel="SCTV.id@SD">
-<title lang="id">Liputan 6 Pagi</title>
+<title lang="id">6 AM coverage</title>
 </programme>
 <programme start="20260703230000 +0000" stop="20260704000000 +0000" channel="SCTV.id@SD">
 <title lang="id">Hello celebrities</title>
 </programme>
 <programme start="20260704000000 +0000" stop="20260704013000 +0000" channel="SCTV.id@SD">
-<title lang="id">Morning FTV</title>
+<title lang="id">FTV Morning</title>
 </programme>
 <programme start="20260704013000 +0000" stop="20260704030000 +0000" channel="SCTV.id@SD">
-<title lang="id">Morning FTV</title>
+<title lang="id">FTV Morning</title>
 </programme>
 <programme start="20260704030000 +0000" stop="20260704050000 +0000" channel="SCTV.id@SD">
-<title lang="id">Morning FTV</title>
+<title lang="id">FTV Morning</title>
 </programme>
 <programme start="20260704050000 +0000" stop="20260704053000 +0000" channel="SCTV.id@SD">
 <title lang="id">Liputan 6 Siang</title>
@@ -39570,7 +39570,7 @@
 <title lang="id">Buser</title>
 </programme>
 <programme start="20260704220000 +0000" stop="20260704230000 +0000" channel="SCTV.id@SD">
-<title lang="id">Liputan 6 Pagi</title>
+<title lang="id">6 AM coverage</title>
 </programme>
 <programme start="20260704230000 +0000" stop="20260704233000 +0000" channel="SCTV.id@SD">
 <title lang="id">Point Of View</title>
@@ -39579,13 +39579,13 @@
 <title lang="id">Hello celebrities</title>
 </programme>
 <programme start="20260705000000 +0000" stop="20260705013000 +0000" channel="SCTV.id@SD">
-<title lang="id">Morning FTV</title>
+<title lang="id">FTV Morning</title>
 </programme>
 <programme start="20260705013000 +0000" stop="20260705030000 +0000" channel="SCTV.id@SD">
-<title lang="id">Morning FTV</title>
+<title lang="id">FTV Morning</title>
 </programme>
 <programme start="20260705030000 +0000" stop="20260705050000 +0000" channel="SCTV.id@SD">
-<title lang="id">Morning FTV</title>
+<title lang="id">FTV Morning</title>
 </programme>
 <programme start="20260705050000 +0000" stop="20260705053000 +0000" channel="SCTV.id@SD">
 <title lang="id">Liputan 6 Siang</title>
@@ -39630,7 +39630,7 @@
 <title lang="id">Buser</title>
 </programme>
 <programme start="20260705220000 +0000" stop="20260705230000 +0000" channel="SCTV.id@SD">
-<title lang="id">Liputan 6 Pagi</title>
+<title lang="id">6 AM coverage</title>
 </programme>
 <programme start="20260705230000 +0000" stop="20260706000000 +0000" channel="SCTV.id@SD">
 <title lang="id">Hello celebrities</title>
@@ -39642,7 +39642,7 @@
 <title lang="id">FTV Pagi Spesial</title>
 </programme>
 <programme start="20260706030000 +0000" stop="20260706050000 +0000" channel="SCTV.id@SD">
-<title lang="id">Morning FTV</title>
+<title lang="id">FTV Morning</title>
 </programme>
 <programme start="20260706050000 +0000" stop="20260706053000 +0000" channel="SCTV.id@SD">
 <title lang="id">Liputan 6 Siang</title>
@@ -40199,7 +40199,7 @@
 <desc lang="sk">Record, Europa League, League Stage</desc>
 </programme>
 <programme start="20260704121500 +0000" stop="20260704141500 +0000" channel="sport_1">
-<title lang="sk">Fotbal: Fiorentina - Sigma Olomouc</title>
+<title lang="sk">Football: Fiorentina - Sigma Olomouc</title>
 <desc lang="sk">Record, Conference League, League Stage</desc>
 </programme>
 <programme start="20260704141500 +0000" stop="20260704143000 +0000" channel="sport_1">
@@ -40237,7 +40237,7 @@
 <desc lang="sk">Record</desc>
 </programme>
 <programme start="20260705090000 +0000" stop="20260705111500 +0000" channel="sport_1">
-<title lang="sk">Football: PAOK vs Maccabi Tel Aviv</title>
+<title lang="sk">Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
 <desc lang="sk">Record, Europa League, League Stage</desc>
 </programme>
 <programme start="20260705111500 +0000" stop="20260705133000 +0000" channel="sport_1">
@@ -40262,11 +40262,11 @@
 <desc lang="sk">Record, Europa League, League Stage</desc>
 </programme>
 <programme start="20260705203000 +0000" stop="20260705223000 +0000" channel="sport_1">
-<title lang="sk">Fotbal: Fiorentina - Sigma Olomouc</title>
+<title lang="sk">Football: Fiorentina - Sigma Olomouc</title>
 <desc lang="sk">Record, Conference League, League Stage</desc>
 </programme>
 <programme start="20260705203000 +0000" stop="20260705223000 +0000" channel="sport_1">
-<title lang="sk">Fotbal: Fiorentina - Sigma Olomouc</title>
+<title lang="sk">Football: Fiorentina - Sigma Olomouc</title>
 <desc lang="sk">Record, Conference League, League Stage</desc>
 </programme>
 <programme start="20260705223000 +0000" stop="20260705230000 +0000" channel="sport_1">
@@ -40320,7 +40320,7 @@
 </programme>
 <programme start="20260706210000 +0000" stop="20260706220000 +0000" channel="sport_1">
 <title lang="sk">Poker</title>
-<desc lang="sk">Record, WSOP, 3/15 Main Event Clip</desc>
+<desc lang="sk">Record, WSOP, 3/15 Main Event Highlights</desc>
 </programme>
 <programme start="20260703214500 +0000" stop="20260704011500 +0000" channel="sport_2">
 <title lang="sk">NCAA, American football</title>
@@ -40439,17 +40439,17 @@
 </programme>
 <programme start="20260705220000 +0000" stop="20260706000000 +0000" channel="sport_2">
 <title lang="sk">Tenis</title>
-<desc lang="sk">WTA 250, Eastbourne, semifinále, (šport)</desc>
+<desc lang="sk">WTA 250, Eastbourne, semi-finals, (Sports)</desc>
 <category lang="sk">šport</category>
 </programme>
 <programme start="20260706000000 +0000" stop="20260706020000 +0000" channel="sport_2">
 <title lang="sk">Tenis</title>
-<desc lang="sk">WTA 250, Eastbourne, semifinále, (šport)</desc>
+<desc lang="sk">WTA 250, Eastbourne, semi-finals, (Sports)</desc>
 <category lang="sk">šport</category>
 </programme>
 <programme start="20260706020000 +0000" stop="20260706040000 +0000" channel="sport_2">
 <title lang="sk">Tenis</title>
-<desc lang="sk">WTA 250, Eastbourne, finále, (šport)</desc>
+<desc lang="sk">WTA 250, Eastbourne, Final, (Sports)</desc>
 <category lang="sk">šport</category>
 </programme>
 <programme start="20260706040000 +0000" stop="20260706053000 +0000" channel="sport_2">
@@ -40459,7 +40459,7 @@
 </programme>
 <programme start="20260706053000 +0000" stop="20260706070000 +0000" channel="sport_2">
 <title lang="sk">Handball</title>
-<desc lang="sk">Liga mistrů, ženy Gloria Bistrita - DVSC Schaeffler, (šport)</desc>
+<desc lang="sk">Champions League Women Gloria Bistrita - DVSC Schaeffler (Sports)</desc>
 <category lang="sk">šport</category>
 </programme>
 <programme start="20260706070000 +0000" stop="20260706080000 +0000" channel="sport_2">
@@ -42201,7 +42201,7 @@
 <title lang="id">Selebrita On The Weekend</title>
 </programme>
 <programme start="20260704013000 +0000" stop="20260704021500 +0000" channel="Trans7.id@SD">
-<title lang="id">Bikin Seneng</title>
+<title lang="id">Make Happy</title>
 </programme>
 <programme start="20260704021500 +0000" stop="20260704031500 +0000" channel="Trans7.id@SD">
 <title lang="id">Heits Abis</title>
@@ -42210,7 +42210,7 @@
 <title lang="id">Obrolan Tiap Waktu</title>
 </programme>
 <programme start="20260704041500 +0000" stop="20260704050000 +0000" channel="Trans7.id@SD">
-<title lang="id">Enaknya Mantul</title>
+<title lang="id">Mantul is delicious</title>
 </programme>
 <programme start="20260704050000 +0000" stop="20260704054500 +0000" channel="Trans7.id@SD">
 <title lang="id">Jejak Petualangan</title>
@@ -42282,7 +42282,7 @@
 <title lang="id">Selebrita On The Weekend</title>
 </programme>
 <programme start="20260705013000 +0000" stop="20260705021500 +0000" channel="Trans7.id@SD">
-<title lang="id">Bikin Seneng</title>
+<title lang="id">Make Happy</title>
 </programme>
 <programme start="20260705021500 +0000" stop="20260705031500 +0000" channel="Trans7.id@SD">
 <title lang="id">Heits Abis</title>
@@ -42291,7 +42291,7 @@
 <title lang="id">Obrolan Tiap Waktu</title>
 </programme>
 <programme start="20260705041500 +0000" stop="20260705050000 +0000" channel="Trans7.id@SD">
-<title lang="id">Enaknya Mantul</title>
+<title lang="id">Mantul is delicious</title>
 </programme>
 <programme start="20260705050000 +0000" stop="20260705054500 +0000" channel="Trans7.id@SD">
 <title lang="id">Jejak Petualangan</title>
@@ -42378,10 +42378,10 @@
 <title lang="id">Indonesiaku</title>
 </programme>
 <programme start="20260706071500 +0000" stop="20260706080000 +0000" channel="Trans7.id@SD">
-<title lang="id">Editorial</title>
+<title lang="id">Redaksi</title>
 </programme>
 <programme start="20260706080000 +0000" stop="20260706090000 +0000" channel="Trans7.id@SD">
-<title lang="id">Bikin Seneng</title>
+<title lang="id">Make Happy</title>
 </programme>
 <programme start="20260706090000 +0000" stop="20260706100000 +0000" channel="Trans7.id@SD">
 <title lang="id">Makan Receh</title>
@@ -42462,7 +42462,7 @@
 <title lang="id">Spill DD Tea</title>
 </programme>
 <programme start="20260704100000 +0000" stop="20260704110000 +0000" channel="TransTV.id@SD">
-<title lang="id">Bikin Laper</title>
+<title lang="id">Makes you hungry</title>
 </programme>
 <programme start="20260704110000 +0000" stop="20260704121500 +0000" channel="TransTV.id@SD">
 <title lang="id">Insert Story</title>
@@ -42528,7 +42528,7 @@
 <title lang="id">Sehari Jadi Ratu</title>
 </programme>
 <programme start="20260705100000 +0000" stop="20260705110000 +0000" channel="TransTV.id@SD">
-<title lang="id">Bikin Laper</title>
+<title lang="id">Makes you hungry</title>
 </programme>
 <programme start="20260705110000 +0000" stop="20260705121500 +0000" channel="TransTV.id@SD">
 <title lang="id">Insert Story</title>
@@ -42591,7 +42591,7 @@
 <title lang="id">Dream Box Indonesia</title>
 </programme>
 <programme start="20260706103000 +0000" stop="20260706114500 +0000" channel="TransTV.id@SD">
-<title lang="id">Bikin Laper</title>
+<title lang="id">Makes you hungry</title>
 </programme>
 <programme start="20260706114500 +0000" stop="20260706130000 +0000" channel="TransTV.id@SD">
 <title lang="id">Insert Story</title>
@@ -44480,7 +44480,7 @@
 </programme>
 <programme start="20260706090900 +0000" stop="20260706093100 +0000" channel="WarnerChannel.us@Mexico">
 <title lang="es">The Big Bang Theory</title>
-<desc lang="es">Sheldon and Amy struggle to choose a wedding date. Amy wants him near a cliff that Sheldon doesn't want. Meanwhile, Stuart and Raj fight over one of Bernadette's companions for a date.</desc>
+<desc lang="es">Sheldon and Amy struggle to pick a wedding date. Amy wants him near a cliff that Sheldon doesn't want. Meanwhile, Stuart and Raj fight over one of Bernadette's companions for a date.</desc>
 <category lang="es">Temporada 11 Episodio 3 - La integración de la relajación</category>
 <image>https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s11e03-the-relaxation-integration_l_m.jpg</image>
 </programme>
@@ -45222,7 +45222,7 @@
 </programme>
 <programme start="20260707120500 +0000" stop="20260707123500 +0000" channel="Motorvision.TV.de">
 <title lang="de">Stunt Heroes</title>
-<sub-title lang="de">Mass pile-up</sub-title>
+<sub-title lang="de">Massenkarambolage</sub-title>
 <desc lang="de">Fog, darkness, a rear-end collision with many cars. This happens again and again on German motorways. The “Stunt Heroes” recreate such a scene. It is the starting point for a stunt with people burning, a firefighter who arrives too late and a car that blows up. You can see how this works in this episode of the stunt report series. (Station info).</desc>
 <date>2012</date>
 <category lang="de">Dokumentationsreihe</category>
@@ -45304,7 +45304,7 @@
 </programme>
 <programme start="20260707193500 +0000" stop="20260707200000 +0000" channel="Motorvision.TV.de">
 <title lang="de">Going Pro 2026</title>
-<desc lang="de">The seventh season of the Going Pro TV series follows Damon Surzyshyn and the entire PROsport Racing team in the 2026 ADAC GT4 Germany season (channel info).</desc>
+<desc lang="de">The seventh season of the Going Pro TV series follows Damon Surzyshyn and the entire PROsport Racing team in the 2026 ADAC GT4 Germany season (channel information).</desc>
 <date>2026</date>
 <category lang="de">Dokumentationsreihe</category>
 <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg"/>
@@ -45444,7 +45444,7 @@
 </programme>
 <programme start="20260708033500 +0000" stop="20260708040000 +0000" channel="Motorvision.TV.de">
 <title lang="de">Stunt Heroes</title>
-<sub-title lang="de">Mass pile-up</sub-title>
+<sub-title lang="de">Massenkarambolage</sub-title>
 <desc lang="de">Fog, darkness, a rear-end collision with many cars. This happens again and again on German motorways. The “Stunt Heroes” recreate such a scene. It is the starting point for a stunt with people burning, a firefighter who arrives too late and a car that blows up. You can see how this works in this episode of the stunt report series. (Station info).</desc>
 <date>2012</date>
 <category lang="de">Dokumentationsreihe</category>
@@ -45629,7 +45629,7 @@
 </programme>
 <programme start="20260708142500 +0000" stop="20260708145500 +0000" channel="Motorvision.TV.de">
 <title lang="de">Going Pro 2026</title>
-<desc lang="de">The seventh season of the Going Pro TV series follows Damon Surzyshyn and the entire PROsport Racing team in the 2026 ADAC GT4 Germany season (channel info).</desc>
+<desc lang="de">The seventh season of the Going Pro TV series follows Damon Surzyshyn and the entire PROsport Racing team in the 2026 ADAC GT4 Germany season (channel information).</desc>
 <date>2026</date>
 <category lang="de">Dokumentationsreihe</category>
 <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg"/>
@@ -45871,7 +45871,7 @@
 <programme start="20260709070500 +0000" stop="20260709073500 +0000" channel="Motorvision.TV.de">
 <title lang="de">Green wave</title>
 <sub-title lang="de">E-mobility for everyone</sub-title>
-<desc lang="de">The development of electromobility continues to progress. At the beginning the technology was still expensive, but now more and more vehicles are appearing for the general public. Volkswagen offers the ID.3. Hyundai has different electric drives for the Kona and Nissan has an absolute bestseller in its range with the Leaf. We test what these cars can do in everyday life. (Station info).</desc>
+<desc lang="de">The development of electromobility continues to advance. At the beginning the technology was still expensive, but now more and more vehicles are appearing for the general public. Volkswagen offers the ID.3. Hyundai has different electric drives for the Kona and Nissan has an absolute bestseller in its range with the Leaf. We test what these cars can do in everyday life. (Station info).</desc>
 <date>2022</date>
 <category lang="de">Magazin</category>
 <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"/>
@@ -45954,7 +45954,7 @@
 <programme start="20260709113500 +0000" stop="20260709120000 +0000" channel="Motorvision.TV.de">
 <title lang="de">Rear view mirror</title>
 <sub-title lang="de">Wartburg 313</sub-title>
-<desc lang="de">The highlights from all eras of automobile history: When the brand new Mercedes A-Class fell over in the moose test, when Stirling Moss won the Mille Miglia in record time, when Ferdinand Porsche amazed the world with an electric car in 1900. Exciting images show the viewer what really happened. Contemporary witnesses report on their experiences. Half a century of Ferrari. Rearview Mirror gets to the bottom of the Ferrari myth and takes a closer look at the red racers from Maranello. (Station info).</desc>
+<desc lang="de">The highlights from all eras of automobile history: When the brand new Mercedes A-Class fell over in the moose test, when Stirling Moss won the Mille Miglia in record time, when Ferdinand Porsche amazed the world with an electric car in 1900. Exciting images show the viewer what really happened. Contemporary witnesses report on their experiences. Half a century of Ferrari. Rearview Mirror gets to the bottom of the Ferrari myth and takes a close look at the red racers from Maranello. (Station info).</desc>
 <date>2009</date>
 <category lang="de">Reportage</category>
 <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg"/>
@@ -46159,7 +46159,7 @@
 <programme start="20260710023000 +0000" stop="20260710030000 +0000" channel="Motorvision.TV.de">
 <title lang="de">Rear view mirror</title>
 <sub-title lang="de">Wartburg 313</sub-title>
-<desc lang="de">The highlights from all eras of automobile history: When the brand new Mercedes A-Class fell over in the moose test, when Stirling Moss won the Mille Miglia in record time, when Ferdinand Porsche amazed the world with an electric car in 1900. Exciting images show the viewer what really happened. Contemporary witnesses report on their experiences. Half a century of Ferrari. Rearview Mirror gets to the bottom of the Ferrari myth and takes a closer look at the red racers from Maranello. (Station info).</desc>
+<desc lang="de">The highlights from all eras of automobile history: When the brand new Mercedes A-Class fell over in the moose test, when Stirling Moss won the Mille Miglia in record time, when Ferdinand Porsche amazed the world with an electric car in 1900. Exciting images show the viewer what really happened. Contemporary witnesses report on their experiences. Half a century of Ferrari. Rearview Mirror gets to the bottom of the Ferrari myth and takes a close look at the red racers from Maranello. (Station info).</desc>
 <date>2009</date>
 <category lang="de">Reportage</category>
 <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg"/>
@@ -46223,7 +46223,7 @@
 <programme start="20260710063000 +0000" stop="20260710070000 +0000" channel="Motorvision.TV.de">
 <title lang="de">Made in....</title>
 <sub-title lang="de">Bentley</sub-title>
-<desc lang="de">The British county of Chesire, in the tranquil town of Crewe, has been home to one of the most exclusive automobile manufacturers for 70 years: Bentley Motors. 400 hours of pure manual work, meticulous accuracy, a lot of technical know-how and a lot of passion from the employees turn the top model, the Bentley Mulsanne, into a sculpture on wheels. At Bentley, not only luxury traditionally plays a role, but also performance. Bentley Boy Steven Kane chases the Bentley Mulsanne Speed, which goes over 300 km/h and costs around 325,000 euros, around the race track. (Station info).</desc>
+<desc lang="de">The British county of Chesire, in the tranquil town of Crewe, has been home to one of the most exclusive automobile manufacturers for 70 years: Bentley Motors. 400 hours of pure manual work, meticulous accuracy, a lot of technical know-how and a lot of passion from the employees turn the top model, the Bentley Mulsanne, into a sculpture on wheels. At Bentley, not only luxury traditionally plays a role, but also performance. Bentley Boy Steven Kane chases the Bentley Mulsanne Speed, which goes over 300 km/h and costs around 325,000 euros, around the racetrack. (Station info).</desc>
 <date>2017</date>
 <category lang="de">Dokumentationsreihe</category>
 <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg"/>
@@ -51840,7 +51840,7 @@
 <programme channel="Tennis.Channel.HD.us2" start="20260706150000 +0000" stop="20260706210000 +0000">
 <title lang="en">Courtside - Live</title>
 <sub-title lang="en">Newport-ATP/WTA Challenger Early Rounds</sub-title>
-<desc lang="en">Lincer vs. Maria; Ma vs. Ngounoue; McDonald vs. Walton; Vukic vs. Broads; Pieri vs. Molleker; Opitz vs. Petkovic; Rehberg vs. We are waiting.</desc>
+<desc lang="en">Lincer vs. Maria; Ma vs. Ngounoue; McDonald vs. Walton; Vukic vs. Broady; Pieri vs. Molleker; Opitz vs. Petkovic; Rehberg vs. Kouame.</desc>
 <date>2026</date>
 <category lang="en">Series</category>
 <category lang="en">Tennis</category>
@@ -52906,7 +52906,7 @@
 <programme start="20260709123500 +0000" stop="20260709130500 +0000" channel="Motorvisionplus.de">
 <title>Stunt Heroes</title>
 <sub-title/>
-<desc>S1 E2 — Salto MortaleA stuntman launches a daring stunt and two others combine racing and a fist fight.</desc>
+<desc>S1 E2 — Salto MortaleA stuntman launches a daring stunt and two others combine racing and a fistfight.</desc>
 <episode-num system="xmltv_ns"/>
 </programme>
 <programme start="20260709130500 +0000" stop="20260709133000 +0000" channel="Motorvisionplus.de">
@@ -53050,7 +53050,7 @@
 <programme start="20260710033000 +0000" stop="20260710040000 +0000" channel="Motorvisionplus.de">
 <title>Stunt Heroes</title>
 <sub-title/>
-<desc>S1 E2 — Salto MortaleA stuntman launches a daring stunt and two others combine racing and a fist fight.</desc>
+<desc>S1 E2 — Salto MortaleA stuntman launches a daring stunt and two others combine racing and a fistfight.</desc>
 <episode-num system="xmltv_ns"/>
 </programme>
 <programme start="20260710040000 +0000" stop="20260710044500 +0000" channel="Motorvisionplus.de">
@@ -53080,7 +53080,7 @@
 <programme start="20260710063000 +0000" stop="20260710070000 +0000" channel="Motorvisionplus.de">
 <title>Made in....</title>
 <sub-title/>
-<desc>S4 E5 — BentleyBentley Motors comes from the English town of Crewe and has been building exclusive cars for more than 70 years. The company pays particular attention to exclusivity and performance. The Bentley Mulsanne is the British flagship.</desc>
+<desc>S4 E5 — BentleyBentley Motors comes from the English town of Crewe and has been building exclusive cars for more than 70 years. The company pays special attention to exclusivity and performance. The Bentley Mulsanne is the British flagship.</desc>
 <episode-num system="xmltv_ns"/>
 </programme>
 <programme start="20260710070000 +0000" stop="20260710072500 +0000" channel="Motorvisionplus.de">
@@ -53182,7 +53182,7 @@
 <programme start="20260706163600 +0000" stop="20260706170300 +0000" channel="RedBullTV.de">
 <title>MISSION 2TO4</title>
 <sub-title/>
-<desc>S1 E1 — Test Rally TunisiaNew vehicle, new team, new game: Dakar champion Matthias Walkner swaps his bike for a buggy and starts the Dakar 2027 mission. This promises to be a comeback full of risks and new challenges.</desc>
+<desc>S1 E1 — Test Rally TunisiaNew vehicle, new team, new game: Dakar champion Matthias Walkner swaps the bike for a buggy and starts the Dakar 2027 mission. This promises to be a comeback full of risks and new challenges.</desc>
 <episode-num system="xmltv_ns"/>
 </programme>
 <programme start="20260706170300 +0000" stop="20260706172600 +0000" channel="RedBullTV.de">
@@ -53320,7 +53320,7 @@
 <programme start="20260707062500 +0000" stop="20260707065400 +0000" channel="RedBullTV.de">
 <title>Premier Padel 2025 Qatar Major - Highlights</title>
 <sub-title/>
-<desc>E25 — 2025 Qatar Major, HighlightsSpektakuläre Ballwechsel und intensive Matches prägen das Event im Khalifa International Complex.</desc>
+<desc>E25 — 2025 Qatar Major, highlightsSpectacular rallies and intense matches characterize the event at the Khalifa International Complex.</desc>
 <episode-num system="xmltv_ns"/>
 </programme>
 <programme start="20260707065400 +0000" stop="20260707072400 +0000" channel="RedBullTV.de">
@@ -53330,7 +53330,7 @@
 <episode-num system="xmltv_ns"/>
 </programme>
 <programme start="20260707072400 +0000" stop="20260707075400 +0000" channel="RedBullTV.de">
-<title>Premier Padel 2025 Mailand P1 - Highlights</title>
+<title>Premier Padel 2025 Milan P1 - Highlights</title>
 <sub-title/>
 <desc>Milan delivers padel with stage and bite: The highlights of the Premier Padel P1 combine strong rallies, precise shots and the top moments of the tournament.</desc>
 <episode-num system="xmltv_ns"/>
@@ -53428,7 +53428,7 @@
 <programme start="20260707145300 +0000" stop="20260707152200 +0000" channel="RedBullTV.de">
 <title>Premier Padel 2025 Qatar Major - Highlights</title>
 <sub-title/>
-<desc>E25 — 2025 Qatar Major, HighlightsSpektakuläre Ballwechsel und intensive Matches prägen das Event im Khalifa International Complex.</desc>
+<desc>E25 — 2025 Qatar Major, highlightsSpectacular rallies and intense matches characterize the event at the Khalifa International Complex.</desc>
 <episode-num system="xmltv_ns"/>
 </programme>
 <programme start="20260707152200 +0000" stop="20260707155200 +0000" channel="RedBullTV.de">
@@ -53438,7 +53438,7 @@
 <episode-num system="xmltv_ns"/>
 </programme>
 <programme start="20260707155200 +0000" stop="20260707162200 +0000" channel="RedBullTV.de">
-<title>Premier Padel 2025 Mailand P1 - Highlights</title>
+<title>Premier Padel 2025 Milan P1 - Highlights</title>
 <sub-title/>
 <desc>Milan delivers padel with stage and bite: The highlights of the Premier Padel P1 combine strong rallies, precise shots and the top moments of the tournament.</desc>
 <episode-num system="xmltv_ns"/>
