@@ -1446,7 +1446,7 @@
 <programme start="20260731190500 +0000" stop="20260731220000 +0000" channel="362">
 <title lang="no">Formula 1: Race</title>
 <sub-title lang="no">Race, Ungarn GP</sub-title>
-<desc lang="no">Formula 1, Hungary GP.</desc>
+<desc lang="no">Formel 1, Ungarn GP.</desc>
 <category lang="no">Sport</category>
 <icon src="https://imageservice.rikstv.no/hash/4B91F2624115F234507EDA235D1BCD5D.jpg"/>
 </programme>
@@ -6771,10 +6771,10 @@
 <title lang="id">Saksi Mata</title>
 </programme>
 <programme start="20260731190000 +0000" stop="20260731193000 +0000" channel="BTV.id@SD">
-<title lang="id">Indonesia Update 'Exposure'</title>
+<title lang="id">Indonesia Update 'Ekspos'</title>
 </programme>
 <programme start="20260731193000 +0000" stop="20260731200000 +0000" channel="BTV.id@SD">
-<title lang="id">Crime News</title>
+<title lang="id">Berita Kriminal</title>
 </programme>
 <programme start="20260731200000 +0000" stop="20260731203000 +0000" channel="BTV.id@SD">
 <title lang="id">Berita Satu Sore</title>
@@ -6837,10 +6837,10 @@
 <title lang="id">Pecah Telur</title>
 </programme>
 <programme start="20260801073000 +0000" stop="20260801080000 +0000" channel="BTV.id@SD">
-<title lang="id">Meja Redaksi</title>
+<title lang="id">Editorial Desk</title>
 </programme>
 <programme start="20260801080000 +0000" stop="20260801083000 +0000" channel="BTV.id@SD">
-<title lang="id">Crime News</title>
+<title lang="id">Berita Kriminal</title>
 </programme>
 <programme start="20260801083000 +0000" stop="20260801100000 +0000" channel="BTV.id@SD">
 <title lang="id">Berita Satu Sore</title>
@@ -6882,7 +6882,7 @@
 <title lang="id">Inside Sailing</title>
 </programme>
 <programme start="20260801193000 +0000" stop="20260801200000 +0000" channel="BTV.id@SD">
-<title lang="id">Crime News</title>
+<title lang="id">Berita Kriminal</title>
 </programme>
 <programme start="20260801200000 +0000" stop="20260801203000 +0000" channel="BTV.id@SD">
 <title lang="id">Berita Satu Sore</title>
@@ -6948,10 +6948,10 @@
 <title lang="id">Pecah Telur</title>
 </programme>
 <programme start="20260802073000 +0000" stop="20260802080000 +0000" channel="BTV.id@SD">
-<title lang="id">Meja Redaksi</title>
+<title lang="id">Editorial Desk</title>
 </programme>
 <programme start="20260802080000 +0000" stop="20260802083000 +0000" channel="BTV.id@SD">
-<title lang="id">Crime News</title>
+<title lang="id">Berita Kriminal</title>
 </programme>
 <programme start="20260802083000 +0000" stop="20260802100000 +0000" channel="BTV.id@SD">
 <title lang="id">Berita Satu Sore</title>
@@ -6993,7 +6993,7 @@
 <title lang="id">The Outdoors Sports</title>
 </programme>
 <programme start="20260802193000 +0000" stop="20260802200000 +0000" channel="BTV.id@SD">
-<title lang="id">Crime News</title>
+<title lang="id">Berita Kriminal</title>
 </programme>
 <programme start="20260802200000 +0000" stop="20260802203000 +0000" channel="BTV.id@SD">
 <title lang="id">Berita Satu Sore</title>
@@ -7062,10 +7062,10 @@
 <title lang="id">Pecah Telur</title>
 </programme>
 <programme start="20260803073000 +0000" stop="20260803080000 +0000" channel="BTV.id@SD">
-<title lang="id">Window on the World</title>
+<title lang="id">Jendela Dunia</title>
 </programme>
 <programme start="20260803080000 +0000" stop="20260803083000 +0000" channel="BTV.id@SD">
-<title lang="id">Crime News</title>
+<title lang="id">Berita Kriminal</title>
 </programme>
 <programme start="20260803083000 +0000" stop="20260803090000 +0000" channel="BTV.id@SD">
 <title lang="id">Berita Satu Sore</title>
@@ -7086,7 +7086,7 @@
 <title lang="id">Berita Satu Malam</title>
 </programme>
 <programme start="20260803130000 +0000" stop="20260803140000 +0000" channel="BTV.id@SD">
-<title lang="id">Window on the World</title>
+<title lang="id">Jendela Dunia</title>
 </programme>
 <programme start="20260803140000 +0000" stop="20260803150000 +0000" channel="BTV.id@SD">
 <title lang="id">Berita Satu Utama</title>
@@ -16488,7 +16488,7 @@
 <title lang="id">Kisah Nyata Siang</title>
 </programme>
 <programme start="20260801060000 +0000" stop="20260801073000 +0000" channel="Indosiar.id@SD">
-<title lang="id">Kisah Nyata</title>
+<title lang="id">True story</title>
 </programme>
 <programme start="20260801073000 +0000" stop="20260801080000 +0000" channel="Indosiar.id@SD">
 <title lang="id">Dancow Indonesia Cerdas</title>
@@ -16533,7 +16533,7 @@
 <title lang="id">Kisah Nyata Siang</title>
 </programme>
 <programme start="20260802060000 +0000" stop="20260802073000 +0000" channel="Indosiar.id@SD">
-<title lang="id">Kisah Nyata</title>
+<title lang="id">True story</title>
 </programme>
 <programme start="20260802073000 +0000" stop="20260802080000 +0000" channel="Indosiar.id@SD">
 <title lang="id">Dancow Indonesia Cerdas</title>
@@ -16581,7 +16581,7 @@
 <title lang="id">Kisah Nyata Siang</title>
 </programme>
 <programme start="20260803060000 +0000" stop="20260803073000 +0000" channel="Indosiar.id@SD">
-<title lang="id">Kisah Nyata</title>
+<title lang="id">True story</title>
 </programme>
 <programme start="20260803073000 +0000" stop="20260803080000 +0000" channel="Indosiar.id@SD">
 <title lang="id">Dancow Indonesia Cerdas</title>
@@ -18331,7 +18331,7 @@
 <title lang="id">Investigation Department</title>
 </programme>
 <programme start="20260801180000 +0000" stop="20260801190000 +0000" channel="KompasTV.id@SD">
-<title lang="id">One Table The Forum</title>
+<title lang="id">Satu Meja The Forum</title>
 </programme>
 <programme start="20260801190000 +0000" stop="20260801200000 +0000" channel="KompasTV.id@SD">
 <title lang="id">Berita Utama</title>
@@ -18639,7 +18639,7 @@
 <image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/26/02/26029683_0f155eb5faa9d283bb125ce6f2b6dd42.jpg</image>
 </programme>
 <programme start="20260802173000 +0000" stop="20260802200000 +0000" channel="lch2294">
-<title lang="es">Fútbol Rápido MASL : Kansas City Comets vs. Baltimore Blast</title>
+<title lang="es">MASL Fast Soccer: Kansas City Comets vs. Baltimore Blast</title>
 <desc lang="es">Action from the 2025-26 MASL regular season. Kansas City Comets face Baltimore Blast. From the Cable Dahmer Arena, in Independence, Missouri.</desc>
 <image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/56/23566728_e3c1f36ab790965ac1d882ff7c9a3fab.jpg</image>
 </programme>
@@ -18834,7 +18834,7 @@
 <image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/26/33/26335993_10c3eb477c9cd03ad347ba7cfee0d129.jpg</image>
 </programme>
 <programme start="20260804093000 +0000" stop="20260804120000 +0000" channel="lch2294">
-<title lang="es">Fútbol Rápido MASL: Empire Strykers vs. Tacoma Stars</title>
+<title lang="es">Fútbol Rápido MASL : Empire Strykers vs. Tacoma Stars</title>
 <desc lang="es">Coverage of the 2025-26 MASL regular season. Tacoma Stars visit Empire Strykers. From the Toyota Arena, in Ontario, California.</desc>
 <image>http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/27/23276740_ad0583bdaf045fbaa3a989ea26c89697.jpg</image>
 </programme>
@@ -20081,7 +20081,7 @@
 <desc lang="id">Berlatar 1.300 tahun setelah How to Train Your Dragon, dimana naga telah lama dianggap sebagai legenda. Ceritanya berpusat pada sekelompok remaja yang menemukan celah di Bumi akibat komet yang membuka dunia bawah tanah penuh naga</desc>
 </programme>
 <programme start="20260731230000 +0000" stop="20260731231500 +0000" channel="MAXKids.id@SD">
-<title lang="id">Bermain &amp; Bergembira</title>
+<title lang="id">Play &amp; Have Fun</title>
 <desc lang="id">Bermain &amp; Bergembira bersama anak-anak aktif, cerdas dan kreatif.</desc>
 </programme>
 <programme start="20260731231500 +0000" stop="20260731233000 +0000" channel="MAXKids.id@SD">
@@ -20225,7 +20225,7 @@
 <desc lang="id">Menghadirkan tayangan favorit Go Jetters &amp; Hey Duggee yang seru dan edukatif dari Cbeebies.Bersama Go Jetters, berpetualang keliling dunia mengenal berbagai tempat ikonik serta pentingnya menjaga lingkungan yang menyenangkan.</desc>
 </programme>
 <programme start="20260801140000 +0000" stop="20260801153000 +0000" channel="MAXKids.id@SD">
-<title lang="id">Kartu Pos Wini</title>
+<title lang="id">Wini Postcard</title>
 <desc lang="id">Ruth berhasil memenuhi salah satu obsesinya bekerja di Kantor Pos. Dia juga menjadi relawan yang mendampingi pasien kanker anak bernama Wini Edenia. Suatu hari, Wini ingin mengirimkan kartu pos untuk Tuhan yang beralamat surga.</desc>
 </programme>
 <programme start="20260801153000 +0000" stop="20260801154500 +0000" channel="MAXKids.id@SD">
@@ -20277,7 +20277,7 @@
 <desc lang="id">Program Sitkom dengan Srimulat, group lawak terbesar dan terpopuler serta memiliki penggemar dari berbagai kalangan masyarakat yang menampilkan kisah-kisah lucu dan sedang menjadi topik hangat</desc>
 </programme>
 <programme start="20260731190000 +0000" stop="20260731201500 +0000" channel="MAXReels.id@SD">
-<title lang="id">Dapil Komeng</title>
+<title lang="id">Komeng electoral district</title>
 <desc lang="id">Sketsa Komedi yang menceritakan kelucuan Komeng dalam mewujudkan mimpinya dengan cara masuk ke lemari rahasia yang akan membawanya kemana saja dan bertemu siapa saja yang dia inginkan</desc>
 </programme>
 <programme start="20260731194500 +0000" stop="20260731200000 +0000" channel="MAXReels.id@SD">
@@ -20937,7 +20937,7 @@
 <desc lang="id">APOSE Pindah Kantor menceritakan bagaimana Wendi memulai perjalanannya menjadi seorang podcaster yang menyaingi Surya Insomnia sebagai senior podcaster di kantor Apose yang baru</desc>
 </programme>
 <programme start="20260801024500 +0000" stop="20260801041500 +0000" channel="MAXStream.id@SD">
-<title lang="id">Kartu Pos Wini</title>
+<title lang="id">Wini Postcard</title>
 <desc lang="id">Ruth berhasil memenuhi salah satu obsesinya bekerja di Kantor Pos. Dia juga menjadi relawan yang mendampingi pasien kanker anak bernama Wini Edenia. Suatu hari, Wini ingin mengirimkan kartu pos untuk Tuhan yang beralamat surga.</desc>
 </programme>
 <programme start="20260801041500 +0000" stop="20260801051500 +0000" channel="MAXStream.id@SD">
@@ -20949,7 +20949,7 @@
 <desc lang="id">Itje, gadis asal desa Bojong, berharap hidupnya berubah drastis setelah menikah dengan pria Perancis, Clement. Begitu juga orangtua Itje selalu pamer pada tetangganya kalau Itje menikah dengan orang kaya dan akan tinggal di Paris.</desc>
 </programme>
 <programme start="20260801070000 +0000" stop="20260801081500 +0000" channel="MAXStream.id@SD">
-<title lang="id">Dapil Komeng</title>
+<title lang="id">Komeng electoral district</title>
 <desc lang="id">Sketsa Komedi yang menceritakan kelucuan Komeng dalam mewujudkan mimpinya dengan cara masuk ke lemari rahasia yang akan membawanya kemana saja dan bertemu siapa saja yang dia inginkan</desc>
 </programme>
 <programme start="20260801081500 +0000" stop="20260801090000 +0000" channel="MAXStream.id@SD">
@@ -29171,7 +29171,7 @@
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
 </programme>
 <programme start="20260803220000 +0000" stop="20260804003000 +0000" channel="mx#fox-sports-3">
-<title lang="es">Milwaukee Wave vs. Empire Strykers</title>
+<title lang="es">Milwaukee Wave vs. Empire Strikers</title>
 <desc lang="es">Experience all the excitement of Major Arena Soccer League indoor soccer games. Enjoy matches from the top professional indoor soccer league in North America, which includes teams from the United States and Mexico.</desc>
 <category lang="es">Partido 1, Playoffs</category>
 <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
@@ -32227,7 +32227,7 @@
 <desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc>
 </programme>
 <programme start="20260801073000 +0000" stop="20260801080000 +0000" channel="RodjaTV.id@SD">
-<title lang="id">Selected Verses And Interpretations</title>
+<title lang="id">Ayat Dan Tafsir Pilihan</title>
 <desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc>
 </programme>
 <programme start="20260801080000 +0000" stop="20260801083000 +0000" channel="RodjaTV.id@SD">
@@ -33900,7 +33900,7 @@
 <title lang="id">Sinema Malam</title>
 </programme>
 <programme start="20260731200000 +0000" stop="20260731210000 +0000" channel="SCTV.id@SD">
-<title lang="id">Cinema Religious Hari</title>
+<title lang="id">Sinema Dini Hari</title>
 </programme>
 <programme start="20260731210000 +0000" stop="20260731213000 +0000" channel="SCTV.id@SD">
 <title lang="id">Barakallah</title>
@@ -33909,7 +33909,7 @@
 <title lang="id">Buser</title>
 </programme>
 <programme start="20260731220000 +0000" stop="20260731230000 +0000" channel="SCTV.id@SD">
-<title lang="id">Liputan 6 Pagi</title>
+<title lang="id">6 AM coverage</title>
 </programme>
 <programme start="20260731230000 +0000" stop="20260801000000 +0000" channel="SCTV.id@SD">
 <title lang="id">Hello celebrities</title>
@@ -33954,7 +33954,7 @@
 <title lang="id">Sinema Malam</title>
 </programme>
 <programme start="20260801200000 +0000" stop="20260801210000 +0000" channel="SCTV.id@SD">
-<title lang="id">Cinema Religious Hari</title>
+<title lang="id">Sinema Dini Hari</title>
 </programme>
 <programme start="20260801210000 +0000" stop="20260801213000 +0000" channel="SCTV.id@SD">
 <title lang="id">Barakallah</title>
@@ -33963,7 +33963,7 @@
 <title lang="id">Buser</title>
 </programme>
 <programme start="20260801220000 +0000" stop="20260801230000 +0000" channel="SCTV.id@SD">
-<title lang="id">Liputan 6 Pagi</title>
+<title lang="id">6 AM coverage</title>
 </programme>
 <programme start="20260801230000 +0000" stop="20260801233000 +0000" channel="SCTV.id@SD">
 <title lang="id">Point Of View</title>
@@ -34011,7 +34011,7 @@
 <title lang="id">Sinema Malam</title>
 </programme>
 <programme start="20260802200000 +0000" stop="20260802210600 +0000" channel="SCTV.id@SD">
-<title lang="id">Cinema Religious Hari</title>
+<title lang="id">Sinema Dini Hari</title>
 </programme>
 <programme start="20260802210600 +0000" stop="20260802213000 +0000" channel="SCTV.id@SD">
 <title lang="id">Barakallah</title>
@@ -34020,7 +34020,7 @@
 <title lang="id">Buser</title>
 </programme>
 <programme start="20260802220000 +0000" stop="20260802230000 +0000" channel="SCTV.id@SD">
-<title lang="id">Liputan 6 Pagi</title>
+<title lang="id">6 AM coverage</title>
 </programme>
 <programme start="20260802230000 +0000" stop="20260803000000 +0000" channel="SCTV.id@SD">
 <title lang="id">Hello celebrities</title>
@@ -35415,7 +35415,7 @@
 <category lang="pt">Desporto</category>
 </programme>
 <programme start="20260802195400 +0000" stop="20260802220000 +0000" channel="SportTV2.pt@SD">
-<title lang="pt">Newell's x Boca Juniors: Campeonato da Argentina (Live)</title>
+<title lang="pt">Newell's x Boca Juniors: Argentine Championship (Live)</title>
 <desc lang="pt">Live broadcast of the Argentine Football Championship game between Newells Old Boys and Boca Juniors.</desc>
 <category lang="pt">Futebol</category>
 <category lang="pt">Desporto</category>
@@ -36554,7 +36554,7 @@
 <title lang="id">Obrolan Tiap Waktu</title>
 </programme>
 <programme start="20260801041500 +0000" stop="20260801050000 +0000" channel="Trans7.id@SD">
-<title lang="id">Mantul is delicious</title>
+<title lang="id">Enaknya Mantul</title>
 </programme>
 <programme start="20260801050000 +0000" stop="20260801054500 +0000" channel="Trans7.id@SD">
 <title lang="id">Jejak Petualangan</title>
@@ -36635,7 +36635,7 @@
 <title lang="id">Obrolan Tiap Waktu</title>
 </programme>
 <programme start="20260802041500 +0000" stop="20260802050000 +0000" channel="Trans7.id@SD">
-<title lang="id">Mantul is delicious</title>
+<title lang="id">Enaknya Mantul</title>
 </programme>
 <programme start="20260802050000 +0000" stop="20260802054500 +0000" channel="Trans7.id@SD">
 <title lang="id">Jejak Petualangan</title>
@@ -36809,7 +36809,7 @@
 <title lang="id">Spill Dd Tea</title>
 </programme>
 <programme start="20260801100000 +0000" stop="20260801110000 +0000" channel="TransTV.id@SD">
-<title lang="id">Makes you hungry</title>
+<title lang="id">Bikin Laper</title>
 </programme>
 <programme start="20260801110000 +0000" stop="20260801121500 +0000" channel="TransTV.id@SD">
 <title lang="id">Insert Story</title>
@@ -36875,7 +36875,7 @@
 <title lang="id">Sehari Jadi Ratu</title>
 </programme>
 <programme start="20260802100000 +0000" stop="20260802110000 +0000" channel="TransTV.id@SD">
-<title lang="id">Makes you hungry</title>
+<title lang="id">Bikin Laper</title>
 </programme>
 <programme start="20260802110000 +0000" stop="20260802121500 +0000" channel="TransTV.id@SD">
 <title lang="id">Insert Story</title>
@@ -36938,13 +36938,13 @@
 <title lang="id">Dream Box Indonesia</title>
 </programme>
 <programme start="20260803103000 +0000" stop="20260803114500 +0000" channel="TransTV.id@SD">
-<title lang="id">Makes you hungry</title>
+<title lang="id">Bikin Laper</title>
 </programme>
 <programme start="20260803114500 +0000" stop="20260803130000 +0000" channel="TransTV.id@SD">
 <title lang="id">Insert Story</title>
 </programme>
 <programme start="20260803130000 +0000" stop="20260803150000 +0000" channel="TransTV.id@SD">
-<title lang="id">Bioskop TransTV - Subservience</title>
+<title lang="id">TransTV Cinema - Subservice</title>
 </programme>
 <programme start="20260803150000 +0000" stop="20260803170000 +0000" channel="TransTV.id@SD">
 <title lang="id">TransTV Cinema - Rogue</title>
@@ -37130,7 +37130,7 @@
 <title lang="fr">Motorcycle Experience</title>
 </programme>
 <programme start="20260803183000 +0000" stop="20260803190000 +0000" channel="TSN1.ca@SD">
-<title lang="fr">Canadian Superbike Championship</title>
+<title lang="fr">Championnat Canadien Superbike</title>
 </programme>
 <programme start="20260803190000 +0000" stop="20260803213000 +0000" channel="TSN1.ca@SD">
 <title lang="fr">Coupe Hlinka-Gretzky</title>
@@ -37628,7 +37628,7 @@
 <title lang="fr">Motorcycle Experience</title>
 </programme>
 <programme start="20260803183000 +0000" stop="20260803190000 +0000" channel="TSN4.ca@SD">
-<title lang="fr">Canadian Superbike Championship</title>
+<title lang="fr">Championnat Canadien Superbike</title>
 </programme>
 <programme start="20260803190000 +0000" stop="20260803213000 +0000" channel="TSN4.ca@SD">
 <title lang="fr">Coupe Hlinka-Gretzky</title>
@@ -39444,304 +39444,6 @@
 <category lang="id">Drama</category>
 <category lang="id">Action</category>
 </programme>
-<programme start="20260801024500 +0000" stop="20260801031500 +0000" channel="Motorvision.TV.de">
-<title lang="de">Stunt Heroes</title>
-<sub-title lang="de">Die Matrix</sub-title>
-<desc lang="de">Martial arts specialist Ramazan develops a fight choreography in which four stuntmen dressed as agents beat him up. This episode of “Stunt Heroes” answers whether he can free himself from the tricky situation and who will end up flying off spectacularly in the car. (Station info).</desc>
-<date>2012</date>
-<category lang="de">Dokumentationsreihe</category>
-<icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg"/>
-<country lang="de">D</country>
-<episode-num system="onscreen">E10</episode-num>
-</programme>
-<programme start="20260801031500 +0000" stop="20260801034000 +0000" channel="Motorvision.TV.de">
-<title lang="de">Top Speed Classic</title>
-<sub-title lang="de">Hans-Peter Porsche dream work</sub-title>
-<desc lang="de">Moderator Martin Utberg was invited by managing director Sven Bössow to take part in the opening of the winter festival at the Hans-Peter Porsche Traumwerk in Anger and takes the audience on a journey through time through this extraordinary museum. In this episode, Hans-Peter Porsche, grandson of Ferdinand Porsche, talks about how his dream came about. (Station info).</desc>
-<date>2024</date>
-<category lang="de">Motorsport</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">NL</country>
-<episode-num system="onscreen">E184</episode-num>
-</programme>
-<programme start="20260801034000 +0000" stop="20260801040000 +0000" channel="Motorvision.TV.de">
-<title lang="de">Super Cars</title>
-<sub-title lang="de">Mobility by \"Morgan\"</sub-title>
-<desc lang="de">It is the vision of an electric future from AMG: The Concept AMG GT XX delivers an incredible 1360 hp and charges faster than you can say range anxiety. We were there for the spectacular world premiere. And: This racer looks like it came out of a retro film, but it is the brand new top model from Morgan. We reveal five exciting facts about this British work of art. (Station info).</desc>
-<date>2025</date>
-<category lang="de">Magazin</category>
-<icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"/>
-<country lang="de">D</country>
-<episode-num system="onscreen">E232</episode-num>
-</programme>
-<programme start="20260801040000 +0000" stop="20260801042000 +0000" channel="Motorvision.TV.de">
-<title lang="de">Biker Lifestyle</title>
-<sub-title lang="de">Crete 2024,</sub-title>
-<desc lang="de">Tenerife is not just a paradise for pensioners and winter refugees. The island also attracts adventurers who want to explore breathtaking landscapes on winding roads on their motorcycles. M-Motorradreisen has now included the unique natural backdrop with the omnipresent, 3715m high Teide, lush forests and deep blue oceans in its program for the second time. This travel documentary shows the most beautiful tours on the two Canary Islands. (Station info).</desc>
-<date>2024</date>
-<category lang="de">Magazin</category>
-<icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"/>
-<country lang="de">D</country>
-<episode-num system="onscreen">E270</episode-num>
-</programme>
-<programme start="20260801042000 +0000" stop="20260801043500 +0000" channel="Motorvision.TV.de">
-<title lang="de">Crash</title>
-<desc lang="de">When ambition exceeds driving ability and when well-secured racing professionals are carried out of the curve, then we are there with the camera. Breathtaking stunts of professional drivers and slapsticks of sophisticated tin bullets. Spectacular scenes in which no one is harmed. (Station info).</desc>
-<date>2009</date>
-<category lang="de">Dokumentationsreihe</category>
-<icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg"/>
-<country lang="de">D</country>
-</programme>
-<programme start="20260801043500 +0000" stop="20260801045500 +0000" channel="Motorvision.TV.de">
-<title lang="de">Green wave</title>
-<sub-title lang="de">Sweden road trip with the VW ID.7 Tour</sub-title>
-<desc lang="de">Long distances and electric cars have not been friends so far. But that should change, for example with this vehicle: The VW ID.7 in the Pro S version offers a range of around 700 km and, as a tourer, also plenty of space - the perfect companion for a road trip. We drive through Sweden in the electric station wagon and check consumption, driving characteristics and comfort. (Station info).</desc>
-<date>2025</date>
-<category lang="de">Magazin</category>
-<icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"/>
-<country lang="de">D</country>
-<episode-num system="onscreen">E70</episode-num>
-</programme>
-<programme start="20260801045500 +0000" stop="20260801054000 +0000" channel="Motorvision.TV.de">
-<title lang="de">Road Wars Staffel 7</title>
-<desc lang="de">The documentary series offers a unique insight into modern British policing. Camera teams follow police officers as they try to maintain order on England's streets. (Station info).</desc>
-<date>2022</date>
-<category lang="de">Doku-Soap</category>
-<icon src="http://img.tvspielfilm.de/13/0c/4a/6177c5f08189652ccb4a0c13.jpeg"/>
-<country lang="de">GB</country>
-</programme>
-<programme start="20260801054000 +0000" stop="20260801063000 +0000" channel="Motorvision.TV.de">
-<title lang="de">UIM E1 World Championship 2025</title>
-<sub-title lang="de">E1 Doha GP, Quatar</sub-title>
-<category lang="de">Programm nach Ansage</category>
-<icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg"/>
-</programme>
-<programme start="20260801063000 +0000" stop="20260801072500 +0000" channel="Motorvision.TV.de">
-<title lang="de">NZ Jetsprint Championship 2025</title>
-<sub-title lang="de">World Championship 2, Group A</sub-title>
-<desc lang="de">The New Zealand Jetsprint Championship is the most important sprint boat competition from New Zealand, the country where the sport was founded in 1981. Jetsprinting is comparable to rally sports, but there is only one boat on the track at any given time and boats drive at very high speeds. The up to 500 HP strong jet sprint boats therefore try to achieve the best time on the tracks. (Senderinfo).</desc>
-<date>2025</date>
-<category lang="de">Wassersport</category>
-<icon src="http://img.tvspielfilm.de/9b/71/4a/6177e3808189652ccb4a719b.jpeg"/>
-<country lang="de">NZ</country>
-</programme>
-<programme start="20260801072500 +0000" stop="20260801081000 +0000" channel="Motorvision.TV.de">
-<title lang="de">Australian Circuit Boat Racing</title>
-<sub-title lang="de">Junior National Driver's Championship, Mildura</sub-title>
-<date>2026</date>
-<category lang="de">Wassersport</category>
-<icon src="http://img.tvspielfilm.de/9b/71/4a/6177e3808189652ccb4a719b.jpeg"/>
-<country lang="de">AUS</country>
-</programme>
-<programme start="20260801081000 +0000" stop="20260801084000 +0000" channel="Motorvision.TV.de">
-<title lang="de">UIM F1H2O World Powerboat Championship 2025</title>
-<sub-title lang="de">GP of Saudi Arabia, Jeddah</sub-title>
-<desc lang="de">Curtain up for Formula 1 in motorboat racing: According to the world umbrella organization UIM, the H20 is the fastest outboard racing boat series in circuit racing and has been dominated by Philippe Chiappe for years. (Station info).</desc>
-<date>2025</date>
-<category lang="de">Wassersport</category>
-<icon src="http://img.tvspielfilm.de/9b/71/4a/6177e3808189652ccb4a719b.jpeg"/>
-<country lang="de">F</country>
-</programme>
-<programme start="20260801084000 +0000" stop="20260801091000 +0000" channel="Motorvision.TV.de">
-<title lang="de">UIM Aquabike World Championship 2025</title>
-<sub-title lang="de">GP of Qatar, Ski Division, Old Doha Port</sub-title>
-<desc lang="de">The UIM-ABP Aquabike Class Pro World Championship starts a new action-packed season. The registered pilots promise exciting races on the water again this year. (Station info).</desc>
-<date>2025</date>
-<category lang="de">Wassersport</category>
-<icon src="http://img.tvspielfilm.de/9b/71/4a/6177e3808189652ccb4a719b.jpeg"/>
-<country lang="de">F</country>
-</programme>
-<programme start="20260801091000 +0000" stop="20260801093500 +0000" channel="Motorvision.TV.de">
-<title lang="de">P1 Class 1 Offshore Championship 2024</title>
-<sub-title lang="de">Saratosa Offshore Grand Prix, Florida</sub-title>
-<desc lang="de">The premier class of racing boats, the Class 1 championship, starts south of Tampa in Sarasota. An exciting race with catamarans with over 1,000 hp is on the program on the west coast of Florida. Who will win? (Station info).</desc>
-<date>2024</date>
-<category lang="de">Wassersport</category>
-<icon src="http://img.tvspielfilm.de/9b/71/4a/6177e3808189652ccb4a719b.jpeg"/>
-<country lang="de">USA</country>
-</programme>
-<programme start="20260801093500 +0000" stop="20260801105500 +0000" channel="Motorvision.TV.de">
-<title lang="de">FIM X-Trial World Championship 2026</title>
-<sub-title lang="de">Grand Prix of Ilse de la Reunion, Clermont-Fernand</sub-title>
-<desc lang="de">The Fédération Internationale de Motocyclisme has organized the X-Trial World Championship annually since 1993. In contrast to the outdoor discipline, the X-Trail competitions take place indoors. (Station info).</desc>
-<date>2025</date>
-<category lang="de">Motorradsport</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">F</country>
-</programme>
-<programme start="20260801105500 +0000" stop="20260801114500 +0000" channel="Motorvision.TV.de">
-<title lang="de">FIM Sidecarcross World Championship 2026</title>
-<sub-title lang="de">GP of Kramolin, Czech Republic</sub-title>
-<date>2026</date>
-<category lang="de">Motorsport</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">USA</country>
-</programme>
-<programme start="20260801114500 +0000" stop="20260801121500 +0000" channel="Motorvision.TV.de">
-<title lang="de">Supermoto: FIM Supermoto World and European Championship</title>
-<sub-title lang="de">GP Sardinia, Tramatza, Italy</sub-title>
-<date>2026</date>
-<category lang="de">Motorradsport</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">F</country>
-</programme>
-<programme start="20260801121500 +0000" stop="20260801124500 +0000" channel="Motorvision.TV.de">
-<title lang="de">Motorradsport: FIM Enduro World Championship</title>
-<sub-title lang="de">Grand Prix of Spain, Oliana</sub-title>
-<desc lang="de">The show follows the world's best enduro pilots as they compete around the globe. (Station info).</desc>
-<date>2026</date>
-<category lang="de">Motorradsport</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">P</country>
-</programme>
-<programme start="20260801124500 +0000" stop="20260801133500 +0000" channel="Motorvision.TV.de">
-<title lang="de">Southern 100</title>
-<sub-title lang="de">Southern 100 (2)</sub-title>
-<desc lang="de">Kind of the Roads is a motorcycle road racing series where riders reach speeds of up to 200 mph (channel info).</desc>
-<date>2024</date>
-<category lang="de">Motorradsport</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">GB</country>
-<episode-num system="onscreen">E8</episode-num>
-</programme>
-<programme start="20260801133500 +0000" stop="20260801140000 +0000" channel="Motorvision.TV.de">
-<title lang="de">Icelandic Formula Off-Road</title>
-<sub-title lang="de">Norway World Cup, Blonduos</sub-title>
-<desc lang="de">Formula Off Road was invented in Iceland. Hoping to raise more money for the Icelandic rescue teams, the teams began showing their 4WD cars in action in the Icelandic hills. (Station info).</desc>
-<date>2025</date>
-<category lang="de">Motorsport</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">Isl.</country>
-</programme>
-<programme start="20260801140000 +0000" stop="20260801142500 +0000" channel="Motorvision.TV.de">
-<title lang="de">San Francisco, California</title>
-<sub-title lang="de">San Francisco, California</sub-title>
-<desc lang="de">Since 1992, a competition series has been held every year, culminating in the Monster Jam World Finals in Las Vegas. There are racing and freestyle competitions for monster trucks. (Station info).</desc>
-<date>2025</date>
-<category lang="de">Motorsport</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">USA</country>
-<episode-num system="onscreen">E2</episode-num>
-</programme>
-<programme start="20260801142500 +0000" stop="20260801145000 +0000" channel="Motorvision.TV.de">
-<title lang="de">FIM Quadcross World Championship 2026</title>
-<sub-title lang="de">GP Germany, Kleinhau</sub-title>
-<date>2026</date>
-<category lang="de">Motorsport</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">F</country>
-</programme>
-<programme start="20260801145000 +0000" stop="20260801151500 +0000" channel="Motorvision.TV.de">
-<title lang="de">FIM Quadcross World Championship 2026</title>
-<sub-title lang="de">GP Czech Republic, Kramolin</sub-title>
-<date>2026</date>
-<category lang="de">Motorsport</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">F</country>
-</programme>
-<programme start="20260801151500 +0000" stop="20260801154500 +0000" channel="Motorvision.TV.de">
-<title lang="de">Quad: EMX Quad European Championship</title>
-<sub-title lang="de">Madona, Lithuania</sub-title>
-<date>2025</date>
-<category lang="de">Motorsport</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-</programme>
-<programme start="20260801154500 +0000" stop="20260801163500 +0000" channel="Motorvision.TV.de">
-<title lang="de">UK National Legends Cars Championship 2024</title>
-<sub-title lang="de">Donington Park, Round 7</sub-title>
-<date>2024</date>
-<category lang="de">Motorsport</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">GB</country>
-</programme>
-<programme start="20260801163500 +0000" stop="20260801172000 +0000" channel="Motorvision.TV.de">
-<title lang="de">Quad: EMX Quad European Championship</title>
-<sub-title lang="de">Nepomuk, Czech Republic</sub-title>
-<date>2025</date>
-<category lang="de">Motorsport</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-</programme>
-<programme start="20260801172000 +0000" stop="20260801181000 +0000" channel="Motorvision.TV.de">
-<title lang="de">IndyNXT 2026</title>
-<sub-title lang="de">Indianapolis 2</sub-title>
-<category lang="de">Programm nach Ansage</category>
-<icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg"/>
-<country lang="de">USA</country>
-<episode-num system="onscreen">E23</episode-num>
-</programme>
-<programme start="20260801181000 +0000" stop="20260801184000 +0000" channel="Motorvision.TV.de">
-<title lang="de">Scottish Rally Championship 2026</title>
-<sub-title lang="de">Jim Clark Rally (tarmac)</sub-title>
-<date>2026</date>
-<category lang="de">Rallye</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-</programme>
-<programme start="20260801184000 +0000" stop="20260801191000 +0000" channel="Motorvision.TV.de">
-<title lang="de">Rallye: Tour European Rally</title>
-<sub-title lang="de">Chablais Rally, Switzerland</sub-title>
-<date>2026</date>
-<category lang="de">Rallye</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-</programme>
-<programme start="20260801191000 +0000" stop="20260801193500 +0000" channel="Motorvision.TV.de">
-<title lang="de">Rally: Belgian Championship</title>
-<sub-title lang="de">Sezoensrally</sub-title>
-<desc lang="de">The Belgian Rally Championship is one of the most competitive rally championships at national level. This also attracts prominent guest starters such as Thierry Neuville, Craig Breen and Stéphane Lefebvre. (Station info).</desc>
-<date>2026</date>
-<category lang="de">Rallye</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">B</country>
-</programme>
-<programme start="20260801193500 +0000" stop="20260801202500 +0000" channel="Motorvision.TV.de">
-<title lang="de">Rally: British Championship</title>
-<sub-title lang="de">Ceredigion Rally, Aberystwyth</sub-title>
-<date>2025</date>
-<category lang="de">Rallye</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">GB</country>
-</programme>
-<programme start="20260801202500 +0000" stop="20260801211500 +0000" channel="Motorvision.TV.de">
-<title lang="de">Rallye: NZ Rally Championship</title>
-<sub-title lang="de">Round 6, International Rally of Whangarei</sub-title>
-<date>2025</date>
-<category lang="de">Rallye</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">NZ</country>
-</programme>
-<programme start="20260801211500 +0000" stop="20260801214000 +0000" channel="Motorvision.TV.de">
-<title lang="de">Rallycross: Belgian Championship</title>
-<sub-title lang="de">Round 1 &amp; 2 &amp; 3</sub-title>
-<desc lang="de">A film team shows the highlights of the Belgian Rallycross Championships. Fast-paced head-to-head races between participants on mixed surfaces delight rallycross fans from all over the world. (Station info).</desc>
-<date>2025</date>
-<category lang="de">Rallye</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">B</country>
-</programme>
-<programme start="20260801214000 +0000" stop="20260801223500 +0000" channel="Motorvision.TV.de">
-<title lang="de">Ultimate Rally Raid Portugal</title>
-<sub-title lang="de">Ultimate Rally Raid Portugal</sub-title>
-<date>2026</date>
-<category lang="de">Rallye</category>
-<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
-<country lang="de">F</country>
-<episode-num system="onscreen">E2</episode-num>
-</programme>
-<programme start="20260801223500 +0000" stop="20260801232500 +0000" channel="Motorvision.TV.de">
-<title lang="de">IndyNXT 2026</title>
-<sub-title lang="de">Indianapolis 2</sub-title>
-<category lang="de">Programm nach Ansage</category>
-<icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg"/>
-<country lang="de">USA</country>
-<episode-num system="onscreen">E23</episode-num>
-</programme>
-<programme start="20260801232500 +0000" stop="20260802001000 +0000" channel="Motorvision.TV.de">
-<title lang="de">Road Wars Staffel 6</title>
-<desc lang="de">Drug crime, house searches, chases: Roadwars accompanies a special unit of the British police. Together with the dog team, they declare war on the thieves in the Thamse Vally. (Station info).</desc>
-<date>2019</date>
-<category lang="de">Doku-Soap</category>
-<icon src="http://img.tvspielfilm.de/13/0c/4a/6177c5f08189652ccb4a0c13.jpeg"/>
-<country lang="de">GB</country>
-</programme>
 <programme start="20260802001000 +0000" stop="20260802003500 +0000" channel="Motorvision.TV.de">
 <title lang="de">Car History</title>
 <sub-title lang="de">Porsche Le Mans</sub-title>
@@ -40625,7 +40327,7 @@
 </programme>
 <programme start="20260804210500 +0000" stop="20260804213000 +0000" channel="Motorvision.TV.de">
 <title lang="de">On Tour</title>
-<sub-title lang="de">DTM show event Munich</sub-title>
+<sub-title lang="de">DTM Showevent München</sub-title>
 <desc lang="de">Today we are at the DTM show event in Munich in the Olympiahalle. A mega event and battle between the Audi and Mercedes brands. (Station info).</desc>
 <date>2011</date>
 <category lang="de">Motorsport</category>
@@ -40679,417 +40381,63 @@
 <country lang="de">D</country>
 <episode-num system="onscreen">E11</episode-num>
 </programme>
-<programme start="20260801002000 +0000" stop="20260801005000 +0000" channel="Motorvision+.de">
-<title lang="de">FastZone 2026</title>
-<sub-title lang="de">Episode 7</sub-title>
-<desc lang="de">The show showcases some of the best motorsport moments, from karts to Formula One.</desc>
-<date>2026</date>
-<category lang="de">Sport</category>
-<country lang="de">DE</country>
-<country lang="de">GB</country>
-<episode-num system="onscreen">E7</episode-num>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801005000 +0000" stop="20260801012000 +0000" channel="Motorvision+.de">
-<title lang="de">On Tour</title>
-<sub-title lang="de">Snow Mobile</sub-title>
-<desc lang="de">The Snow Mobile Grand Prix in Saalbach-Hinterglemm will be accompanied by the winter opening of the Alps.</desc>
-<date>2019</date>
-<category lang="de">Sport</category>
-<country lang="de">DE</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801012000 +0000" stop="20260801015000 +0000" channel="Motorvision+.de">
-<title lang="de">Perfect Ride</title>
-<sub-title lang="de">Off the streets</sub-title>
-<desc lang="de">A bit of madness is part of it when off-road enthusiasts drive breakneck maneuvers in the toughest off-road trophies with 800 hp monsters. The show finds some of the best top off-roaders off the road.</desc>
-<date>2019</date>
-<category lang="de">Auto</category>
-<category lang="de">Wissen</category>
-<country lang="de">DE</country>
-<episode-num system="onscreen">S1 E18</episode-num>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801015000 +0000" stop="20260801021500 +0000" channel="Motorvision+.de">
-<title lang="de">Rear view mirror</title>
-<sub-title lang="de">BMW CS and CSL</sub-title>
-<desc lang="de">The “rearview mirror” takes a look at 40 years of Mercedes tuning: the AMG CLK 63 Black Edition. Also in this issue of the magazine: Total Siberia - 33 teams are taking part in the "Transsyberia Rally" over a length of 7,100 km.</desc>
-<date>2018</date>
-<category lang="de">Sport</category>
-<category lang="de">Auto</category>
-<category lang="de">Dokumentation</category>
-<country lang="de">DE</country>
-<episode-num system="onscreen">S1 E5</episode-num>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801021500 +0000" stop="20260801024500 +0000" channel="Motorvision+.de">
-<title lang="de">Tuning - it doesn't get any lower!</title>
-<sub-title lang="de">Aston Martin Custom Made</sub-title>
-<desc lang="de">For many car fans, tuning is a way of life: the search for ever more horsepower, better sound and exceptional design. The show takes a look behind the scenes of well-known, renowned and private tuning companies.</desc>
-<date>2016</date>
-<category lang="de">Auto</category>
-<category lang="de">Sport</category>
-<country lang="de">DE</country>
-<episode-num system="onscreen">S2 E15</episode-num>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801024500 +0000" stop="20260801031500 +0000" channel="Motorvision+.de">
-<title lang="de">Stunt Heroes</title>
-<sub-title lang="de">Die Matrix</sub-title>
-<desc lang="de">Martial arts specialist Ramazan develops a fight choreography in which four stuntmen dressed as agents beat him up. It will be revealed whether he can free himself from the tricky situation and who will end up flying off spectacularly in the car.</desc>
-<date>2012</date>
-<category lang="de">Dokumentation</category>
-<category lang="de">Unterhaltung</category>
-<country lang="de">DE</country>
-<episode-num system="onscreen">S1 E10</episode-num>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801031500 +0000" stop="20260801034000 +0000" channel="Motorvision+.de">
-<title lang="de">Top Speed Classic</title>
-<sub-title lang="de">Hans-Peter Porsche dream work</sub-title>
-<desc lang="de">It's about fast cars and the most famous racing and rally tracks. The presenter Martin Utberg actively takes part in the most beautiful classic car events in the world. You experience the whole history of classic jewels.</desc>
-<date>2024</date>
-<category lang="de">Sport</category>
-<country lang="de">NL</country>
-<country lang="de">DE</country>
-<episode-num system="onscreen">S6 E184</episode-num>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801034000 +0000" stop="20260801040000 +0000" channel="Motorvision+.de">
-<title lang="de">Super Cars</title>
-<sub-title lang="de">Mobility from Morgan</sub-title>
-<desc lang="de">It is the vision of an electric future from AMG: The Concept AMG GT XX delivers an incredible 1360 hp and charges faster than you can say "range anxiety". We were there for the spectacular world premiere.</desc>
-<date>2025</date>
-<category lang="de">Auto</category>
-<category lang="de">Sport</category>
-<country lang="de">DE</country>
-<episode-num system="onscreen">S16 E232</episode-num>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801040000 +0000" stop="20260801042000 +0000" channel="Motorvision+.de">
-<title lang="de">Biker Lifestyle</title>
-<sub-title lang="de">Crete 2024, part 3</sub-title>
-<desc lang="de">Tenerife is not just a paradise for pensioners and winter refugees. The island also attracts adventurers who want to explore breathtaking landscapes on winding roads on their motorcycles.</desc>
-<date>2026</date>
-<category lang="de">Auto</category>
-<country lang="de">DE</country>
-<episode-num system="onscreen">S14</episode-num>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801042000 +0000" stop="20260801043500 +0000" channel="Motorvision+.de">
-<title lang="de">Crash</title>
-<desc lang="de">When ambition exceeds driving ability and when well-secured racing professionals are carried out of the curve, then we are there with the camera. Breathtaking stunts of professional drivers and slapsticks of sophisticated tin bullets. Spectacular scenes in which no one is harmed.</desc>
-<country lang="de">DE</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801043500 +0000" stop="20260801045500 +0000" channel="Motorvision+.de">
-<title lang="de">Green wave</title>
-<sub-title lang="de">Sweden road trip with the VW ID.7 Tour</sub-title>
-<desc lang="de">Long distances and electric cars have not been friends so far, but that is about to change. For example with this vehicle: The VW ID.7 offers a range of around 700 kilometers in the Pro-S version and plenty of space as a tourer.</desc>
-<date>2025</date>
-<category lang="de">Auto</category>
-<category lang="de">Dokumentation</category>
-<category lang="de">Wissen</category>
-<country lang="de">DE</country>
-<episode-num system="onscreen">E70</episode-num>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801045500 +0000" stop="20260801054000 +0000" channel="Motorvision+.de">
-<title lang="de">Road Wars Staffel 7</title>
-<sub-title lang="de">Aggressive teenagers</sub-title>
-<desc lang="de">Colin and his German Shepherd Raven are called to a youth disturbance, Simon and the TAG team carry out a drug raid, and Roger and Giles do a vehicle check.</desc>
+<programme start="20260805000000 +0000" stop="20260805002000 +0000" channel="Motorvision.TV.de">
+<title lang="de">Four-wheel drive adventure</title>
+<desc lang="de">A special interest magazine about off-road and all-wheel drive vehicles. The focus is on off-road veterans and cars with four-wheel drive. (Station info).</desc>
 <date>2010</date>
-<category lang="de">Reality</category>
-<category lang="de">Krimi</category>
-<country lang="de">GB</country>
-<country lang="de">US</country>
-<episode-num system="onscreen">S7 E14</episode-num>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
+<category lang="de">Magazin</category>
+<icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"/>
+<country lang="de">D</country>
 </programme>
-<programme start="20260801054000 +0000" stop="20260801063000 +0000" channel="Motorvision+.de">
-<title lang="de">UIM E1 World Championship 2025</title>
-<desc lang="de">No further information is available for this article.</desc>
-<country lang="de">GB</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
+<programme start="20260805002000 +0000" stop="20260805005000 +0000" channel="Motorvision.TV.de">
+<title lang="de">Perfect Ride</title>
+<sub-title lang="de">Cashcows</sub-title>
+<desc lang="de">They are the cash cows of the automobile manufacturers. These models make the cash register ring and are immensely important for the brands. The new Mercedes C-Class is larger and sportier than its predecessor. This also applies to the Skoda Octavia Combi. The Nissan Qashqai is one of the most sought-after SUVs in Germany. And Opel is sending the newly styled Astra to attract customers. (Station info).</desc>
+<date>2022</date>
+<category lang="de">Magazin</category>
+<icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"/>
+<country lang="de">D</country>
+<episode-num system="onscreen">E89</episode-num>
 </programme>
-<programme start="20260801063000 +0000" stop="20260801072500 +0000" channel="Motorvision+.de">
-<title lang="de">NZ Jetsprint Championship 2025</title>
-<desc lang="de">The New Zealand Jetsprint Championship is the most important sprint boat competition from New Zealand, the country where the sport was founded in 1981. Jetsprinting is comparable to rally sports, but there is only one boat on the track at any given time and boats drive at very high speeds. The up to 500 HP strong jet sprint boats therefore try to achieve the best time on the tracks.</desc>
-<country lang="de">NZ</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
+<programme start="20260805005000 +0000" stop="20260805011500 +0000" channel="Motorvision.TV.de">
+<title lang="de">4x4 – Das Allrad Magazin</title>
+<sub-title lang="de">SUV brothers</sub-title>
+<desc lang="de">Same basis – three models. With a length of 4.70 m, the Skoda Kodiaq offers space for up to seven people. It also scores points with a low starting price of around 25,000 euros. The VW Tiguan costs a little more, but offers more engine choice and more technical features. And Seat brings Spanish passion to the SUV segment with the Ateca. The three platform brothers in the test. (Station info).</desc>
+<date>2017</date>
+<category lang="de">Magazin</category>
+<icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"/>
+<country lang="de">D</country>
+<episode-num system="onscreen">E64</episode-num>
 </programme>
-<programme start="20260801072500 +0000" stop="20260801081000 +0000" channel="Motorvision+.de">
-<title lang="de">Australian Boat Racing 2026</title>
-<desc lang="de">Junior National Driver's Championship, Mildura.</desc>
+<programme start="20260805011500 +0000" stop="20260805014000 +0000" channel="Motorvision.TV.de">
+<title lang="de">Tuning – it doesn’t get any lower than that!</title>
+<sub-title lang="de">Professional workshop meets hobby mechanic</sub-title>
+<desc lang="de">Professional workshop meets hobby mechanic - the topics in tuning today: Diesel with a difference: AC Schnitzer and Kelleners Sport have taken on the 1 Series BMW and created two real driving machines. AND: The most famous tuner meeting in Europe - Will our favorite Martin Arnold win the Pirelli Tuning Award? (Station info).</desc>
+<date>2009</date>
+<category lang="de">Magazin</category>
+<icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"/>
+<country lang="de">D</country>
+<episode-num system="onscreen">E22</episode-num>
+</programme>
+<programme start="20260805014000 +0000" stop="20260805023000 +0000" channel="Motorvision.TV.de">
+<title lang="de">Top Speed Classic</title>
+<sub-title lang="de">Top speed in focus – lap 3</sub-title>
+<desc lang="de">Top Speed ​​in Focus is all about classic vehicles – seen through the eyes of ambitious amateur photographers. A total of nine candidates compete against each other in three preliminary rounds. In each preliminary round, three participants compete with two photo tasks for points and a place in the grand finale. It will be decided there who will convince with the best sense of image composition, technology and storytelling. In the third preliminary round, Jens, Christoph and Siegfried compete against each other. This episode was filmed at Nussbaumer Automobile, a specialist for exceptional sports and collector's vehicles. The works will be assessed again by Da (broadcaster info).</desc>
 <date>2026</date>
-<category lang="de">Sport</category>
-<country lang="de">NZ</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
+<category lang="de">Motorsport</category>
+<icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg"/>
+<country lang="de">NL</country>
+<episode-num system="onscreen">E236</episode-num>
 </programme>
-<programme start="20260801081000 +0000" stop="20260801084000 +0000" channel="Motorvision+.de">
-<title lang="de">UIM F1H2O World Powerboat Championship 2025</title>
-<desc lang="de">No further information is available for this article.</desc>
-<country lang="de">FR</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801084000 +0000" stop="20260801091000 +0000" channel="Motorvision+.de">
-<title lang="de">UIM Aquabike World Championship 2025</title>
-<sub-title lang="de">GP of Qatar, Ski Division, Old Doha Port</sub-title>
-<desc lang="de">The show shows spectacular and entertaining events that take place on the water.</desc>
-<date>2026</date>
-<category lang="de">Sport</category>
-<country lang="de">FR</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801091000 +0000" stop="20260801093500 +0000" channel="Motorvision+.de">
-<title lang="de">P1 Class 1 Offshore Championship 2024</title>
-<sub-title lang="de">P1 Class 1 Offshore Championship 2024 - Saratosa Offshore Grand Prix, Florida</sub-title>
-<desc lang="de">The premier class of racing boats, the Class 1 championship, starts south of Tampa in Sarasota. An exciting race with catamarans with over 1,000 hp is on the program on the west coast of Florida.</desc>
-<date>2024</date>
-<category lang="de">Sport</category>
-<country lang="de">US</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801093500 +0000" stop="20260801105500 +0000" channel="Motorvision+.de">
-<title lang="de">FIM X-Trial World Championship 2026</title>
-<desc lang="de">No further information is available for this article.</desc>
-<country lang="de">FR</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801105500 +0000" stop="20260801114500 +0000" channel="Motorvision+.de">
-<title lang="de">FIM Sidecarcross World Championship 2026</title>
-<desc lang="de">No further information is available for this article.</desc>
-<country lang="de">US</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801114500 +0000" stop="20260801121500 +0000" channel="Motorvision+.de">
-<title lang="de">FIM Supermoto World and European Championship 2026</title>
-<sub-title lang="de">GP Sardinia, Tramatza, Italy</sub-title>
-<desc lang="de">No further information is available for this article.</desc>
-<date>2025</date>
-<category lang="de">Sport</category>
-<country lang="de">FR</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801121500 +0000" stop="20260801124500 +0000" channel="Motorvision+.de">
-<title lang="de">FIM Enduro World Championship 2026</title>
-<desc lang="de">No further information is available for this article.</desc>
-<country lang="de">PT</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801124500 +0000" stop="20260801133500 +0000" channel="Motorvision+.de">
-<title lang="de">King of the Roads 2024</title>
-<sub-title lang="de">Southern 100 Teil 2</sub-title>
-<desc lang="de">The Southern 100 on the Isle of Man goes into the next round. On the 4.25 mile long Billown Circuit, drivers in the solo and sidecar classes engage in thrilling duels and fight for every second.</desc>
-<date>2024</date>
-<category lang="de">Sport</category>
-<country lang="de">GB</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801133500 +0000" stop="20260801140000 +0000" channel="Motorvision+.de">
-<title lang="de">Icelandic Formula Offroad 2025</title>
-<sub-title lang="de">2025 - Norway World Cup, Blonduos</sub-title>
-<desc lang="de">The program reports on the "Formula Off Road", which has its origins in Iceland.</desc>
-<date>2026</date>
-<category lang="de">Sport</category>
-<country lang="de">IS</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801140000 +0000" stop="20260801142500 +0000" channel="Motorvision+.de">
-<title lang="de">Monster Jam Championship 2025</title>
-<sub-title lang="de">2025 San Francisco, California</sub-title>
-<desc lang="de">Experience the 2025 Monster Jam Championship Series with highlights from San Francisco! Giant monster trucks compete against each other in spectacular races and freestyle competitions, thrilling the audience.</desc>
-<date>2026</date>
-<category lang="de">Sport</category>
-<country lang="de">US</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801142500 +0000" stop="20260801145000 +0000" channel="Motorvision+.de">
-<title lang="de">FIM Quadcross World Championship 2026</title>
-<sub-title lang="de">GP Germany, Kleinhau</sub-title>
-<desc lang="de">No further information is available for this article.</desc>
-<date>2026</date>
-<category lang="de">Sport</category>
-<country lang="de">FR</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801145000 +0000" stop="20260801151500 +0000" channel="Motorvision+.de">
-<title lang="de">FIM Quadcross World Championship 2026</title>
-<sub-title lang="de">GP Czech Republic, Kramolin</sub-title>
-<desc lang="de">No further information is available for this article.</desc>
-<date>2026</date>
-<category lang="de">Sport</category>
-<country lang="de">FR</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801151500 +0000" stop="20260801154500 +0000" channel="Motorvision+.de">
-<title lang="de">EMX Quad European Championship 2025</title>
-<desc lang="de">No further information is available for this article.</desc>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801154500 +0000" stop="20260801163500 +0000" channel="Motorvision+.de">
-<title lang="de">UK National Legends Cars Championship 2024</title>
-<country lang="de">GB</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801163500 +0000" stop="20260801172000 +0000" channel="Motorvision+.de">
-<title lang="de">EMX Quad European Championship 2025</title>
-<desc lang="de">No further information is available for this article.</desc>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801172000 +0000" stop="20260801181000 +0000" channel="Motorvision+.de">
-<title lang="de">IndyNXT 2026</title>
-<desc lang="de">No further information is available for this article.</desc>
-<country lang="de">US</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801181000 +0000" stop="20260801184000 +0000" channel="Motorvision+.de">
-<title lang="de">Scottish Rally Championship 2026</title>
-<sub-title lang="de">Tarmac</sub-title>
-<desc lang="de">No further information is available for this article.</desc>
-<date>2026</date>
-<category lang="de">Sport</category>
-<country lang="de">GB</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801184000 +0000" stop="20260801191000 +0000" channel="Motorvision+.de">
-<title lang="de">Tour European Rally 2026</title>
-<desc lang="de">The TER is a European rally championship for modern rally vehicles.</desc>
-<country lang="de">GB</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801191000 +0000" stop="20260801193500 +0000" channel="Motorvision+.de">
-<title lang="de">Belgian Rally Championship 2026</title>
-<desc lang="de">No further information is available for this article.</desc>
-<country lang="de">BE</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801193500 +0000" stop="20260801202500 +0000" channel="Motorvision+.de">
-<title lang="de">British Rally Championship 2025</title>
-<sub-title lang="de">Ceredigion Rally, Aberystwyth</sub-title>
-<desc lang="de">Highlights and summaries of the British Rally Championship are shown.</desc>
-<date>2025</date>
-<category lang="de">Sport</category>
-<country lang="de">GB</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801202500 +0000" stop="20260801211500 +0000" channel="Motorvision+.de">
-<title lang="de">NZ Rally Championship 2025</title>
-<desc lang="de">No further information is available for this article.</desc>
-<country lang="de">NZ</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801211500 +0000" stop="20260801214000 +0000" channel="Motorvision+.de">
-<title lang="de">Belgian Rallycross Championship 2025</title>
-<sub-title lang="de">Round 1 &amp; 2 &amp; 3</sub-title>
-<desc lang="de">The program presents the highlights of the Belgian Rallycross Championship.</desc>
-<date>2026</date>
-<category lang="de">Sport</category>
-<country lang="de">BE</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801214000 +0000" stop="20260801223500 +0000" channel="Motorvision+.de">
-<title lang="de">World Rally Raid Championship 2026</title>
-<desc lang="de">No further information is available for this article.</desc>
-<country lang="de">FR</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801223500 +0000" stop="20260801232500 +0000" channel="Motorvision+.de">
-<title lang="de">IndyNXT 2026</title>
-<desc lang="de">No further information is available for this article.</desc>
-<country lang="de">US</country>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
-</programme>
-<programme start="20260801232500 +0000" stop="20260802001000 +0000" channel="Motorvision+.de">
-<title lang="de">Road Wars Staffel 6</title>
-<sub-title lang="de">Ultimate Road Wars</sub-title>
-<desc lang="de">The officers experience an adrenaline-fueled chase during a problematic drug bust.</desc>
-<date>2011</date>
-<category lang="de">Reality</category>
-<category lang="de">Krimi</category>
-<country lang="de">GB</country>
-<episode-num system="onscreen">S6 E20</episode-num>
-<rating system="FSK">
-<value>Keine Altersangabe</value>
-</rating>
+<programme start="20260805023000 +0000" stop="20260805030000 +0000" channel="Motorvision.TV.de">
+<title lang="de">Super Cars</title>
+<sub-title lang="de">Curve robbers</sub-title>
+<desc lang="de">What is the essence of sports cars? Perfomance? Precision? Or the incomparable feeling of mastering the road. For example in the McLaren 600 LT: A corner robber with a dynamic that makes car fanatics' hearts beat faster. In the Aston Martin Vantage Roadster, British tradition and power merge to create an irresistible open-air experience. And: Alfa Romeo Giulia GTAm. (Station info).</desc>
+<date>2022</date>
+<category lang="de">Magazin</category>
+<icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"/>
+<country lang="de">D</country>
+<episode-num system="onscreen">E225</episode-num>
 </programme>
 <programme start="20260802001000 +0000" stop="20260802003500 +0000" channel="Motorvision+.de">
 <title lang="de">Car History</title>
@@ -42168,7 +41516,7 @@
 </programme>
 <programme start="20260804210500 +0000" stop="20260804213000 +0000" channel="Motorvision+.de">
 <title lang="de">On Tour</title>
-<sub-title lang="de">DTM show event Munich</sub-title>
+<sub-title lang="de">DTM Showevent München</sub-title>
 <desc lang="de">The show is about different car races and people with a passion for engines. Spectacular events are always presented, such as in this case the DTM show event in Munich, where the drivers present their tricks.</desc>
 <date>2014</date>
 <category lang="de">Sport</category>
@@ -42655,7 +42003,7 @@
 </programme>
 <programme start="20260805170000 +0000" stop="20260805172500 +0000" channel="Motorvision+.de">
 <title lang="de">On Tour</title>
-<sub-title lang="de">DTM show event Munich</sub-title>
+<sub-title lang="de">DTM Showevent München</sub-title>
 <desc lang="de">The show is about different car races and people with a passion for engines. Spectacular events are always presented, such as in this case the DTM show event in Munich, where the drivers present their tricks.</desc>
 <date>2014</date>
 <category lang="de">Sport</category>
@@ -42776,149 +42124,542 @@
 <value>Keine Altersangabe</value>
 </rating>
 </programme>
-<programme start="20260801000000 +0000" stop="20260801020000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-<title lang="en">Cold Sweat</title>
-<desc lang="en">A brutal drug trader takes violent revenge after his wife is captured by a drug boss.</desc>
-<date>1970</date>
-<category lang="en">Drama</category>
-<category lang="en">Action</category>
-<category lang="en">Crime</category>
-<category lang="en">Thriller</category>
-<icon src="https://metadata-static.plex.tv/2/gracenote/2fd3cb400f1ad900a9d70b5b59cedd72.jpg"/>
-<rating system="US">
-<value>PG</value>
+<programme start="20260806002000 +0000" stop="20260806004500 +0000" channel="Motorvision+.de">
+<title lang="de">Perfect Ride</title>
+<sub-title lang="de">Praktiker</sub-title>
+<desc lang="de">They are the Swiss army knives on wheels and perfect for family and leisure. In the show, practical models such as the VW Caddy, the Opel Combo and the electric version of the Townstar from Nissan are put to the test.</desc>
+<date>2022</date>
+<category lang="de">Auto</category>
+<category lang="de">Wissen</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S4 E13</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
 </rating>
 </programme>
-<programme start="20260801020000 +0000" stop="20260801040000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-<title lang="en">The Deadly Companions</title>
-<desc lang="en">An ex-army officer accidentally kills a woman's son and tries to make up for it by escorting the funeral procession through dangerous Indian territory.</desc>
-<date>1961</date>
-<category lang="en">Western</category>
-<category lang="en">Adventure</category>
-<category lang="en">Action</category>
-<category lang="en">Drama</category>
-<icon src="https://metadata-static.plex.tv/a/gracenote/a44440c3f500e19915a756dd022a4df8.jpg"/>
-<rating system="US">
-<value>PG</value>
+<programme start="20260806004500 +0000" stop="20260806011000 +0000" channel="Motorvision+.de">
+<title lang="de">4x4 - Das Allrad Magazin</title>
+<sub-title lang="de">Business class with all-wheel drive</sub-title>
+<desc lang="de">The focus is on all-wheel drive alternatives for the middle class such as the Jaguar XF-S. It impresses with its 380 hp V6 engine. There is also the Volvo S90 from Scandinavia with an economical four-cylinder engine.</desc>
+<date>2017</date>
+<category lang="de">Sport</category>
+<category lang="de">Magazin</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S1 E65</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
 </rating>
 </programme>
-<programme start="20260801040000 +0000" stop="20260801060000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-<title lang="en">White Fang</title>
-<desc lang="en">The wolf dog, aids a reporter, a fur trapper, a nun, a young Eskimo boy and his father in ridding a gold mining town of a sleazy crime lord in 1896 Yukon in Canada.</desc>
-<date>1973</date>
-<category lang="en">Family</category>
-<category lang="en">Adventure</category>
-<category lang="en">Drama</category>
-<category lang="en">Western</category>
-<icon src="https://metadata-static.plex.tv/6/gracenote/6ef7ef3d4130e99efa68ab4795d61f72.jpg"/>
-<rating system="US">
-<value>PG</value>
+<programme start="20260806011000 +0000" stop="20260806014000 +0000" channel="Motorvision+.de">
+<title lang="de">Tuning - it doesn't get any lower!</title>
+<sub-title lang="de">Performance versus Show and Shine</sub-title>
+<desc lang="de">The German Race Wars invite you to sprint over the quarter mile in fast cars.</desc>
+<date>2016</date>
+<category lang="de">Auto</category>
+<category lang="de">Sport</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S1 E23</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
 </rating>
 </programme>
-<programme start="20260801060000 +0000" stop="20260801080000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-<title lang="en">Cold Sweat</title>
-<desc lang="en">A brutal drug trader takes violent revenge after his wife is captured by a drug boss.</desc>
-<date>1970</date>
-<category lang="en">Drama</category>
-<category lang="en">Action</category>
-<category lang="en">Crime</category>
-<category lang="en">Thriller</category>
-<icon src="https://metadata-static.plex.tv/2/gracenote/2fd3cb400f1ad900a9d70b5b59cedd72.jpg"/>
-<rating system="US">
-<value>PG</value>
+<programme start="20260806014000 +0000" stop="20260806020500 +0000" channel="Motorvision+.de">
+<title lang="de">Top Speed Classic</title>
+<sub-title lang="de">Retro Classics Stuttgart Teil 2</sub-title>
+<desc lang="de">At the Retro Classics in Stuttgart, presenter Martin Utberg is one of the crowd pullers at the trade fair with his daily stage talks in Hall 10.</desc>
+<date>2026</date>
+<category lang="de">Sport</category>
+<category lang="de">Auto</category>
+<category lang="de">Dokumentation</category>
+<country lang="de">NL</country>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S6 E241</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
 </rating>
 </programme>
-<programme start="20260801080000 +0000" stop="20260801100000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-<title lang="en">The Deadly Companions</title>
-<desc lang="en">An ex-army officer accidentally kills a woman's son and tries to make up for it by escorting the funeral procession through dangerous Indian territory.</desc>
-<date>1961</date>
-<category lang="en">Western</category>
-<category lang="en">Adventure</category>
-<category lang="en">Action</category>
-<category lang="en">Drama</category>
-<icon src="https://metadata-static.plex.tv/a/gracenote/a44440c3f500e19915a756dd022a4df8.jpg"/>
-<rating system="US">
-<value>PG</value>
+<programme start="20260806020500 +0000" stop="20260806023500 +0000" channel="Motorvision+.de">
+<title lang="de">Car History</title>
+<sub-title lang="de">AMG</sub-title>
+<desc lang="de">AMG stands for exclusivity, top automotive performance and dynamic driving pleasure. The company belongs to Daimler AG and is responsible for high-performance vehicles.</desc>
+<date>2018</date>
+<category lang="de">Geschichte</category>
+<category lang="de">Auto</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S1 E14</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
 </rating>
 </programme>
-<programme start="20260801100000 +0000" stop="20260801115000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-<title lang="en">The Grand Duel</title>
-<desc lang="en">A grizzled ex-sheriff helps a man framed for murder to confront the powerful trio of brothers who want him dead.</desc>
-<category lang="en">Adrenaline + Sci-Fi</category>
-<icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg"/>
-<rating system="US">
-<value>PG</value>
+<programme start="20260806023500 +0000" stop="20260806030000 +0000" channel="Motorvision+.de">
+<title lang="de">Super Cars</title>
+<sub-title lang="de">Power sports station wagons</sub-title>
+<desc lang="de">Luxury, speed, high-tech, power: this show presents the fastest and most elegant cars in the world. Who is in the running for the Supercar title? The finest workmanship, the highest level of engineering and the most expensive price decide this.</desc>
+<date>2024</date>
+<category lang="de">Auto</category>
+<category lang="de">Sport</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S16</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
 </rating>
 </programme>
-<programme start="20260801115000 +0000" stop="20260801140500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-<title lang="en">My Name Is Nobody</title>
-<desc lang="en">A young, easygoing gunman worships and competes with an old gunfighter who only wants to retire.</desc>
-<category lang="en">Adrenaline + Sci-Fi</category>
-<icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg"/>
-<rating system="US">
-<value>PG</value>
+<programme start="20260806030000 +0000" stop="20260806040000 +0000" channel="Motorvision+.de">
+<title lang="de">NTT Indycar Series 2026</title>
+<desc lang="de">Broadcast of IndyCar Series races.</desc>
+<date>2000</date>
+<category lang="de">Sport</category>
+<country lang="de">US</country>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
 </rating>
 </programme>
-<programme start="20260801140500 +0000" stop="20260801160000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-<title lang="en">Breakout</title>
-<desc lang="en">A bush pilot is hired for '300,000 to go to Mexico to free an innocent prisoner.</desc>
-<date>1975</date>
-<category lang="en">Action</category>
-<category lang="en">Adventure</category>
-<category lang="en">Thriller</category>
-<category lang="en">Drama</category>
-<icon src="https://metadata-static.plex.tv/c/gracenote/cb318987106ff180419d6ad7484b84ba.jpg"/>
-<rating system="US">
-<value>PG</value>
+<programme start="20260806040000 +0000" stop="20260806044500 +0000" channel="Motorvision+.de">
+<title lang="de">Australian Drag Racing Championship 2024</title>
+<sub-title lang="de">Pro Alcohol Round 1, Sydney</sub-title>
+<desc lang="de">The Australian Drag Racing Championship is a regional motorsport series for top petrol dragsters.</desc>
+<date>2024</date>
+<category lang="de">Sport</category>
+<category lang="de">Natur und Tiere</category>
+<country lang="de">AU</country>
+<episode-num system="onscreen">E9</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
 </rating>
 </programme>
-<programme start="20260801160000 +0000" stop="20260801175000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-<title lang="en">The Grand Duel</title>
-<desc lang="en">A grizzled ex-sheriff helps a man framed for murder to confront the powerful trio of brothers who want him dead.</desc>
-<category lang="en">Adrenaline + Sci-Fi</category>
-<icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg"/>
-<rating system="US">
-<value>PG</value>
+<programme start="20260806044500 +0000" stop="20260806051000 +0000" channel="Motorvision+.de">
+<title lang="de">Crash</title>
+<sub-title lang="de">Episode 16</sub-title>
+<desc lang="de">We see what happens when ambition exceeds driving ability and racing professionals are carried out of the corner. Breathtaking stunts by professional drivers and spectacular scenes in which no one is harmed are presented.</desc>
+<date>2016</date>
+<category lang="de">Auto</category>
+<category lang="de">Sport</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S2 E16</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
 </rating>
 </programme>
-<programme start="20260801175000 +0000" stop="20260801200500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-<title lang="en">My Name Is Nobody</title>
-<desc lang="en">A young, easygoing gunman worships and competes with an old gunfighter who only wants to retire.</desc>
-<category lang="en">Adrenaline + Sci-Fi</category>
-<icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg"/>
-<rating system="US">
-<value>PG</value>
+<programme start="20260806051000 +0000" stop="20260806053500 +0000" channel="Motorvision+.de">
+<title lang="de">Dumbest Stuff on Wheels</title>
+<sub-title lang="de">Episode 4</sub-title>
+<desc lang="de">Sometimes people and machines don't make a good mix. Especially when it comes to operating very heavy or fast vehicles. The program shows video recordings that provide evidence.</desc>
+<credits>
+<producer>Burt Kearns</producer>
+<producer>Frank Sinton</producer>
+<producer>Arthur Smith</producer>
+<producer>Kent Weed</producer>
+</credits>
+<date>2011</date>
+<category lang="de">Reality</category>
+<category lang="de">Auto</category>
+<country lang="de">US</country>
+<episode-num system="onscreen">S1 E4</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
 </rating>
 </programme>
-<programme start="20260801200500 +0000" stop="20260801220000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-<title lang="en">Breakout</title>
-<desc lang="en">A bush pilot is hired for '300,000 to go to Mexico to free an innocent prisoner.</desc>
-<date>1975</date>
-<category lang="en">Action</category>
-<category lang="en">Adventure</category>
-<category lang="en">Thriller</category>
-<category lang="en">Drama</category>
-<icon src="https://metadata-static.plex.tv/c/gracenote/cb318987106ff180419d6ad7484b84ba.jpg"/>
-<rating system="US">
-<value>PG</value>
+<programme start="20260806053500 +0000" stop="20260806062500 +0000" channel="Motorvision+.de">
+<title lang="de">Isle of Man Tourist Trophy 2026</title>
+<desc lang="de">Another total cancellation of the race day on the Isle of Man due to the weather, but instead we had the opportunity to talk in more detail with the Crowe brothers and Davey Todd and take a look back at the most spectacular races of the week.</desc>
+<country lang="de">GB</country>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
 </rating>
 </programme>
-<programme start="20260801220000 +0000" stop="20260801235000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-<title lang="en">The Grand Duel</title>
-<desc lang="en">A grizzled ex-sheriff helps a man framed for murder to confront the powerful trio of brothers who want him dead.</desc>
-<category lang="en">Adrenaline + Sci-Fi</category>
-<icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg"/>
-<rating system="US">
-<value>PG</value>
+<programme start="20260806062500 +0000" stop="20260806065500 +0000" channel="Motorvision+.de">
+<title lang="de">Classic Ride</title>
+<sub-title lang="de">Isetta</sub-title>
+<desc lang="de">Prince Leopold of Bavaria owns two cars that couldn't be more opposite: the BMW Isetta and the BMW Z8. The BMW Isetta is one of the strangest and most successful small cars of the 1950s. The BMW Z8 is still a dream car today.</desc>
+<date>2015</date>
+<category lang="de">Geschichte</category>
+<category lang="de">Auto</category>
+<country lang="de">DE</country>
+<country lang="de">GB</country>
+<episode-num system="onscreen">S1 E18</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
 </rating>
 </programme>
-<programme start="20260801235000 +0000" stop="20260802020500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-<title lang="en">My Name Is Nobody</title>
-<desc lang="en">A young, easygoing gunman worships and competes with an old gunfighter who only wants to retire.</desc>
-<category lang="en">Adrenaline + Sci-Fi</category>
-<icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg"/>
-<rating system="US">
-<value>PG</value>
+<programme start="20260806065500 +0000" stop="20260806072000 +0000" channel="Motorvision+.de">
+<title lang="de">Top Speed Classic</title>
+<sub-title lang="de">Classic Spring Tour 2022</sub-title>
+<desc lang="de">The presenter actively participates in the most beautiful classic car events in the world.</desc>
+<date>2022</date>
+<category lang="de">Sport</category>
+<country lang="de">NL</country>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S6 E97</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806072000 +0000" stop="20260806075000 +0000" channel="Motorvision+.de">
+<title lang="de">Stunt Heroes</title>
+<sub-title lang="de">Bodyaction Highlights</sub-title>
+<desc lang="de">Whenever people fly through the air, run in front of cars or fall from roofs in a film, you need real professionals. The body stunt special shows the highlights from the first season of the series, garnished with the best fails and outtakes.</desc>
+<date>2013</date>
+<category lang="de">Dokumentation</category>
+<category lang="de">Unterhaltung</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S3 E4</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806075000 +0000" stop="20260806082000 +0000" channel="Motorvision+.de">
+<title lang="de">Biker Lifestyle</title>
+<sub-title lang="de">Andalusia Gibraltar 2024, By motorcycle in the Sierras of southern Spain, Part 1</sub-title>
+<desc lang="de">Andalusia - Gibraltar is the 2nd part of our southern Spain motorcycle tours. In this film we take you on winding mountain roads in the Serranía de Ronda, the Sierra Grazalema and through the rock formations of the Sierra de las Nieves.</desc>
+<date>2025</date>
+<category lang="de">Auto</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S14</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806082000 +0000" stop="20260806084500 +0000" channel="Motorvision+.de">
+<title lang="de">On Tour</title>
+<sub-title lang="de">Truck Grand Prix am Nürburgring</sub-title>
+<desc lang="de">This time we're going to the ADAC Truck Grand Prix at the Nürburgring. Supertrucks at the Nürburgring put on a tough race with massive crashes. A huge array of trucks, spectators and highlights delight the spectators.</desc>
+<date>2018</date>
+<category lang="de">Sport</category>
+<country lang="de">DE</country>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806084500 +0000" stop="20260806091000 +0000" channel="Motorvision+.de">
+<title lang="de">Classic</title>
+<sub-title lang="de">Episode 122</sub-title>
+<desc lang="de">Dieter Landuris collects vintage cars. Twelve classics belong to his collection. He talks to Classic about his classic car fever. One of the opening races of the mountain racing season takes place at Hochkönig in Mühlbach, Austria.</desc>
+<date>2018</date>
+<category lang="de">Sport</category>
+<category lang="de">Auto</category>
+<country lang="de">DE</country>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806091000 +0000" stop="20260806094000 +0000" channel="Motorvision+.de">
+<title lang="de">Green wave</title>
+<sub-title lang="de">Compact e-city runabout</sub-title>
+<desc lang="de">Compact, modern, electric! E-SUVs are conquering our big cities. Volvo is sending the EX30 to attract customers. The brand's new smallest model is supposed to impress with Swedish coolness and plenty of power.</desc>
+<date>2025</date>
+<category lang="de">Auto</category>
+<category lang="de">Dokumentation</category>
+<category lang="de">Wissen</category>
+<category lang="de">Abenteuer</category>
+<category lang="de">Action</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">E66</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806094000 +0000" stop="20260806100500 +0000" channel="Motorvision+.de">
+<title lang="de">Made in....</title>
+<sub-title lang="de">Volkner Mobile</sub-title>
+<desc lang="de">It is the most extraordinary luxury motorhome from Germany: Volkner's performance is one of the most exclusive motorhomes in the world. Gerhard Volkner and his wife Stephanie are behind this spectacular motorhome.</desc>
+<date>2020</date>
+<category lang="de">Dokumentation</category>
+<category lang="de">Wissen</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S1 E13</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806100500 +0000" stop="20260806103500 +0000" channel="Motorvision+.de">
+<title lang="de">Four-wheel drive adventure</title>
+<sub-title lang="de">Episode 47</sub-title>
+<desc lang="de">This magazine deals with various off-road and all-wheel drive vehicles. It provides information about off-road veterans and cars with four-wheel drive. The vehicles are presented and their qualities are examined in more detail.</desc>
+<date>2020</date>
+<category lang="de">Auto</category>
+<category lang="de">Sport</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S4 E47</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806103500 +0000" stop="20260806110500 +0000" channel="Motorvision+.de">
+<title lang="de">Perfect Ride</title>
+<sub-title lang="de">Travel Minibuses</sub-title>
+<desc lang="de">The show looks at various buses such as Mercedes and the VW Bulli.</desc>
+<date>2023</date>
+<category lang="de">Auto</category>
+<category lang="de">Wissen</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S1 E91</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806110500 +0000" stop="20260806113000 +0000" channel="Motorvision+.de">
+<title lang="de">4x4 - Das Allrad Magazin</title>
+<sub-title lang="de">ORZ</sub-title>
+<desc lang="de">ORZ Vehicles offers Jeep accessories and converts off-road vehicles. In doing so, they are making the American off-road dream come true for Europe. This can be clearly seen in the Brute model, which has little in common with the production model.</desc>
+<date>2017</date>
+<category lang="de">Sport</category>
+<category lang="de">Magazin</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S3 E66</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806113000 +0000" stop="20260806120000 +0000" channel="Motorvision+.de">
+<title lang="de">Tuning - it doesn't get any lower!</title>
+<sub-title lang="de">Visit to the trade fair with a celebrity bonus</sub-title>
+<desc lang="de">For many car fans, tuning is a way of life: the search for ever more horsepower, better sound and exceptional design. The show takes a look behind the scenes of well-known, renowned and private tuning companies.</desc>
+<date>2016</date>
+<category lang="de">Auto</category>
+<category lang="de">Sport</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S1 E24</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806120000 +0000" stop="20260806123000 +0000" channel="Motorvision+.de">
+<title lang="de">Top Speed Classic</title>
+<sub-title lang="de">Edelweiss Classic 2024</sub-title>
+<desc lang="de">It's about fast cars and the most famous racing and rally tracks. The presenter Martin Utberg actively takes part in the most beautiful classic car events in the world. You experience the whole history of classic jewels.</desc>
+<date>2024</date>
+<category lang="de">Sport</category>
+<country lang="de">NL</country>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S6 E158</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806123000 +0000" stop="20260806130000 +0000" channel="Motorvision+.de">
+<title lang="de">Car History</title>
+<sub-title lang="de">60 years of the Porsche 550 Spyder</sub-title>
+<desc lang="de">James Dean was killed in the Porsche 550 Spyder. The car is 60 years old. The flat and fast car laid the foundation for the incredible success story of the Stuttgart sports car manufacturer.</desc>
+<date>2014</date>
+<category lang="de">Geschichte</category>
+<category lang="de">Auto</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S1 E26</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806130000 +0000" stop="20260806133000 +0000" channel="Motorvision+.de">
+<title lang="de">Super Cars</title>
+<sub-title lang="de">Porsche 911 Dakar</sub-title>
+<desc lang="de">The Porsche 911 Dakar is one of the most extreme series 11s of all time. With its ancestor, the Porsche 953, the manufacturer won the legendary Paris Dakar Rally in 1984. The model is a homage to this sensational success.</desc>
+<date>2024</date>
+<category lang="de">Auto</category>
+<category lang="de">Sport</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S16</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806133000 +0000" stop="20260806142500 +0000" channel="Motorvision+.de">
+<title lang="de">NTT Indycar Series 2026</title>
+<sub-title lang="de">Bommarito Automotive Group 500, WW Technology Raceway, Illinois</sub-title>
+<desc lang="de">From World Wide Technology Raceway at Gateway in Madison, Ill.</desc>
+<date>2025</date>
+<category lang="de">Sport</category>
+<country lang="de">US</country>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806142500 +0000" stop="20260806151500 +0000" channel="Motorvision+.de">
+<title lang="de">NZ Jetsprint Championship 2025</title>
+<desc lang="de">The New Zealand Jetsprint Championship is the most important sprint boat competition from New Zealand, the country where the sport was founded in 1981. Jetsprinting is comparable to rally sports, but there is only one boat on the track at any given time and boats drive at very high speeds. The up to 500 HP strong jet sprint boats therefore try to achieve the best time on the tracks.</desc>
+<country lang="de">NZ</country>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806151500 +0000" stop="20260806161000 +0000" channel="Motorvision+.de">
+<title lang="de">Australian Boat Racing 2026</title>
+<desc lang="de">Hydroplanes, Glenmaggie.</desc>
+<date>2026</date>
+<category lang="de">Sport</category>
+<country lang="de">NZ</country>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806161000 +0000" stop="20260806164000 +0000" channel="Motorvision+.de">
+<title lang="de">UIM Aquabike World Championship 2026</title>
+<sub-title lang="de">2026 GP of Shanghai, Ski Division, China</sub-title>
+<desc lang="de">The show shows spectacular and entertaining events that take place on the water.</desc>
+<date>2026</date>
+<category lang="de">Sport</category>
+<country lang="de">FR</country>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806164000 +0000" stop="20260806171000 +0000" channel="Motorvision+.de">
+<title lang="de">UIM F1H2O World Powerboat Championship 2026</title>
+<desc lang="de">No further information is available for this article.</desc>
+<country lang="de">FR</country>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806171000 +0000" stop="20260806180000 +0000" channel="Motorvision+.de">
+<title lang="de">UIM E1 World Championship 2025</title>
+<desc lang="de">No further information is available for this article.</desc>
+<country lang="de">GB</country>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806180000 +0000" stop="20260806185000 +0000" channel="Motorvision+.de">
+<title lang="de">Isle of Man Tourist Trophy 2026</title>
+<desc lang="de">With the first Supersport race shortened to 3 laps, the question was whether Hicky could once again demonstrate his dominance from the Superbike race, whether Lee Johnston could repeat his success from last year or whether Michael Dunlup would live up to his role as favorite here. It was a hot fight!</desc>
+<country lang="de">GB</country>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806185000 +0000" stop="20260806191500 +0000" channel="Motorvision+.de">
+<title lang="de">Top Speed Classic</title>
+<sub-title lang="de">Top speed in focus Reller Automobiles</sub-title>
+<desc lang="de">In this Top Speed ​​in Focus episode, the two classic car lovers Sebastian Meyer and Fabio Dal Pos compete against each other as amateur photographers. Ralf Reller is looking for the best photos for his catalog - but who can best implement his wishes?</desc>
+<date>2026</date>
+<category lang="de">Sport</category>
+<category lang="de">Auto</category>
+<category lang="de">Dokumentation</category>
+<country lang="de">NL</country>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S6 E257</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806191500 +0000" stop="20260806194500 +0000" channel="Motorvision+.de">
+<title lang="de">Classic Ride</title>
+<sub-title lang="de">The last DKW</sub-title>
+<desc lang="de">The DKW F12 Roadster appeared on the market in spring 1964. The neat convertible is the last vehicle in an important line of ancestors - the last DKW. Because the course has been set for the traditional manufacturer. The brand will no longer exist. In the future, the Neckarsulm-based company will only produce Audi automobiles with four-stroke engines. Driving in the F12 Roadster offers a rare opportunity to openly enjoy the two-stroke flag so beloved by fans.</desc>
+<date>2015</date>
+<category lang="de">Geschichte</category>
+<category lang="de">Auto</category>
+<country lang="de">DE</country>
+<country lang="de">GB</country>
+<episode-num system="onscreen">S1</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806194500 +0000" stop="20260806201500 +0000" channel="Motorvision+.de">
+<title lang="de">Top Speed Classic</title>
+<sub-title lang="de">Episode 263</sub-title>
+<desc lang="de">It's about fast cars and the most famous racing and rally tracks. The presenter Martin Utberg actively takes part in the most beautiful classic car events in the world. You experience the whole history of classic jewels.</desc>
+<date>2026</date>
+<category lang="de">Sport</category>
+<category lang="de">Auto</category>
+<category lang="de">Dokumentation</category>
+<country lang="de">NL</country>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S6 E256</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806201500 +0000" stop="20260806204000 +0000" channel="Motorvision+.de">
+<title lang="de">Classic</title>
+<sub-title lang="de">Episode 20</sub-title>
+<desc lang="de">This show is about "La Déesse", "the goddess" from Citroën. Presented at the Paris Salon in 1955, this car caused a sensation. 12,000 sales contracts were signed within the first day of the exhibition.</desc>
+<date>2020</date>
+<category lang="de">Sport</category>
+<category lang="de">Auto</category>
+<country lang="de">DE</country>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806204000 +0000" stop="20260806210500 +0000" channel="Motorvision+.de">
+<title lang="de">Car History</title>
+<sub-title lang="de">Nissan</sub-title>
+<desc lang="de">Nissan stands for affordable, practical vehicles and has now developed into a global player. After the Second World War, the Japanese brand grew slowly and declared war on the market leaders in Japan, GM and Ford.</desc>
+<date>2016</date>
+<category lang="de">Geschichte</category>
+<category lang="de">Auto</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S1 E55</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806210500 +0000" stop="20260806213500 +0000" channel="Motorvision+.de">
+<title lang="de">Classic Races</title>
+<sub-title lang="de">Auto Union Silver Arrows</sub-title>
+<desc lang="de">The newly founded company Auto Union started building Grand Prix racing cars in 1934, which soon became known as “The Silver Arrows from Zwickau”. The documentary takes a look back at this exciting time in racing.</desc>
+<date>2015</date>
+<category lang="de">Dokumentation</category>
+<category lang="de">Sport</category>
+<country lang="de">DE</country>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806213500 +0000" stop="20260806220500 +0000" channel="Motorvision+.de">
+<title lang="de">Motorheads</title>
+<sub-title lang="de">Ferruccio Lamborghini</sub-title>
+<desc lang="de">Tom Ford and Jonny Smith want to compete against the most incredible tricks on the Internet, also test their own driving skills and bring popular online car stars into the "Motorheads" studio. The boys also present a host of mechanical breakdowns and meet the man behind the biggest drifting channel on YouTube, "Monky London". In addition, the legendary stuntman Dick Sheppard judges two extraordinary stunts - from his electric vehicle.</desc>
+<date>2023</date>
+<category lang="de">Geschichte</category>
+<category lang="de">Auto</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S1 E1</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806220500 +0000" stop="20260806223000 +0000" channel="Motorvision+.de">
+<title lang="de">Top speed - on the go</title>
+<desc lang="de">In On the Road, presenter Martin Utberg takes a guest who has a special affinity for motorsport, classic automobiles or super sports cars on a ride in his car. The conversations are unedited, personal and open - far from prefabricated questions. In 24 minutes it's about careers, passions, relationships and everything you can't find about the guest on Wikipedia.</desc>
+<country lang="de">AT</country>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806223000 +0000" stop="20260806232000 +0000" channel="Motorvision+.de">
+<title lang="de">Isle of Man Tourist Trophy 2026</title>
+<desc lang="de">With the first Supersport race shortened to 3 laps, the question was whether Hicky could once again demonstrate his dominance from the Superbike race, whether Lee Johnston could repeat his success from last year or whether Michael Dunlup would live up to his role as favorite here. It was a hot fight!</desc>
+<country lang="de">GB</country>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806232000 +0000" stop="20260806234500 +0000" channel="Motorvision+.de">
+<title lang="de">Made in....</title>
+<sub-title lang="de">Volkner Mobile</sub-title>
+<desc lang="de">It is the most extraordinary luxury motorhome from Germany: Volkner's performance is one of the most exclusive motorhomes in the world. Gerhard Volkner and his wife Stephanie are behind this spectacular motorhome.</desc>
+<date>2020</date>
+<category lang="de">Dokumentation</category>
+<category lang="de">Wissen</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S1 E13</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
+</rating>
+</programme>
+<programme start="20260806234500 +0000" stop="20260807001000 +0000" channel="Motorvision+.de">
+<title lang="de">Four-wheel drive adventure</title>
+<sub-title lang="de">Episode 47</sub-title>
+<desc lang="de">This magazine deals with various off-road and all-wheel drive vehicles. It provides information about off-road veterans and cars with four-wheel drive. The vehicles are presented and their qualities are examined in more detail.</desc>
+<date>2020</date>
+<category lang="de">Auto</category>
+<category lang="de">Sport</category>
+<country lang="de">DE</country>
+<episode-num system="onscreen">S4 E47</episode-num>
+<rating system="FSK">
+<value>Keine Altersangabe</value>
 </rating>
 </programme>
 <programme start="20260802020500 +0000" stop="20260802040000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
@@ -43250,6 +42991,20 @@
 <value>PG</value>
 </rating>
 </programme>
+<programme start="20260804115000 +0000" stop="20260804134000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+<title lang="en">The Brotherhood Of Justice</title>
+<desc lang="en">Keanu Reeves, Kiefer Sutherland, and Billy Zane star as high-school students who start a vigilante group to combat crime in their neighborhood.</desc>
+<date>1986</date>
+<category lang="en">Drama</category>
+<category lang="en">Crime</category>
+<category lang="en">Action</category>
+<category lang="en">Thriller</category>
+<category lang="en">TV Movie</category>
+<icon src="https://metadata-static.plex.tv/c/gracenote/c4c4265f5f5eb7d651c04cbf87ec7865.jpg"/>
+<rating system="US">
+<value>PG</value>
+</rating>
+</programme>
 <programme start="20260804134000 +0000" stop="20260804160000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
 <title lang="en">Sword Of Lancelot</title>
 <desc lang="en">Lancelot is King Arthur's most valued Knight of the Round Table and a paragon of courage and virtue. Things change, however, when he falls in love with Queen Guinevere.</desc>
@@ -43272,6 +43027,20 @@
 <category lang="en">Thriller</category>
 <category lang="en">Drama</category>
 <icon src="https://metadata-static.plex.tv/c/gracenote/cb318987106ff180419d6ad7484b84ba.jpg"/>
+<rating system="US">
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20260804175000 +0000" stop="20260804194000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+<title lang="en">The Brotherhood Of Justice</title>
+<desc lang="en">Keanu Reeves, Kiefer Sutherland, and Billy Zane star as high-school students who start a vigilante group to combat crime in their neighborhood.</desc>
+<date>1986</date>
+<category lang="en">Drama</category>
+<category lang="en">Crime</category>
+<category lang="en">Action</category>
+<category lang="en">Thriller</category>
+<category lang="en">TV Movie</category>
+<icon src="https://metadata-static.plex.tv/c/gracenote/c4c4265f5f5eb7d651c04cbf87ec7865.jpg"/>
 <rating system="US">
 <value>PG</value>
 </rating>
@@ -43302,156 +43071,138 @@
 <value>PG</value>
 </rating>
 </programme>
-<programme start="20260801004500 +0000" stop="20260801023000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-<title lang="en">The Suspect</title>
-<desc lang="en">Beth is wrongly accused of murdering her husband, Paul. Even her step-daughter does not believe her.</desc>
-<date>2010</date>
-<category lang="en">Movies</category>
-<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/CEG10031361_TheSuspect_Film_H264.jpg"/>
-<rating system="US">
-<value>TV-14</value>
-</rating>
-</programme>
-<programme start="20260801023000 +0000" stop="20260801042000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-<title lang="en">Secret Liaison</title>
-<desc lang="en">A woman travels from Los Angeles to Seattle to try to prevent her sister from going to prison for murder.</desc>
-<date>2013</date>
-<category lang="en">Movies</category>
-<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/CEG10031471_SECRETLIAISON_Film_H264.jpg"/>
-<rating system="US">
-<value>PG-13</value>
-</rating>
-</programme>
-<programme start="20260801042000 +0000" stop="20260801061000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-<title lang="en">The New Wife</title>
-<desc lang="en">Six months after burying her husband, Ruby Asher seduces then murders Nicholas Landon, a wealthy politician.</desc>
-<date>2017</date>
-<category lang="en">Movies</category>
-<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/CEG10031318_TheNewWife_Film_H264.jpg"/>
-<rating system="US">
-<value>TV-14</value>
-</rating>
-</programme>
-<programme start="20260801061000 +0000" stop="20260801075500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-<title lang="en">Meet You in Scotland</title>
-<desc lang="en">A Scottish poet mistakes a writer’s identity, forcing her to choose between new love or the truth.</desc>
-<date>2022</date>
-<category lang="en">Movies</category>
-<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/MeetYouinScotland-feature-eng.jpg"/>
-<rating system="US">
-<value>TV-G</value>
-</rating>
-</programme>
-<programme start="20260801075500 +0000" stop="20260801094000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-<title lang="en">Maternal Instinct</title>
-<desc lang="en">Teen witnesses mother's shooting, hides with a cop, facing danger as they evade the killer together.</desc>
-<date>2017</date>
-<category lang="en">Movies</category>
-<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/CEG10031712_MaternalInstinct_Film_H264.jpg"/>
-<rating system="US">
-<value>TV-14</value>
-</rating>
-</programme>
-<programme start="20260801094000 +0000" stop="20260801101000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-<title lang="en">At Home With Tori</title>
-<desc lang="en">Tori teams up with Million Dollar Matchmaker Patti Stanger to host a series of dates for Morgan, one of her single friends.</desc>
-<date>2022</date>
-<category lang="en">Movies</category>
-<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/HomeWithTori-series-s1-e1-eng.jpg"/>
-<episode-num system="onscreen">S1 E1</episode-num>
-<rating system="US">
-<value>PG-13</value>
-</rating>
-</programme>
-<programme start="20260801101000 +0000" stop="20260801104000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-<title lang="en">At Home With Tori</title>
-<desc lang="en">Tori teams up with Million Dollar Matchmaker Patti Stanger to host a series of dates for Morgan, one of her single friends.</desc>
-<date>2022</date>
-<category lang="en">Movies</category>
-<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/HomeWithTori-series-s1-e1-eng.jpg"/>
-<episode-num system="onscreen">S1 E2</episode-num>
-<rating system="US">
-<value>PG-13</value>
-</rating>
-</programme>
-<programme start="20260801104000 +0000" stop="20260801122500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-<title lang="en">Hearts Under the Olive Tree</title>
-<desc lang="en">Suffering from writer’s block, an author heads to a farmland retreat to get inspired.</desc>
-<date>2023</date>
-<category lang="en">Movies</category>
-<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/HeartsUndertheOliveTree-feature-eng-v2.jpg"/>
-<rating system="US">
-<value>TV-G</value>
-</rating>
-</programme>
-<programme start="20260801122500 +0000" stop="20260801141000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-<title lang="en">Eat, Love, London</title>
-<desc lang="en">Stella takes a job at a new London restaurant and ends up falling for the chef.</desc>
-<date>2023</date>
-<category lang="en">Movies</category>
-<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/EatLoveLondon-feature-eng.jpg"/>
-<rating system="US">
-<value>TV-G</value>
-</rating>
-</programme>
-<programme start="20260801141000 +0000" stop="20260801155500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-<title lang="en">Sparks Over Brooklyn</title>
-<desc lang="en">Single mom and chef Lilah is at odds with tech innovator Charlie who buys her family restaurant.</desc>
-<date>2023</date>
-<category lang="en">Movies</category>
-<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/SparksOverBrooklyn-feature-eng.jpg"/>
-<rating system="US">
-<value>TV-G</value>
-</rating>
-</programme>
-<programme start="20260801155500 +0000" stop="20260801174000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-<title lang="en">Planning for Joy</title>
-<desc lang="en">Sparks fly when Hazel works with trivia host Theo to promote her new subscription box.</desc>
-<date>2022</date>
-<category lang="en">Movies</category>
-<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/PlanningforJoy-feature-eng.jpg"/>
-<rating system="US">
-<value>TV-G</value>
-</rating>
-</programme>
-<programme start="20260801174000 +0000" stop="20260801192500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-<title lang="en">Scented with Love</title>
-<desc lang="en">Paris-trained perfumer Rosalie is forced to share her new store space with furniture maker Jason.</desc>
-<date>2022</date>
-<category lang="en">Movies</category>
-<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/ScentedwithLove-feature-eng.jpg"/>
-<rating system="US">
-<value>TV-G</value>
-</rating>
-</programme>
-<programme start="20260801192500 +0000" stop="20260801211000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-<title lang="en">A Father's Choice</title>
-<desc lang="en">An unforgettable story about the promise and the power of family.</desc>
-<date>2000</date>
-<category lang="en">Movies</category>
-<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/CEG10031371_AFathersChoice_Film_H264.jpg"/>
-<rating system="US">
-<value>TV-G</value>
-</rating>
-</programme>
-<programme start="20260801211000 +0000" stop="20260801230000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-<title lang="en">When Love Came To Town</title>
-<desc lang="en">Abby, an author is used to making up quirky, charming characters, but here in Bliss they have sprung to life.</desc>
-<date>2014</date>
-<category lang="en">Movies</category>
-<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/CEG10031474_WhenLoveCameToTown_Film_H264.jpg"/>
+<programme start="20260804235000 +0000" stop="20260805014000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+<title lang="en">The Brotherhood Of Justice</title>
+<desc lang="en">Keanu Reeves, Kiefer Sutherland, and Billy Zane star as high-school students who start a vigilante group to combat crime in their neighborhood.</desc>
+<date>1986</date>
+<category lang="en">Drama</category>
+<category lang="en">Crime</category>
+<category lang="en">Action</category>
+<category lang="en">Thriller</category>
+<category lang="en">TV Movie</category>
+<icon src="https://metadata-static.plex.tv/c/gracenote/c4c4265f5f5eb7d651c04cbf87ec7865.jpg"/>
 <rating system="US">
 <value>PG</value>
 </rating>
 </programme>
-<programme start="20260801230000 +0000" stop="20260802005000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-<title lang="en">Meet You in Scotland</title>
-<desc lang="en">A Scottish poet mistakes a writer’s identity, forcing her to choose between new love or the truth.</desc>
-<date>2022</date>
-<category lang="en">Movies</category>
-<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/MeetYouinScotland-feature-eng.jpg"/>
+<programme start="20260805014000 +0000" stop="20260805040000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+<title lang="en">Sword Of Lancelot</title>
+<desc lang="en">Lancelot is King Arthur's most valued Knight of the Round Table and a paragon of courage and virtue. Things change, however, when he falls in love with Queen Guinevere.</desc>
+<date>1963</date>
+<category lang="en">Action</category>
+<category lang="en">Adventure</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Romance</category>
+<icon src="https://metadata-static.plex.tv/b/gracenote/bcb64dabb442dd31b999cd4849dd421f.jpg"/>
 <rating system="US">
-<value>TV-G</value>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20260805040000 +0000" stop="20260805055000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+<title lang="en">Breakout</title>
+<desc lang="en">A bush pilot is hired for '300,000 to go to Mexico to free an innocent prisoner.</desc>
+<date>1975</date>
+<category lang="en">Action</category>
+<category lang="en">Adventure</category>
+<category lang="en">Thriller</category>
+<category lang="en">Drama</category>
+<icon src="https://metadata-static.plex.tv/c/gracenote/cb318987106ff180419d6ad7484b84ba.jpg"/>
+<rating system="US">
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20260805074000 +0000" stop="20260805100000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+<title lang="en">Sword Of Lancelot</title>
+<desc lang="en">Lancelot is King Arthur's most valued Knight of the Round Table and a paragon of courage and virtue. Things change, however, when he falls in love with Queen Guinevere.</desc>
+<date>1963</date>
+<category lang="en">Action</category>
+<category lang="en">Adventure</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Romance</category>
+<icon src="https://metadata-static.plex.tv/b/gracenote/bcb64dabb442dd31b999cd4849dd421f.jpg"/>
+<rating system="US">
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20260805100000 +0000" stop="20260805114500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+<title lang="en">The Grand Duel</title>
+<desc lang="en">A grizzled ex-sheriff helps a man framed for murder to confront the powerful trio of brothers who want him dead.</desc>
+<category lang="en">Adrenaline + Sci-Fi</category>
+<icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg"/>
+<rating system="US">
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20260805114500 +0000" stop="20260805134500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+<title lang="en">Big Cop</title>
+<desc lang="en">An Italian private investigator tries to get to the bottom of a suspicious kidnapping case with the help of an exotic dancer.</desc>
+<date>1978</date>
+<category lang="en">Crime</category>
+<category lang="en">Thriller</category>
+<category lang="en">Action</category>
+<icon src="https://metadata-static.plex.tv/b/gracenote/b609470ca3d59b397ceb896eda0cb831.jpg"/>
+<rating system="US">
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20260805134500 +0000" stop="20260805160000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+<title lang="en">My Name Is Nobody</title>
+<desc lang="en">A young, easygoing gunman worships and competes with an old gunfighter who only wants to retire.</desc>
+<category lang="en">Adrenaline + Sci-Fi</category>
+<icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg"/>
+<rating system="US">
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20260805160000 +0000" stop="20260805174500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+<title lang="en">The Grand Duel</title>
+<desc lang="en">A grizzled ex-sheriff helps a man framed for murder to confront the powerful trio of brothers who want him dead.</desc>
+<category lang="en">Adrenaline + Sci-Fi</category>
+<icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg"/>
+<rating system="US">
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20260805174500 +0000" stop="20260805194500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+<title lang="en">Big Cop</title>
+<desc lang="en">An Italian private investigator tries to get to the bottom of a suspicious kidnapping case with the help of an exotic dancer.</desc>
+<date>1978</date>
+<category lang="en">Crime</category>
+<category lang="en">Thriller</category>
+<category lang="en">Action</category>
+<icon src="https://metadata-static.plex.tv/b/gracenote/b609470ca3d59b397ceb896eda0cb831.jpg"/>
+<rating system="US">
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20260805194500 +0000" stop="20260805220000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+<title lang="en">My Name Is Nobody</title>
+<desc lang="en">A young, easygoing gunman worships and competes with an old gunfighter who only wants to retire.</desc>
+<category lang="en">Adrenaline + Sci-Fi</category>
+<icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg"/>
+<rating system="US">
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20260805220000 +0000" stop="20260805234500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+<title lang="en">The Grand Duel</title>
+<desc lang="en">A grizzled ex-sheriff helps a man framed for murder to confront the powerful trio of brothers who want him dead.</desc>
+<category lang="en">Adrenaline + Sci-Fi</category>
+<icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg"/>
+<rating system="US">
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20260805234500 +0000" stop="20260806014500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+<title lang="en">Big Cop</title>
+<desc lang="en">An Italian private investigator tries to get to the bottom of a suspicious kidnapping case with the help of an exotic dancer.</desc>
+<date>1978</date>
+<category lang="en">Crime</category>
+<category lang="en">Thriller</category>
+<category lang="en">Action</category>
+<icon src="https://metadata-static.plex.tv/b/gracenote/b609470ca3d59b397ceb896eda0cb831.jpg"/>
+<rating system="US">
+<value>PG</value>
 </rating>
 </programme>
 <programme start="20260802005000 +0000" stop="20260802023500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
@@ -43840,6 +43591,16 @@
 <value>TV-G</value>
 </rating>
 </programme>
+<programme start="20260804123000 +0000" stop="20260804141500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
+<title lang="en">The Best Version of Love</title>
+<desc lang="en">Image upgrader Rebecca discovers the best version of herself might include stubborn client Clive.</desc>
+<date>2022</date>
+<category lang="en">Movies</category>
+<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/TheBestVersionofLove-feature-eng.png"/>
+<rating system="US">
+<value>TV-G</value>
+</rating>
+</programme>
 <programme start="20260804141500 +0000" stop="20260804160500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
 <title lang="en">Buried Secrets</title>
 <desc lang="en">A cop-turned-writer creates suspicion when she publishes her first novel.</desc>
@@ -43900,174 +43661,147 @@
 <value>G</value>
 </rating>
 </programme>
-<programme start="20260801000000 +0000" stop="20260801014500 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">Coupled Up for Christmas</title>
-<desc lang="en">Tiffany finally reunites with her longtime crush, Brett, only to find out he has a serious girlfriend. She decides to pair up with a recently heartbroken Peter to win back the affection of their respective soulmates.</desc>
+<programme start="20260805005500 +0000" stop="20260805024500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
+<title lang="en">Crimes Of The Mind</title>
+<desc lang="en">A woman spends five years trying to get her brainwashed daughter back from a cult.</desc>
+<date>2014</date>
+<category lang="en">Movies</category>
+<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/CEG10031462_CrimesoftheMind_Film_H264.jpg"/>
+<rating system="US">
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20260805024500 +0000" stop="20260805044000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
+<title lang="en">What Comes Around</title>
+<desc lang="en">A woman's past comes back to haunt her when the pimp she helped put behind bars is released and after revenge.</desc>
+<date>2006</date>
+<category lang="en">Movies</category>
+<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/WhatComesAround-movie-eng.jpg"/>
+<rating system="US">
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20260805044000 +0000" stop="20260805062500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
+<title lang="en">A Match in Manhattan</title>
+<desc lang="en">When Celeste loses her teaching job, she becomes an au-pair for infamous New York  tycoon Richard Trapp.</desc>
 <date>2023</date>
-<category lang="en">Holiday</category>
-<category lang="en">Romance</category>
 <category lang="en">Movies</category>
-<icon src="https://metadata-static.plex.tv/4/gracenote/4e6dbd0b0ffc6ad1ebe41c8e7b3df806.jpg"/>
+<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/Default_MyTime_1920x1080.png"/>
+<rating system="US">
+<value>TV-PG</value>
+</rating>
 </programme>
-<programme start="20260801014500 +0000" stop="20260801033000 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">A European Christmas</title>
-<desc lang="en">When Christmas movie director Ivy has another 'heartless' flop, she seeks the star of her debut hit in snowy Serbia. Despite refusing to return, he shows her the wonder of Serbian Christmas.</desc>
-<date>2024</date>
-<category lang="en">Holiday</category>
-<category lang="en">Romance</category>
-<category lang="en">Movies</category>
-<icon src="https://metadata-static.plex.tv/5/gracenote/5b69c3ab739333b0355032581c74cd69.jpg"/>
-</programme>
-<programme start="20260801033000 +0000" stop="20260801051500 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">The Heiress of Christmas</title>
-<desc lang="en">Heiress to the famed department store Hamptons, Loryn is put to the test by her grandmother. Things don't run smoothly as Loryn works at the store during its busiest time of the year and tries to impress the handsome but cynical manager Aiden.</desc>
+<programme start="20260805062500 +0000" stop="20260805080500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
+<title lang="en">The Love Gala</title>
+<desc lang="en">When planning her mom's Garden Gala, Kate must compromise with the head of the Botanical Garden.</desc>
 <date>2023</date>
-<category lang="en">Holiday</category>
-<category lang="en">Romance</category>
 <category lang="en">Movies</category>
-<icon src="https://metadata-static.plex.tv/2/gracenote/244fd8a8ce9d583c1c1405092ce5bb85.jpg"/>
-</programme>
-<programme start="20260801051500 +0000" stop="20260801065900 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">Snowy With a Chance of Christmas</title>
-<desc lang="en">A weatherwoman is tasked with saving her local TV station. When she partners with a toy drive run by a single father who only cares to give back and not give in to the holiday spirit, she finds her heart is something she can't predict.</desc>
-<date>2024</date>
-<category lang="en">Holiday</category>
-<category lang="en">Romance</category>
-<category lang="en">Movies</category>
-<icon src="https://metadata-static.plex.tv/5/gracenote/59d6fca00dfc8212d446650964c16115.jpg"/>
-</programme>
-<programme start="20260801065900 +0000" stop="20260801080000 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">Sue Thomas F.B.Eye</title>
-<sub-title lang="en">Into Thin Air</sub-title>
-<desc lang="en">The FBI searches for a young deaf girl who has been kidnapped.</desc>
-<date>2004</date>
-<category lang="en">Crime drama</category>
-<category lang="en">Mystery</category>
-<category lang="en">Thriller</category>
-<category lang="en">Entertainment</category>
-<category lang="en">Crime</category>
-<icon src="https://metadata-static.plex.tv/0/gracenote/013bf1d270e8cd7221ce63f0a19af02d.jpg"/>
-<episode-num system="onscreen">S2 E10</episode-num>
-<rating system="US">
-<value>TV-PG</value>
-</rating>
-</programme>
-<programme start="20260801080000 +0000" stop="20260801090000 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">Sue Thomas F.B.Eye</title>
-<sub-title lang="en">To Grandmother's House We Go</sub-title>
-<desc lang="en">The FBI devises a plan to expose a crooked construction company.</desc>
-<date>2004</date>
-<category lang="en">Crime drama</category>
-<category lang="en">Entertainment</category>
-<category lang="en">Crime</category>
-<icon src="https://metadata-static.plex.tv/0/gracenote/013bf1d270e8cd7221ce63f0a19af02d.jpg"/>
-<episode-num system="onscreen">S2 E11</episode-num>
-<rating system="US">
-<value>TV-PG</value>
-</rating>
-</programme>
-<programme start="20260801090000 +0000" stop="20260801100000 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">Sue Thomas F.B.Eye</title>
-<sub-title lang="en">The Lawyer</sub-title>
-<desc lang="en">The FBI team captures an al-Qaida leader planning an attack on Washington, D.C.; Tara works with a code-breaker.</desc>
-<date>2004</date>
-<category lang="en">Crime drama</category>
-<category lang="en">Bingeworthy</category>
-<category lang="en">Crime</category>
-<icon src="https://metadata-static.plex.tv/0/gracenote/013bf1d270e8cd7221ce63f0a19af02d.jpg"/>
-<episode-num system="onscreen">S2 E12</episode-num>
-<rating system="US">
-<value>TV-PG</value>
-</rating>
-</programme>
-<programme start="20260801100000 +0000" stop="20260801114300 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">See Jane Date</title>
-<desc lang="en">To impress her high-school nemesis (Holly Marie Combs), a woman (Charisma Carpenter) searches for the perfect man to bring to an upcoming wedding.</desc>
-<date>2003</date>
-<category lang="en">Romantic comedy</category>
-<category lang="en">Movies</category>
-<category lang="en">Comedy</category>
-<icon src="https://metadata-static.plex.tv/b/gracenote/bc7851b3d5bb797ed1698929440d0817.jpg"/>
-<rating system="US">
-<value>TV-PG</value>
-</rating>
-</programme>
-<programme start="20260801114300 +0000" stop="20260801132700 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">The Dating Coach</title>
-<desc lang="en">A socially awkward accountant (Eric Mabius) receives dating tips from his high-school crush (Brooke D'Orsay).</desc>
-<date>2012</date>
-<category lang="en">Romance</category>
-<category lang="en">Movies</category>
-<icon src="https://metadata-static.plex.tv/f/gracenote/f5faec9a64e45fb66a429785ab7d0907.jpg"/>
+<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/TheLoveGala-feature-eng.jpg"/>
 <rating system="US">
 <value>TV-G</value>
 </rating>
 </programme>
-<programme start="20260801132700 +0000" stop="20260801151500 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">Just for Showmance</title>
-<desc lang="en">Hoping to boost her career, a celebrity agrees to go on a reality TV show to marry her perfect match, a man she's never met. She soon tries to track him down to clarify that the marriage is just for show.</desc>
-<date>2023</date>
-<category lang="en">Romantic comedy</category>
+<programme start="20260805080500 +0000" stop="20260805083300 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
+<title lang="en">New Dogs, Old Tricks</title>
+<desc lang="en">It's the day of the Gamma Fair, but Sarah doesn't want to go. Bundy rescues Kappa Psi Psi's bachelorette auction, but pays for it later.</desc>
+<date>2018</date>
 <category lang="en">Movies</category>
-<category lang="en">Comedy</category>
-<icon src="https://metadata-static.plex.tv/d/gracenote/d71ee315ca6f113d754c84283fdd852d.jpg"/>
+<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/Newdogsoldtricksep1-tv.jpg"/>
+<episode-num system="onscreen">S1 E7</episode-num>
 <rating system="US">
-<value>TV-PG</value>
+<value>TV-14</value>
 </rating>
 </programme>
-<programme start="20260801151500 +0000" stop="20260801165800 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">The Boyfriend Trap</title>
-<desc lang="en">Identical twins Alice and Lacey are mistaken for each other on a retreat. They decide to go with it just for the trip, soon they realize that they may have been wrong about who and what they needed in their lives all along.</desc>
-<date>2022</date>
-<category lang="en">Romance</category>
+<programme start="20260805083300 +0000" stop="20260805090000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
+<title lang="en">New Dogs, Old Tricks</title>
+<desc lang="en">Pete and DeeDee have an announcement for the Gamma brothers. Across campus, Sarah struggles with her new living situation.</desc>
+<date>2018</date>
 <category lang="en">Movies</category>
-<icon src="https://metadata-static.plex.tv/4/gracenote/4231708fda2947c80c17ca178f05fdc9.jpg"/>
+<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/Newdogsoldtricksep1-tv.jpg"/>
+<episode-num system="onscreen">S1 E8</episode-num>
+<rating system="US">
+<value>TV-14</value>
+</rating>
+</programme>
+<programme start="20260805090000 +0000" stop="20260805104500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
+<title lang="en">Signs of Your Heart</title>
+<desc lang="en">Allie’s new tenant might be the answer to all her problems as he bonds with her deaf son Finn.</desc>
+<date>2022</date>
+<category lang="en">Movies</category>
+<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/SignsofYourHeart-feature-eng.jpg"/>
 <rating system="US">
 <value>TV-G</value>
 </rating>
 </programme>
-<programme start="20260801165800 +0000" stop="20260801184500 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">May the Best Wedding Win</title>
-<desc lang="en">When Tiffany's fiancé calls off their wedding, she's heartbroken that her dream wedding is cancelled. Tiffany convinces an actor to pretend to be her fiancé in exchange for signing him to her agency, and the dream wedding happens for someone.</desc>
-<date>2022</date>
-<category lang="en">Romantic comedy</category>
+<programme start="20260805104500 +0000" stop="20260805123500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
+<title lang="en">The Secrets of Comfort House</title>
+<desc lang="en">A murder investigation in a small town focuses on Wendy Sinclair, who runs a shelter for the victims' wives.</desc>
+<date>2006</date>
 <category lang="en">Movies</category>
-<category lang="en">Comedy</category>
-<icon src="https://metadata-static.plex.tv/2/gracenote/26a4cf7bd6f16c70775b9a3cff868fb8.jpg"/>
+<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/TheSecretsofaComfortHouse-movie-eng-v2.jpg"/>
+<rating system="US">
+<value>NR</value>
+</rating>
 </programme>
-<programme start="20260801184500 +0000" stop="20260801203000 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">The Wedding Contest</title>
-<desc lang="en">When a couple can't decide on a wedding theme, they hire two wedding planners, Taylor and Ben, to compete for the job by proposing two very different styles.</desc>
+<programme start="20260805123500 +0000" stop="20260805142000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
+<title lang="en">The Boxer and the Butterfly</title>
+<desc lang="en">A dancer and a boxer must team up for a big performance after a last minute drop out.</desc>
 <date>2023</date>
-<category lang="en">Romance</category>
 <category lang="en">Movies</category>
-<icon src="https://metadata-static.plex.tv/9/gracenote/9907c2731525986c0b1a44b56cfc4736.jpg"/>
+<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/TheBoxerandtheButterfly-feature-eng.jpg"/>
+<rating system="US">
+<value>TV-G</value>
+</rating>
 </programme>
-<programme start="20260801203000 +0000" stop="20260801221500 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">The Wedding Arrangement</title>
-<desc lang="en">Sparks fly between a botanist and a nature photographer as they work together to prepare flower arrangements for a wedding.</desc>
-<date>2022</date>
-<category lang="en">Romantic comedy</category>
-<category lang="en">Movies</category>
-<category lang="en">Comedy</category>
-<icon src="https://metadata-static.plex.tv/3/gracenote/33e732626c7a80c79341fab7ecb8f5f8.jpg"/>
-</programme>
-<programme start="20260801221500 +0000" stop="20260801235700 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">Betting on the Bride</title>
-<desc lang="en">A womanizer bets that he can get someone to accept his marriage proposal after dating him for just 30 days. What he doesn't know is that the woman he has targeted has some serious commitment issues.</desc>
+<programme start="20260805142000 +0000" stop="20260805161000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
+<title lang="en">Campus Caller</title>
+<desc lang="en">When a university student goes missing, her mother a former cop goes in search for her.</desc>
 <date>2017</date>
-<category lang="en">Romance</category>
 <category lang="en">Movies</category>
-<icon src="https://metadata-static.plex.tv/8/gracenote/8dd361c3dcdf53e23de525cd14184b81.jpg"/>
+<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/CEG10031322_CampusCaller_Film_H264.jpg"/>
+<rating system="US">
+<value>TV-MA</value>
+</rating>
 </programme>
-<programme start="20260801235700 +0000" stop="20260802014500 +0000" channel="plex.tv.Dove.plex">
-<title lang="en">May the Best Wedding Win</title>
-<desc lang="en">When Tiffany's fiancé calls off their wedding, she's heartbroken that her dream wedding is cancelled. Tiffany convinces an actor to pretend to be her fiancé in exchange for signing him to her agency, and the dream wedding happens for someone.</desc>
-<date>2022</date>
-<category lang="en">Romantic comedy</category>
+<programme start="20260805161000 +0000" stop="20260805175500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
+<title lang="en">Steal Your Heart</title>
+<desc lang="en">A mix up leads Melissa to work with her CEO’s son Jake on an important jewelry line.</desc>
+<date>2023</date>
 <category lang="en">Movies</category>
-<category lang="en">Comedy</category>
-<icon src="https://metadata-static.plex.tv/2/gracenote/26a4cf7bd6f16c70775b9a3cff868fb8.jpg"/>
+<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/StealYourHeart-feature-eng.jpg"/>
+<rating system="US">
+<value>TV-G</value>
+</rating>
+</programme>
+<programme start="20260805175500 +0000" stop="20260805194000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
+<title lang="en">Scented with Love</title>
+<desc lang="en">Paris-trained perfumer Rosalie is forced to share her new store space with furniture maker Jason.</desc>
+<date>2022</date>
+<category lang="en">Movies</category>
+<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/ScentedwithLove-feature-eng.jpg"/>
+<rating system="US">
+<value>TV-G</value>
+</rating>
+</programme>
+<programme start="20260805213100 +0000" stop="20260805231500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
+<title lang="en">Planning for Joy</title>
+<desc lang="en">Sparks fly when Hazel works with trivia host Theo to promote her new subscription box.</desc>
+<date>2022</date>
+<category lang="en">Movies</category>
+<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/PlanningforJoy-feature-eng.jpg"/>
+<rating system="US">
+<value>TV-G</value>
+</rating>
+</programme>
+<programme start="20260805231500 +0000" stop="20260806010500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
+<title lang="en">Buried Secrets</title>
+<desc lang="en">A cop-turned-writer creates suspicion when she publishes her first novel.</desc>
+<date>2014</date>
+<category lang="en">Movies</category>
+<icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/CEG10031472_BuriedSecrets_Film_H264.jpg"/>
+<rating system="US">
+<value>TV-14</value>
+</rating>
 </programme>
 <programme start="20260802014500 +0000" stop="20260802033000 +0000" channel="plex.tv.Dove.plex">
 <title lang="en">The Wedding Contest</title>
@@ -44484,6 +44218,17 @@
 <value>TV-PG</value>
 </rating>
 </programme>
+<programme start="20260804100000 +0000" stop="20260804114500 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">Holiday for Hire</title>
+<desc lang="en">Katie is excited to finally have a boyfriend to bring home for the holidays. However, when she gets dumped by her boyfriend Dean the day before she is supposed to go, she hires Josh to act as him for Christmas with her family.</desc>
+<date>2024</date>
+<category lang="en">Romance</category>
+<category lang="en">Movies</category>
+<icon src="https://metadata-static.plex.tv/a/gracenote/ad219c7cd17daa7c0ce4e5886dbef119.jpg"/>
+<rating system="US">
+<value>TV-PG</value>
+</rating>
+</programme>
 <programme start="20260804114500 +0000" stop="20260804133000 +0000" channel="plex.tv.Dove.plex">
 <title lang="en">Just for Showmance</title>
 <desc lang="en">Hoping to boost her career, a celebrity agrees to go on a reality TV show to marry her perfect match, a man she's never met. She soon tries to track him down to clarify that the marriage is just for show.</desc>
@@ -44533,6 +44278,17 @@
 <category lang="en">Movies</category>
 <icon src="https://metadata-static.plex.tv/8/gracenote/8dd361c3dcdf53e23de525cd14184b81.jpg"/>
 </programme>
+<programme start="20260804203000 +0000" stop="20260804221500 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">Holiday for Hire</title>
+<desc lang="en">Katie is excited to finally have a boyfriend to bring home for the holidays. However, when she gets dumped by her boyfriend Dean the day before she is supposed to go, she hires Josh to act as him for Christmas with her family.</desc>
+<date>2024</date>
+<category lang="en">Romance</category>
+<category lang="en">Movies</category>
+<icon src="https://metadata-static.plex.tv/a/gracenote/ad219c7cd17daa7c0ce4e5886dbef119.jpg"/>
+<rating system="US">
+<value>TV-PG</value>
+</rating>
+</programme>
 <programme start="20260804221500 +0000" stop="20260805000000 +0000" channel="plex.tv.Dove.plex">
 <title lang="en">Just for Showmance</title>
 <desc lang="en">Hoping to boost her career, a celebrity agrees to go on a reality TV show to marry her perfect match, a man she's never met. She soon tries to track him down to clarify that the marriage is just for show.</desc>
@@ -44544,6 +44300,154 @@
 <rating system="US">
 <value>TV-PG</value>
 </rating>
+</programme>
+<programme start="20260805000000 +0000" stop="20260805014300 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">Lease on Love</title>
+<desc lang="en">Poppy is a marketing specialist whose life is turned upside down when she fakes an engagement with her boss's handsome new client Milo, to win over her strict building manager and get Milo the penthouse suite.</desc>
+<date>2022</date>
+<category lang="en">Romance</category>
+<category lang="en">Movies</category>
+<icon src="https://metadata-static.plex.tv/2/gracenote/247d3e49a018894894e18dbd21ac2a32.jpg"/>
+<rating system="US">
+<value>TV-PG</value>
+</rating>
+</programme>
+<programme start="20260805014300 +0000" stop="20260805033000 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">How to Win a Prince</title>
+<desc lang="en">A perennially single dating coach attempts to seduce a prince as she helps him navigate the cut-throat NYC dating scene.</desc>
+<date>2023</date>
+<category lang="en">Romantic comedy</category>
+<category lang="en">Movies</category>
+<category lang="en">Comedy</category>
+<icon src="https://metadata-static.plex.tv/2/gracenote/25bd79595564a1c0e66a20845596e6aa.jpg"/>
+</programme>
+<programme start="20260805051500 +0000" stop="20260805065900 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">Betting on the Bride</title>
+<desc lang="en">A womanizer bets that he can get someone to accept his marriage proposal after dating him for just 30 days. What he doesn't know is that the woman he has targeted has some serious commitment issues.</desc>
+<date>2017</date>
+<category lang="en">Romance</category>
+<category lang="en">Movies</category>
+<icon src="https://metadata-static.plex.tv/8/gracenote/8dd361c3dcdf53e23de525cd14184b81.jpg"/>
+</programme>
+<programme start="20260805065900 +0000" stop="20260805080000 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">McLeod's Daughters</title>
+<sub-title lang="en">The Wedding</sub-title>
+<desc lang="en">With last-minute wedding preparations underway, Jodi's father blows in unexpectedly, which creates tensions in the family; a series of events show Jodi that she and Alberto have very different outlooks on married life.</desc>
+<date>2003</date>
+<category lang="en">Drama</category>
+<category lang="en">Romance</category>
+<category lang="en">Bingeworthy</category>
+<icon src="https://metadata-static.plex.tv/7/gracenote/73c955630f2403664b9a6c1a4c5cbbf3.jpg"/>
+<episode-num system="onscreen">S3 E6</episode-num>
+<rating system="US">
+<value>TV-PG</value>
+</rating>
+</programme>
+<programme start="20260805080000 +0000" stop="20260805090000 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">McLeod's Daughters</title>
+<sub-title lang="en">Gone to the Dogs</sub-title>
+<desc lang="en">Becky and Jake are forced to steal a horse; Alex is upset when Claire starts buying up old horses to save them from going for dog food.</desc>
+<date>2003</date>
+<category lang="en">Drama</category>
+<category lang="en">Romance</category>
+<category lang="en">Bingeworthy</category>
+<icon src="https://metadata-static.plex.tv/7/gracenote/73c955630f2403664b9a6c1a4c5cbbf3.jpg"/>
+<episode-num system="onscreen">S3 E7</episode-num>
+<rating system="US">
+<value>TV-PG</value>
+</rating>
+</programme>
+<programme start="20260805090000 +0000" stop="20260805100000 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">McLeod's Daughters</title>
+<sub-title lang="en">The Ghost of Things to Come</sub-title>
+<desc lang="en">Claire discovers a hidden treasure which brings back ghostly memories of her mother; Claire has a gnawing fear that she too will die in childbirth.</desc>
+<date>2003</date>
+<category lang="en">Drama</category>
+<category lang="en">Romance</category>
+<category lang="en">Bingeworthy</category>
+<icon src="https://metadata-static.plex.tv/7/gracenote/73c955630f2403664b9a6c1a4c5cbbf3.jpg"/>
+<episode-num system="onscreen">S3 E8</episode-num>
+<rating system="US">
+<value>TV-PG</value>
+</rating>
+</programme>
+<programme start="20260805100000 +0000" stop="20260805114500 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">Holiday High School Reunion</title>
+<desc lang="en">Returning home for Christmas, a woman (Rachel Boston) develops an unexpected attraction to her best friend from school.</desc>
+<date>2012</date>
+<category lang="en">Holiday</category>
+<category lang="en">Romantic comedy</category>
+<category lang="en">Movies</category>
+<category lang="en">Comedy</category>
+<icon src="https://metadata-static.plex.tv/4/gracenote/4558a111d860f961554ef6cb1348a91a.jpg"/>
+</programme>
+<programme start="20260805114500 +0000" stop="20260805133000 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">Lemonade Stand Romance</title>
+<desc lang="en">Locals and the media stand up to authorities when they shut down a girl's lemonade stand.</desc>
+<date>2022</date>
+<category lang="en">Romance</category>
+<category lang="en">Movies</category>
+<icon src="https://metadata-static.plex.tv/e/gracenote/e91318897e67996a9af28d9972159a38.jpg"/>
+</programme>
+<programme start="20260805133000 +0000" stop="20260805151500 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">Love in Full Swing</title>
+<desc lang="en">Becks, a romance columnist, decides to help her best friend, Casey, find his first love.</desc>
+<date>2020</date>
+<category lang="en">Romance</category>
+<category lang="en">Movies</category>
+<icon src="https://metadata-static.plex.tv/5/gracenote/57f69b3c3f7ece39fb37860390babede.jpg"/>
+</programme>
+<programme start="20260805151500 +0000" stop="20260805170000 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">A Merry Single Christmas</title>
+<desc lang="en">A woman attempts to rekindle her Christmas spirit, but things get complicated when her ex shows up.</desc>
+<date>2022</date>
+<category lang="en">Holiday</category>
+<category lang="en">Drama</category>
+<category lang="en">Movies</category>
+<icon src="https://metadata-static.plex.tv/f/gracenote/f0c10bf7284ddec7d0810409a85b0aa3.jpg"/>
+<rating system="US">
+<value>TV-PG</value>
+</rating>
+</programme>
+<programme start="20260805170000 +0000" stop="20260805185000 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">Merry Ex-Mas</title>
+<desc lang="en">During a blizzard at Christmastime, a man (Dean Cain) becomes snowbound with his ex-wife (Kristy Swanson), her wealthy suitor (Lochlyn Munro), his former mother-in-law and his daughter.</desc>
+<date>2014</date>
+<category lang="en">Holiday</category>
+<category lang="en">Comedy drama</category>
+<category lang="en">Movies</category>
+<category lang="en">Comedy</category>
+<icon src="https://metadata-static.plex.tv/3/gracenote/33d0fe36bc5354c9860af28ccb9af072.jpg"/>
+</programme>
+<programme start="20260805185000 +0000" stop="20260805203000 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">Love at the Christmas Contest</title>
+<desc lang="en">Angie enters a tree decorating contest to honor the memory of her mother. To Angie's surprise, her high school sweetheart, David, and his daughter, Gabby, have entered the contest as well.</desc>
+<date>2022</date>
+<category lang="en">Holiday</category>
+<category lang="en">Romance</category>
+<category lang="en">Movies</category>
+<icon src="https://metadata-static.plex.tv/d/gracenote/d50a3e3cb601a0c57dec0218e1db0344.jpg"/>
+<rating system="US">
+<value>TV-PG</value>
+</rating>
+</programme>
+<programme start="20260805203000 +0000" stop="20260805221500 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">Holiday High School Reunion</title>
+<desc lang="en">Returning home for Christmas, a woman (Rachel Boston) develops an unexpected attraction to her best friend from school.</desc>
+<date>2012</date>
+<category lang="en">Holiday</category>
+<category lang="en">Romantic comedy</category>
+<category lang="en">Movies</category>
+<category lang="en">Comedy</category>
+<icon src="https://metadata-static.plex.tv/4/gracenote/4558a111d860f961554ef6cb1348a91a.jpg"/>
+</programme>
+<programme start="20260805221500 +0000" stop="20260806000000 +0000" channel="plex.tv.Dove.plex">
+<title lang="en">Lemonade Stand Romance</title>
+<desc lang="en">Locals and the media stand up to authorities when they shut down a girl's lemonade stand.</desc>
+<date>2022</date>
+<category lang="en">Romance</category>
+<category lang="en">Movies</category>
+<icon src="https://metadata-static.plex.tv/e/gracenote/e91318897e67996a9af28d9972159a38.jpg"/>
 </programme>
 <programme channel="AMC+.us2" start="20260801032000 +0000" stop="20260801050700 +0000">
 <title lang="en">American Star</title>
@@ -50585,7 +50489,7 @@
 <programme start="20260804040000 +0000" stop="20260804044500 +0000" channel="Motorvisionplus.de">
 <title>Australian Drag Racing Championship 2024</title>
 <sub-title/>
-<desc>E324 — Australian Drag Racing Championship 2024 - Top Fuel Round 1, The BendWe report on the highlights of the first round of the "Australian Drag Racing Championship".</desc>
+<desc>E324 — Australian Drag Racing Championship 2024 - Top Fuel Runde 1, The BendWir berichten über die Highlights der ersten Runde der "Australian Drag Racing Championship".</desc>
 <episode-num system="xmltv_ns"/>
 </programme>
 <programme start="20260804044500 +0000" stop="20260804051000 +0000" channel="Motorvisionplus.de">
@@ -50739,7 +50643,7 @@
 <episode-num system="xmltv_ns"/>
 </programme>
 <programme start="20260801003500 +0000" stop="20260801010500 +0000" channel="RedBullTV.de">
-<title>Premier Padel 2025 Milan P1 - Highlights</title>
+<title>Premier Padel 2025 Mailand P1 - Highlights</title>
 <sub-title/>
 <desc>Milan P1 semi-finalThe best players in the world will compete in the semi-finals of the Milan Premier Padel P1 in Italy.</desc>
 <episode-num system="xmltv_ns"/>
