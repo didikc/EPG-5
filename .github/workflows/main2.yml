@@ -1,4 +1,4 @@
-name: EPG Translate
+name: EPG Translate 2
 
 on:
   schedule:
