@@ -9,8 +9,8 @@ import html
 
 # ---------------- CONFIG ----------------
 EPG_URL = "https://github.com/didikc/EPG-6/raw/main/epg/pix.xml.gz"
-OUTPUT_XML = "epg.xml"
-OUTPUT_GZ = "epg.xml.gz"
+OUTPUT_XML = "epg2.xml"
+OUTPUT_GZ = "epg2.xml.gz"
 
 TAGS_TO_TRANSLATE = ['title', 'desc', 'sub-title']
 
