@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20261104">
 <channel id="AlQuranAlKareemTV.sa@SD"><display-name>Quran TV</display-name><icon src="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png"/></channel>
 <channel id="AlSunnahAlNabawiyahTV.sa@SD"><display-name>Sunna TV</display-name><icon src="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png"/></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/></channel>
 <channel id="RodjaTV.id@SD"><display-name>Rodja TV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/></channel>
 <channel id="185"><display-name>Movies News</display-name></channel>
 <channel id="203"><display-name>Golf Plus ID</display-name></channel>
@@ -5825,6 +5826,83 @@
 <programme start="20261106161300 +0000" stop="20261106161500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Mini Program</title></programme>
 <programme start="20261106161500 +0000" stop="20261106164000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">My Gardening</title></programme>
 <programme start="20261106164000 +0000" stop="20261106171000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Go Focus</title></programme>
+<programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20261103180000 +0000" stop="20261103190000 +0000" channel="NusantaraTV.id@SD"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20261103190000 +0000" stop="20261103200000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20261103200000 +0000" stop="20261103210000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV SPORT</title></programme>
+<programme start="20261103210000 +0000" stop="20261103223000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV PRIME</title></programme>
+<programme start="20261103223000 +0000" stop="20261103230000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV CRIME</title></programme>
+<programme start="20261103230000 +0000" stop="20261104003000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV MORNING</title></programme>
+<programme start="20261104003000 +0000" stop="20261104010000 +0000" channel="NusantaraTV.id@SD"><title lang="id">MORNING SPOTLIGHTS</title></programme>
+<programme start="20261104010000 +0000" stop="20261104020000 +0000" channel="NusantaraTV.id@SD"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20261104020000 +0000" stop="20261104023000 +0000" channel="NusantaraTV.id@SD"><title lang="id">PETUALANG NUSANTARA</title></programme>
+<programme start="20261104023000 +0000" stop="20261104033000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NUSANTARA ECONOMIC UPDATES</title></programme>
+<programme start="20261104033000 +0000" stop="20261104040000 +0000" channel="NusantaraTV.id@SD"><title lang="id">MORNING SPOTLIGHTS</title></programme>
+<programme start="20261104040000 +0000" stop="20261104050000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TODAY</title></programme>
+<programme start="20261104050000 +0000" stop="20261104053000 +0000" channel="NusantaraTV.id@SD"><title lang="id">ASTA CITA</title></programme>
+<programme start="20261104053000 +0000" stop="20261104063000 +0000" channel="NusantaraTV.id@SD"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20261104063000 +0000" stop="20261104070000 +0000" channel="NusantaraTV.id@SD"><title lang="id">PETUALANG NUSANTARA</title></programme>
+<programme start="20261104070000 +0000" stop="20261104083000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20261104083000 +0000" stop="20261104090000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NUSANTARA BUSINESS HOUR</title></programme>
+<programme start="20261104090000 +0000" stop="20261104093000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV CRIME</title></programme>
+<programme start="20261104093000 +0000" stop="20261104110000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV PRIME</title></programme>
+<programme start="20261104110000 +0000" stop="20261104120000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20261104120000 +0000" stop="20261104143000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SUARA NUSANTARA</title></programme>
+<programme start="20261104143000 +0000" stop="20261104153000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV SPORT</title></programme>
+<programme start="20261104153000 +0000" stop="20261104163000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TONIGHT</title></programme>
+<programme start="20261104163000 +0000" stop="20261104165950 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV HEADLINES</title></programme>
+<programme start="20261104165950 +0000" stop="20261104165959 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV HEADLINES</title></programme>
+<programme start="20261104170000 +0000" stop="20261104180000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20261104180000 +0000" stop="20261104190000 +0000" channel="NusantaraTV.id@SD"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20261104190000 +0000" stop="20261104200000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20261104200000 +0000" stop="20261104210000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV SPORT</title></programme>
+<programme start="20261104210000 +0000" stop="20261104223000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV PRIME</title></programme>
+<programme start="20261104223000 +0000" stop="20261104230000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV CRIME</title></programme>
+<programme start="20261104230000 +0000" stop="20261105003000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV MORNING</title></programme>
+<programme start="20261105003000 +0000" stop="20261105010000 +0000" channel="NusantaraTV.id@SD"><title lang="id">MORNING SPOTLIGHTS</title></programme>
+<programme start="20261105010000 +0000" stop="20261105020000 +0000" channel="NusantaraTV.id@SD"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20261105020000 +0000" stop="20261105023000 +0000" channel="NusantaraTV.id@SD"><title lang="id">PETUALANG NUSANTARA</title></programme>
+<programme start="20261105023000 +0000" stop="20261105033000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NUSANTARA ECONOMIC UPDATES</title></programme>
+<programme start="20261105033000 +0000" stop="20261105040000 +0000" channel="NusantaraTV.id@SD"><title lang="id">MORNING SPOTLIGHTS</title></programme>
+<programme start="20261105040000 +0000" stop="20261105050000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TODAY</title></programme>
+<programme start="20261105050000 +0000" stop="20261105053000 +0000" channel="NusantaraTV.id@SD"><title lang="id">ASTA CITA</title></programme>
+<programme start="20261105053000 +0000" stop="20261105063000 +0000" channel="NusantaraTV.id@SD"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20261105063000 +0000" stop="20261105070000 +0000" channel="NusantaraTV.id@SD"><title lang="id">PETUALANG NUSANTARA</title></programme>
+<programme start="20261105070000 +0000" stop="20261105083000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20261105083000 +0000" stop="20261105093000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NUSANTARA BUSINESS HOUR</title></programme>
+<programme start="20261105093000 +0000" stop="20261105100000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV CRIME</title></programme>
+<programme start="20261105100000 +0000" stop="20261105123000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV PRIME</title></programme>
+<programme start="20261105123000 +0000" stop="20261105133000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20261105133000 +0000" stop="20261105143000 +0000" channel="NusantaraTV.id@SD"><title lang="id">GESTUR</title></programme>
+<programme start="20261105143000 +0000" stop="20261105153000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV SPORT</title></programme>
+<programme start="20261105153000 +0000" stop="20261105163000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TONIGHT</title></programme>
+<programme start="20261105170000 +0000" stop="20261105180000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20261105180000 +0000" stop="20261105190000 +0000" channel="NusantaraTV.id@SD"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20261105190000 +0000" stop="20261105200000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20261105200000 +0000" stop="20261105210000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV SPORT</title></programme>
+<programme start="20261105210000 +0000" stop="20261105223000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV PRIME</title></programme>
+<programme start="20261105223000 +0000" stop="20261105230000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV CRIME</title></programme>
+<programme start="20261105230000 +0000" stop="20261106003000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV MORNING</title></programme>
+<programme start="20261106003000 +0000" stop="20261106010000 +0000" channel="NusantaraTV.id@SD"><title lang="id">MORNING SPOTLIGHTS</title></programme>
+<programme start="20261106010000 +0000" stop="20261106020000 +0000" channel="NusantaraTV.id@SD"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20261106020000 +0000" stop="20261106023000 +0000" channel="NusantaraTV.id@SD"><title lang="id">PETUALANG NUSANTARA</title></programme>
+<programme start="20261106023000 +0000" stop="20261106033000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NUSANTARA ECONOMIC UPDATES</title></programme>
+<programme start="20261106033000 +0000" stop="20261106040000 +0000" channel="NusantaraTV.id@SD"><title lang="id">MORNING SPOTLIGHTS</title></programme>
+<programme start="20261106040000 +0000" stop="20261106050000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TODAY</title></programme>
+<programme start="20261106050000 +0000" stop="20261106053000 +0000" channel="NusantaraTV.id@SD"><title lang="id">ASTA CITA</title></programme>
+<programme start="20261106053000 +0000" stop="20261106063000 +0000" channel="NusantaraTV.id@SD"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20261106063000 +0000" stop="20261106070000 +0000" channel="NusantaraTV.id@SD"><title lang="id">PETUALANG NUSANTARA</title></programme>
+<programme start="20261106070000 +0000" stop="20261106083000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20261106083000 +0000" stop="20261106090000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NUSANTARA BUSINESS HOUR</title></programme>
+<programme start="20261106090000 +0000" stop="20261106093000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV HEADLINES</title></programme>
+<programme start="20261106093000 +0000" stop="20261106100000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV CRIME</title></programme>
+<programme start="20261106100000 +0000" stop="20261106123000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV PRIME</title></programme>
+<programme start="20261106123000 +0000" stop="20261106133000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20261106133000 +0000" stop="20261106143000 +0000" channel="NusantaraTV.id@SD"><title lang="id">MERAH PUTIH</title></programme>
+<programme start="20261106143000 +0000" stop="20261106153000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV SPORT</title></programme>
+<programme start="20261106153000 +0000" stop="20261106163000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TONIGHT</title></programme>
+<programme start="20261106163000 +0000" stop="20261106165950 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV HEADLINES</title></programme>
+<programme start="20261106165950 +0000" stop="20261106165959 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV HEADLINES</title></programme>
 <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="OneTV.in@SD"><title lang="id">101 Facts</title></programme>
 <programme start="20261103180000 +0000" stop="20261103183030 +0000" channel="OneTV.in@SD"><title lang="id">Ocean Safari</title></programme>
 <programme start="20261103183030 +0000" stop="20261103185700 +0000" channel="OneTV.in@SD"><title lang="id">Jump on Board - Greece</title></programme>
@@ -6154,6 +6232,27 @@
 <programme start="20261106150000 +0000" stop="20261106161900 +0000" channel="RCTI.id@SD"><title lang="id">Microdrama+</title></programme>
 <programme start="20261106161900 +0000" stop="20261106171500 +0000" channel="RCTI.id@SD"><title lang="id">Sinema Malam</title></programme>
 <programme start="20261103163000 +0000" stop="20261103183000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title><desc lang="id">Sign Off</desc></programme>
+<programme start="20261103183000 +0000" stop="20261103203000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title><desc lang="id">Sign Off</desc></programme>
+<programme start="20261103203000 +0000" stop="20261103223000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title><desc lang="id">Sign Off</desc></programme>
+<programme start="20261103223000 +0000" stop="20261104000000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104000000 +0000" stop="20261104001500 +0000" channel="RodjaTV.id@SD"><title lang="id">Mutiara Salaf</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104001500 +0000" stop="20261104003000 +0000" channel="RodjaTV.id@SD"><title lang="id">Fatawa</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104003000 +0000" stop="20261104011500 +0000" channel="RodjaTV.id@SD"><title lang="id">Kisah Menawan Sang Teladan</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104011500 +0000" stop="20261104020000 +0000" channel="RodjaTV.id@SD"><title lang="id">Belajar Tajwid Anak</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104020000 +0000" stop="20261104043000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah Tabligh Akbar</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104043000 +0000" stop="20261104060000 +0000" channel="RodjaTV.id@SD"><title lang="id">Tilawah Al Quran terjemah</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104060000 +0000" stop="20261104073000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104073000 +0000" stop="20261104080000 +0000" channel="RodjaTV.id@SD"><title lang="id">Ayat Dan Tafsir Pilihan</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104080000 +0000" stop="20261104090000 +0000" channel="RodjaTV.id@SD"><title lang="id">Untaian Mutiara Nasihat</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104090000 +0000" stop="20261104100000 +0000" channel="RodjaTV.id@SD"><title lang="id">Rodja Ceria</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104100000 +0000" stop="20261104110000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="RodjaTV.id@SD"><title lang="id">Tilawah Al Quran terjemah</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104113000 +0000" stop="20261104123000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="RodjaTV.id@SD"><title lang="id">Qola Rasul</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104130000 +0000" stop="20261104143000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kacamata Islam</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="RodjaTV.id@SD"><title lang="id">Untaian Mutiara Nasihat</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104150000 +0000" stop="20261104163000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title><desc lang="id">Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc></programme>
+<programme start="20261104163000 +0000" stop="20261104183000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title><desc lang="id">Sign Off</desc></programme>
 <programme start="20261104163000 +0000" stop="20261104183000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title><desc lang="id">Sign Off</desc></programme>
 <programme start="20261103170000 +0000" stop="20261103173000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
 <programme start="20261103173000 +0000" stop="20261103180000 +0000" channel="RT.ru@SD"><title lang="id">Inland Visions</title></programme>
