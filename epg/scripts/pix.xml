@@ -86,10 +86,6 @@
   <channel site="webtv.sk" site_id="sport_2" lang="sk" xmltv_id="">Sport 2</channel>
   <channel site="webtv.sk" site_id="nova_sport_1_hd" lang="sk" xmltv_id="">Nova Sport 1</channel>
   <channel site="webtv.sk" site_id="nova_sport_2_hd" lang="sk" xmltv_id="">Nova Sport 2</channel>
-  <channel site="tv.mail.ru" site_id="2060" lang="ru" xmltv_id="Match.ru@SD">МАТЧ!</channel>
-  <channel site="tv.mail.ru" site_id="864" lang="ru" xmltv_id="MatchFutbol1.ru@SD">МАТЧ! Футбол 1</channel>
-  <channel site="tv.mail.ru" site_id="1552" lang="ru" xmltv_id="MatchFutbol2.ru@SD">МАТЧ! Футбол 2</channel>
-  <channel site="tv.mail.ru" site_id="1810" lang="ru" xmltv_id="MatchFutbol3.ru@SD">МАТЧ! Футбол 3</channel>
   <channel site="mujtvprogram.cz" site_id="344" lang="sk" xmltv_id="ArenaSport1.sk@SD">Arena Sport 1</channel>
   <channel site="mujtvprogram.cz" site_id="379" lang="sk" xmltv_id="ArenaSport2.sk@SD">Arena Sport 2</channel>
   <channel site="tvhebdo.com" site_id="tsn/TSN1" lang="fr" xmltv_id="TSN1.ca@SD">TSN1</channel>
