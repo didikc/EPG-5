@@ -2,6 +2,7 @@
 <channels>
   <channel site="dens.tv" site_id="82" lang="id" xmltv_id="AlQuranAlKareemTV.sa@SD">Quran TV</channel>
   <channel site="dens.tv" site_id="88" lang="id" xmltv_id="AlSunnahAlNabawiyahTV.sa@SD">Sunna TV</channel>
+  <channel site="dens.tv" site_id="138" lang="id" xmltv_id="NusantaraTV.id@SD">Nusantara TV (NTV)</channel>
   <channel site="maxstream.tv" site_id="0_9km1pl2v" lang="id" xmltv_id="RodjaTV.id@SD">Rodja TV</channel>
   <channel site="cubmu.com" site_id="185" lang="id" xmltv_id="">Movies News</channel>
   <channel site="cubmu.com" site_id="203" lang="id" xmltv_id="">Golf Plus ID</channel>
