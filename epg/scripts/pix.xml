@@ -3,10 +3,6 @@
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec" lang="en" xmltv_id="">Miramax Movie Channel</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#645e7828e1979c00087b75b4" lang="en" xmltv_id="">MovieSphere by Lionsgate</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#6401d85a49839300087b116c" lang="en" xmltv_id="MovieSphere.us@SD">Moviesphere</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/us#636adc255bcf470007d6e0e2">Top Gear</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/ca#638e10220aa6a6000726979f">Top Gear</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="FifthGear.uk" site_id="PlutoTV/gb#5ca1de9208ee5378be82db3b">Fifth Gear</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/gb#5ca1de9208ee5378be82db3b" lang="en" xmltv_id="FifthGear.us@UK">Fifth Gear</channel>
   <channel site="pluto.tv" site_id="65c69ee3d77d450008c80438" lang="en" xmltv_id="">Formula 1 Channel</channel>
   <channel site="freeview.co.uk" site_id="64257#8385" lang="en" xmltv_id="Film4.uk@SD">Film4</channel>
   <channel site="freeview.co.uk" site_id="64257#8442" lang="en" xmltv_id="More4.uk@SD">More 4</channel>
@@ -19,6 +15,21 @@
   <channel site="freeview.co.uk" site_id="64257#8384" lang="en" xmltv_id="Channel4.uk@UK">Channel 4</channel>
   <channel site="freeview.co.uk" site_id="64257#8500" lang="en" xmltv_id="Channel5.uk@SD">5</channel>
   <channel site="tvguide.com" site_id="9233009788" lang="en" xmltv_id="DisneyJunior.us@East">Disney Junior</channel>
+  <channel site="visionplus.id" site_id="00000000000000000045" lang="id" xmltv_id="CelestialClassicMovies.id@SD">CCM</channel>
+  <channel site="visionplus.id" site_id="00000000000000000044" lang="id" xmltv_id="CelestialMoviesIndonesia.id@SD">Celestial Movies</channel>
+  <channel site="singtel.com" site_id="6301" lang="en" xmltv_id="HITSMovies.sg@SD">HITS Movies HD</channel>
+  <channel site="dens.tv" site_id="92" lang="id" xmltv_id="MyCinemaEurope.ch@SD">My Cinema Europe HD</channel>
+  <channel site="visionplus.id" site_id="00000000000000000047" lang="id" xmltv_id="ZeeBioskop.id@SD">Zee Bioskop</channel>
+  <channel site="visionplus.id" site_id="00000000000000000036" lang="id" xmltv_id="Cinemachi.uk@SD">Originals</channel>
+  <channel site="visionplus.id" site_id="00000000000000000040" lang="id" xmltv_id="CinemachiAction.uk@SD">Cineedge</channel>
+  <channel site="visionplus.id" site_id="00000000000000000037" lang="id" xmltv_id="CinemachiKids.uk@SD">Buddy Star</channel>
+  <channel site="visionplus.id" site_id="00000000000000000039" lang="id" xmltv_id="CinemachiMax.uk@SD">Superrix</channel>
+  <channel site="visionplus.id" site_id="00000000000000000038" lang="id" xmltv_id="CinemachiXtra.uk@SD">Uniques</channel>
+  <channel site="visionplus.id" site_id="00000000000000000093" lang="id" xmltv_id="ROCKAction.sg@SD">Rock Action</channel>
+  <channel site="visionplus.id" site_id="00000000000000000049" lang="id" xmltv_id="Galaxy.id@SD">GALAXY</channel>
+  <channel site="visionplus.id" site_id="00000000000000000048" lang="id" xmltv_id="GalaxyPremium.id@SD">GALAXY PREMIUM</channel>
+  <channel site="visionplus.id" site_id="00000000000000000050" lang="id" xmltv_id="IMC.id@SD">IMC (Indonesia Movie Channel)</channel>
+  <channel site="visionplus.id" site_id="00000000000000000054" lang="id" xmltv_id="StudioUniversalLatinAmerica.us@Brazil">Studio Universal</channel>
   <channel site="singtel.com" site_id="6420" lang="en" xmltv_id="HBOAsia.sg@SD">HBO HD</channel>
   <channel site="singtel.com" site_id="6421" lang="en" xmltv_id="HBOSignatureAsia.sg@SD">HBO Signature (HD)</channel>
   <channel site="singtel.com" site_id="6422" lang="en" xmltv_id="HBOFamilyAsia.sg@SD">HBO Family (HD)</channel>
