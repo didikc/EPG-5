@@ -1,88 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="dens.tv" site_id="82" lang="id" xmltv_id="AlQuranAlKareemTV.sa@SD">Quran TV</channel>
-  <channel site="dens.tv" site_id="88" lang="id" xmltv_id="AlSunnahAlNabawiyahTV.sa@SD">Sunna TV</channel>
-  <channel site="dens.tv" site_id="138" lang="id" xmltv_id="NusantaraTV.id@SD">Nusantara TV (NTV)</channel>
-  <channel site="maxstream.tv" site_id="0_9km1pl2v" lang="id" xmltv_id="RodjaTV.id@SD">Rodja TV</channel>
-  <channel site="cubmu.com" site_id="185" lang="id" xmltv_id="">Movies News</channel>
-  <channel site="cubmu.com" site_id="203" lang="id" xmltv_id="">Golf Plus ID</channel>
-  <channel site="cubmu.com" site_id="205" lang="id" xmltv_id="">Knowledge+</channel>
-  <channel site="cubmu.com" site_id="248" lang="id" xmltv_id="">Cartoon TV Premium</channel>
-  <channel site="cubmu.com" site_id="249" lang="id" xmltv_id="">Cartoon TV</channel>
-  <channel site="cubmu.com" site_id="250" lang="id" xmltv_id="">Cartoon TV Classic</channel>
-  <channel site="cubmu.com" site_id="252" lang="id" xmltv_id="">Football TV</channel>
-  <channel site="cubmu.com" site_id="253" lang="id" xmltv_id="">Sports TV</channel>
-  <channel site="cubmu.com" site_id="254" lang="id" xmltv_id="">Xtrem Sports</channel>
-  <channel site="cubmu.com" site_id="255" lang="id" xmltv_id="">Speed TV</channel>
-  <channel site="cubmu.com" site_id="274" lang="id" xmltv_id="">Travel TV</channel>
-  <channel site="cubmu.com" site_id="276" lang="id" xmltv_id="">Cooking TV</channel>
-  <channel site="cubmu.com" site_id="277" lang="id" xmltv_id="">Gaming TV</channel>
-  <channel site="cubmu.com" site_id="281" lang="id" xmltv_id="">Song TV</channel>
-  <channel site="cubmu.com" site_id="238" lang="id" xmltv_id="ABCAustralia.au@SD">ABC Australia</channel>
-  <channel site="cubmu.com" site_id="197" lang="id" xmltv_id="AlJazeera.qa@Arabic">Al Jazeera</channel>
-  <channel site="cubmu.com" site_id="204" lang="id" xmltv_id="AlQuranAlKareemTV.sa@SD">Al Quran Al Kareem</channel>
-  <channel site="cubmu.com" site_id="364" lang="id" xmltv_id="ANTV.id@SD">ANTV</channel>
-  <channel site="cubmu.com" site_id="261" lang="id" xmltv_id="ArirangTV.kr@SD">Arirang</channel>
-  <channel site="cubmu.com" site_id="214" lang="id" xmltv_id="BeritaSatu.id@SD">Berita Satu</channel>
-  <channel site="cubmu.com" site_id="230" lang="id" xmltv_id="BioskopIndonesia.id@SD">Bioskop Indonesia</channel>
-  <channel site="cubmu.com" site_id="245" lang="id" xmltv_id="BTV.id@SD">BTV</channel>
-  <channel site="cubmu.com" site_id="266" lang="id" xmltv_id="CCTV4Asia.cn@SD">CCTV4</channel>
-  <channel site="cubmu.com" site_id="229" lang="id" xmltv_id="CelestialMoviesIndonesia.id@SD">Celestial Movies</channel>
-  <channel site="cubmu.com" site_id="259" lang="id" xmltv_id="CGTN.cn@SD">CGTN</channel>
-  <channel site="cubmu.com" site_id="234" lang="id" xmltv_id="CGTNDocumentary.cn@SD">CGTN Documentary</channel>
-  <channel site="cubmu.com" site_id="247" lang="id" xmltv_id="ChannelJowo.id@SD">Channel Jowo</channel>
-  <channel site="cubmu.com" site_id="209" lang="id" xmltv_id="CNA.sg@SD">Channel NewsAsia</channel>
-  <channel site="cubmu.com" site_id="237" lang="id" xmltv_id="CNBCAsia.sg@SD">CNBC Asia</channel>
-  <channel site="cubmu.com" site_id="213" lang="id" xmltv_id="CNBCIndonesia.id@SD">CNBC Indonesia</channel>
-  <channel site="cubmu.com" site_id="212" lang="id" xmltv_id="CNNIndonesia.id@SD">CNN Indonesia</channel>
-  <channel site="cubmu.com" site_id="241" lang="id" xmltv_id="DAAITV.id@SD">DAAI TV</channel>
-  <channel site="cubmu.com" site_id="244" lang="id" xmltv_id="DaystarTV.us@SD">DayStar</channel>
-  <channel site="cubmu.com" site_id="278" lang="id" xmltv_id="DensFoodChannel.id@SD">DENS Food Channel</channel>
-  <channel site="cubmu.com" site_id="279" lang="id" xmltv_id="DensPlay.id@SD">DENS Play Channel</channel>
-  <channel site="cubmu.com" site_id="280" lang="id" xmltv_id="DensShowBiz.id@SD">DENS Show Bizz</channel>
-  <channel site="cubmu.com" site_id="186" lang="id" xmltv_id="DuniaAnak.id@SD">Dunia Anak</channel>
-  <channel site="cubmu.com" site_id="265" lang="id" xmltv_id="DuniaLain.id@SD">Dunia Lain</channel>
-  <channel site="cubmu.com" site_id="208" lang="id" xmltv_id="EatNGo.id@SD">Eat N Go</channel>
-  <channel site="cubmu.com" site_id="199" lang="id" xmltv_id="EuronewsEnglish.fr@SD">Euronews</channel>
-  <channel site="cubmu.com" site_id="196" lang="id" xmltv_id="FashionTVAsia.fr@SD">Fashion TV</channel>
-  <channel site="cubmu.com" site_id="256" lang="id" xmltv_id="Fight.us@SD">Fight TV Premium</channel>
-  <channel site="cubmu.com" site_id="258" lang="id" xmltv_id="France24.fr@English">France 24</channel>
-  <channel site="cubmu.com" site_id="219" lang="id" xmltv_id="GarudaTV.id@SD">Garuda TV</channel>
-  <channel site="cubmu.com" site_id="218" lang="id" xmltv_id="GTV.id@SD">GTV</channel>
-  <channel site="cubmu.com" site_id="216" lang="id" xmltv_id="Indosiar.id@SD">Indosiar</channel>
-  <channel site="cubmu.com" site_id="243" lang="id" xmltv_id="JakTV.id@SD">JakTV</channel>
-  <channel site="cubmu.com" site_id="284" lang="id" xmltv_id="JTV.id@SD">jtv</channel>
-  <channel site="cubmu.com" site_id="200" lang="id" xmltv_id="Khazanah.id@SD">Khazanah</channel>
-  <channel site="cubmu.com" site_id="220" lang="id" xmltv_id="KompasTV.id@SD">Kompas TV</channel>
-  <channel site="cubmu.com" site_id="221" lang="id" xmltv_id="MDTV.id@HD">MDTV</channel>
-  <channel site="cubmu.com" site_id="211" lang="id" xmltv_id="MetroTV.id@SD">MetroTV</channel>
-  <channel site="cubmu.com" site_id="222" lang="id" xmltv_id="MNCTV.id@SD">MNC TV</channel>
-  <channel site="cubmu.com" site_id="195" lang="id" xmltv_id="MusikIndonesia.id@SD">Musik Indonesia</channel>
-  <channel site="cubmu.com" site_id="240" lang="id" xmltv_id="NabawiTV.id@SD">Nabawi TV</channel>
-  <channel site="cubmu.com" site_id="236" lang="id" xmltv_id="NHKWorldPremium.jp@SD">NHK World Premium</channel>
-  <channel site="cubmu.com" site_id="263" lang="id" xmltv_id="nsert.id@SD">!nsert</channel>
-  <channel site="cubmu.com" site_id="268" lang="id" xmltv_id="OneTV.in@SD">One TV</channel>
-  <channel site="cubmu.com" site_id="242" lang="id" xmltv_id="PijarTV.id@SD">Pijar TV</channel>
-  <channel site="cubmu.com" site_id="257" lang="id" xmltv_id="PSJTV.id@SD">PSJ TV</channel>
-  <channel site="cubmu.com" site_id="246" lang="id" xmltv_id="RajawaliTV.id@SD">Rtv</channel>
-  <channel site="cubmu.com" site_id="217" lang="id" xmltv_id="RCTI.id@SD">RCTI</channel>
-  <channel site="cubmu.com" site_id="260" lang="id" xmltv_id="RT.ru@SD">Russia Today</channel>
-  <channel site="cubmu.com" site_id="215" lang="id" xmltv_id="SCTV.id@SD">SCTV</channel>
-  <channel site="cubmu.com" site_id="251" lang="id" xmltv_id="SuperyachtTV.mc@SD">Superyacht TV</channel>
-  <channel site="cubmu.com" site_id="232" lang="id" xmltv_id="Thrill.hk@SD">Thrill</channel>
-  <channel site="cubmu.com" site_id="201" lang="id" xmltv_id="Trans7.id@SD">Trans 7</channel>
-  <channel site="cubmu.com" site_id="210" lang="id" xmltv_id="TransTV.id@SD">Trans TV</channel>
-  <channel site="cubmu.com" site_id="267" lang="id" xmltv_id="TV5MondeAsia.fr@SD">TV5 Monde</channel>
-  <channel site="cubmu.com" site_id="239" lang="id" xmltv_id="TV9Nusantara.id@SD">TV9</channel>
-  <channel site="cubmu.com" site_id="187" lang="id" xmltv_id="TVMu.id@SD">tvMU</channel>
-  <channel site="cubmu.com" site_id="194" lang="id" xmltv_id="tvNAsia.hk@SD">tVN</channel>
-  <channel site="cubmu.com" site_id="227" lang="id" xmltv_id="tvNMoviesAsia.hk@SD">TVN Movies</channel>
-  <channel site="cubmu.com" site_id="363" lang="id" xmltv_id="tvOne.id@SD">TVOne</channel>
-  <channel site="cubmu.com" site_id="223" lang="id" xmltv_id="TVRI.id@SD">TVRI</channel>
-  <channel site="cubmu.com" site_id="283" lang="id" xmltv_id="WION.in@SD">Wion TV</channel>
-  <channel site="visionplus.id" site_id="00000000000000000005" lang="id" xmltv_id="SindoNewsTV.id@SD">SindoNews</channel>
-  <channel site="visionplus.id" site_id="00000000000000000020" lang="id" xmltv_id="MentariTV.id@SD">Mentari TV</channel>
-  <channel site="visionplus.id" site_id="00000000000000000056" lang="id" xmltv_id="KidsTV.id@SD">Kids TV</channel>
-  <channel site="visionplus.id" site_id="00000000000000000004" lang="id" xmltv_id="iNews.id@SD">iNews</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec" lang="en" xmltv_id="">Miramax Movie Channel</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#645e7828e1979c00087b75b4" lang="en" xmltv_id="">MovieSphere by Lionsgate</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/gb#6401d85a49839300087b116c" lang="en" xmltv_id="MovieSphere.us@SD">Moviesphere</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/us#636adc255bcf470007d6e0e2">Top Gear</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/ca#638e10220aa6a6000726979f">Top Gear</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FifthGear.uk" site_id="PlutoTV/gb#5ca1de9208ee5378be82db3b">Fifth Gear</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/gb#5ca1de9208ee5378be82db3b" lang="en" xmltv_id="FifthGear.us@UK">Fifth Gear</channel>
+  <channel site="pluto.tv" site_id="65c69ee3d77d450008c80438" lang="en" xmltv_id="">Formula 1 Channel</channel>
+  <channel site="freeview.co.uk" site_id="64257#8385" lang="en" xmltv_id="Film4.uk@SD">Film4</channel>
+  <channel site="freeview.co.uk" site_id="64257#8442" lang="en" xmltv_id="More4.uk@SD">More 4</channel>
+  <channel site="sky.com" site_id="GB#1628" lang="en" xmltv_id="E4.uk@SD">E4</channel>
+  <channel site="sky.com" site_id="GB#3150" lang="en" xmltv_id="4seven.uk@SD">4seven</channel>
+  <channel site="freeview.co.uk" site_id="64257#17604" lang="en" xmltv_id="ITV1.uk@HD">ITV1 HD</channel>
+  <channel site="freeview.co.uk" site_id="64257#8325" lang="en" xmltv_id="ITV2.uk@SD">ITV2</channel>
+  <channel site="freeview.co.uk" site_id="64257#8294" lang="en" xmltv_id="ITV3.uk@SD">ITV3</channel>
+  <channel site="freeview.co.uk" site_id="64257#8330" lang="en" xmltv_id="ITV4.uk@SD">ITV4</channel>
+  <channel site="freeview.co.uk" site_id="64257#8384" lang="en" xmltv_id="Channel4.uk@UK">Channel 4</channel>
+  <channel site="freeview.co.uk" site_id="64257#8500" lang="en" xmltv_id="Channel5.uk@SD">5</channel>
+  <channel site="tvguide.com" site_id="9233009788" lang="en" xmltv_id="DisneyJunior.us@East">Disney Junior</channel>
+  <channel site="singtel.com" site_id="6420" lang="en" xmltv_id="HBOAsia.sg@SD">HBO HD</channel>
+  <channel site="singtel.com" site_id="6421" lang="en" xmltv_id="HBOSignatureAsia.sg@SD">HBO Signature (HD)</channel>
+  <channel site="singtel.com" site_id="6422" lang="en" xmltv_id="HBOFamilyAsia.sg@SD">HBO Family (HD)</channel>
+  <channel site="singtel.com" site_id="6423" lang="en" xmltv_id="HBOHitsAsia.sg@SD">HBO Hits (HD)</channel>
+  <channel site="singtel.com" site_id="6424" lang="en" xmltv_id="CinemaxAsia.sg@SD">CINEMAX (HD)</channel>
+  <channel site="singtel.com" site_id="5326" lang="en" xmltv_id="HITS.sg@SD">HITS (HD)</channel>
+  <channel site="singtel.com" site_id="5303" lang="en" xmltv_id="HITSNOW.sg@SD">HITS NOW (HD)</channel>
+  <channel site="singtel.com" site_id="6114" lang="en" xmltv_id="SPOTV.kr@SD">SPOTV (HD)</channel>
+  <channel site="singtel.com" site_id="6115" lang="en" xmltv_id="SPOTV2.kr@SD">SPOTV 2 (HD)</channel>
+  <channel site="singtel.com" site_id="5304" lang="en" xmltv_id="AXNAsia.sg@Singapore">AXN (HD)</channel>
+  <channel site="allente.no" site_id="no#0299" lang="no" xmltv_id="">V film action HD (T)</channel>
+  <channel site="allente.no" site_id="no#0308" lang="no" xmltv_id="">V film family (T)</channel>
+  <channel site="allente.no" site_id="no#0322" lang="no" xmltv_id="">V film hits HD (T)</channel>
+  <channel site="allente.no" site_id="no#0321" lang="no" xmltv_id="">V film premiere HD (T)</channel>
+  <channel site="allente.no" site_id="no#0320" lang="no" xmltv_id="">V series HD (T)</channel>
+  <channel site="programacion-tv.elpais.com" site_id="512" lang="es" xmltv_id="AXNWhite.us@SD">AXN Movies</channel>
+  <channel site="dishtv.in" site_id="143548" lang="en" xmltv_id="MoviesNowPlus.in@SD">MN+</channel>
+  <channel site="dishtv.in" site_id="143549" lang="en" xmltv_id="MNX.in@SD">MNX</channel>
+  <channel site="dishtv.in" site_id="143554" lang="en" xmltv_id="MoviesNow.in@SD">Movies Now</channel>
+  <channel site="dishtv.in" site_id="143729" lang="en" xmltv_id="RomedyNow.in@SD">Romedy Now</channel> 
+  <channel site="sky.com" site_id="GB#1120" lang="en" xmltv_id="TNTSports1.uk@HD">TNTSports1 HD</channel>
+  <channel site="sky.com" site_id="GB#3627" lang="en" xmltv_id="TNTSports2.uk@HD">TNTSports2 HD</channel>
+  <channel site="sky.com" site_id="GB#3629" lang="en" xmltv_id="TNTSports3.uk@HD">TNTSports3 HD</channel>
+  <channel site="sky.com" site_id="GB#4040" lang="en" xmltv_id="TNTSports4.uk@HD">TNTSports4 HD</channel>
+  <channel site="movistarplus.es" site_id="M1SD" lang="es" xmltv_id="">DAZN 1</channel>
+  <channel site="movistarplus.es" site_id="M2SD" lang="es" xmltv_id="">DAZN 2</channel>
+  <channel site="vodafone.pt" site_id="2687" lang="pt" xmltv_id="SportTV1.pt@SD">SportTV1</channel>
+  <channel site="vodafone.pt" site_id="2688" lang="pt" xmltv_id="SportTV2.pt@SD">SportTV2</channel>
+  <channel site="vodafone.pt" site_id="2689" lang="pt" xmltv_id="SportTV3.pt@SD">SportTV3</channel>
+  <channel site="allente.no" site_id="no#0255" lang="no" xmltv_id="">V sport live 1 (T)</channel>
+  <channel site="allente.no" site_id="no#0256" lang="no" xmltv_id="">V sport live 2 (T)</channel>
+  <channel site="allente.no" site_id="no#0257" lang="no" xmltv_id="">V sport live 3 (T)</channel>
+  <channel site="allente.no" site_id="no#0271" lang="no" xmltv_id="">V sport+ HD (N) (T)</channel>
+  <channel site="allente.no" site_id="dk#1015" lang="da" xmltv_id="">Sport Live (D) (T)</channel>
+  <channel site="allente.no" site_id="dk#454" lang="da" xmltv_id="">TV 2 Sport HD (D) (T)</channel>
+  <channel site="allente.no" site_id="dk#718" lang="da" xmltv_id="">TV 2 Sport X HD (D) (T)</channel>
+  <channel site="allente.no" site_id="no#0199" lang="no" xmltv_id="">TV 2 Sport 1 HD (N) (T)</channel>
+  <channel site="allente.no" site_id="no#0406" lang="no" xmltv_id="">TV 2 Sport 2 HD (N) (T)</channel>
+  <channel site="allente.no" site_id="no#0197" lang="no" xmltv_id="">TV 2 Sport Premium HD (N) (T)</channel>
+  <channel site="allente.no" site_id="no#0198" lang="no" xmltv_id="">TV 2 Sport Premium 2 HD (N) (T)</channel>
+  <channel site="allente.no" site_id="no#0298" lang="no" xmltv_id="">TV3 HD (N) (T)</channel>
+  <channel site="rikstv.no" site_id="361" lang="no" xmltv_id="">V Sport +</channel>
+  <channel site="rikstv.no" site_id="362" lang="no" xmltv_id="">V Sport 1</channel>
+  <channel site="rikstv.no" site_id="363" lang="no" xmltv_id="">V Sport 2</channel>
+  <channel site="rikstv.no" site_id="364" lang="no" xmltv_id="">V Sport 3</channel>
+  <channel site="sky.com" site_id="GB#1192" lang="en" xmltv_id="PremierSports1.ie@HD">Premier 1 HD</channel>
+  <channel site="sky.com" site_id="GB#1193" lang="en" xmltv_id="PremierSports2.ie@HD">Premier 2 HD</channel>
+  <channel site="mi.tv" site_id="mx#espn" lang="es" xmltv_id="">ESPN</channel>
+  <channel site="mi.tv" site_id="mx#espn-2" lang="es" xmltv_id="">ESPN 2</channel>
+  <channel site="mi.tv" site_id="mx#espn-3" lang="es" xmltv_id="">ESPN 3</channel>
+  <channel site="mi.tv" site_id="mx#espn-plus-hd" lang="es" xmltv_id="">ESPN+ HD</channel>
+  <channel site="mi.tv" site_id="mx#warner" lang="es" xmltv_id="WarnerChannel.us@Mexico">Warner Channel</channel>
+  <channel site="webtv.sk" site_id="sport_1" lang="sk" xmltv_id="">Sport 1</channel>
+  <channel site="webtv.sk" site_id="sport_2" lang="sk" xmltv_id="">Sport 2</channel>
+  <channel site="webtv.sk" site_id="nova_sport_1_hd" lang="sk" xmltv_id="">Nova Sport 1</channel>
+  <channel site="webtv.sk" site_id="nova_sport_2_hd" lang="sk" xmltv_id="">Nova Sport 2</channel>
+  <channel site="tv.mail.ru" site_id="2060" lang="ru" xmltv_id="Match.ru@SD">МАТЧ!</channel>
+  <channel site="tv.mail.ru" site_id="864" lang="ru" xmltv_id="MatchFutbol1.ru@SD">МАТЧ! Футбол 1</channel>
+  <channel site="tv.mail.ru" site_id="1552" lang="ru" xmltv_id="MatchFutbol2.ru@SD">МАТЧ! Футбол 2</channel>
+  <channel site="tv.mail.ru" site_id="1810" lang="ru" xmltv_id="MatchFutbol3.ru@SD">МАТЧ! Футбол 3</channel>
+  <channel site="mujtvprogram.cz" site_id="344" lang="sk" xmltv_id="ArenaSport1.sk@SD">Arena Sport 1</channel>
+  <channel site="mujtvprogram.cz" site_id="379" lang="sk" xmltv_id="ArenaSport2.sk@SD">Arena Sport 2</channel>
+  <channel site="tvhebdo.com" site_id="tsn/TSN1" lang="fr" xmltv_id="TSN1.ca@SD">TSN1</channel>
+  <channel site="tvhebdo.com" site_id="tsn/TSN2" lang="fr" xmltv_id="TSN2.ca@SD">TSN2</channel>
+  <channel site="tvhebdo.com" site_id="tsn/TSN3" lang="fr" xmltv_id="TSN3.ca@SD">TSN3</channel>
+  <channel site="tvhebdo.com" site_id="tsn/TSN4" lang="fr" xmltv_id="TSN4.ca@SD">TSN4</channel>
+  <channel site="tvhebdo.com" site_id="tsn/TSN5" lang="fr" xmltv_id="TSN5.ca@SD">TSN (5)</channel>
+  <channel site="zap2it.com" site_id="X/USA-DITV-DEFAULT/DITV/USA/12084/82541" lang="es" xmltv_id="">FS1</channel>
+  <channel site="zap2it.com" site_id="X/USA-DITV-DEFAULT/DITV/USA/12084/32281" lang="es" xmltv_id="">NBATV</channel>
+  <channel site="mi.tv" site_id="mx#fox-sports" lang="es" xmltv_id="">FOX Sports</channel>
+  <channel site="mi.tv" site_id="mx#fox-sports-2" lang="es" xmltv_id="">FOX Sports 2</channel>
+  <channel site="mi.tv" site_id="mx#fox-sports-3" lang="es" xmltv_id="">FOX Sports 3</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2294" lang="es" xmltv_id="">FOX SPORTS PREMIUM</channel>
+  <channel site="sky.com" site_id="GB#1003" lang="en" xmltv_id="MUTV.uk@SD">MUTV HD</channel>
+  <channel site="gatotv.com" site_id="barca_tv" lang="es" xmltv_id="">Canal Barça TV</channel>
+  <channel site="guida.tv" site_id="73788469/inter-tv" lang="it" xmltv_id="InterTV.it@SD">Inter TV</channel>
+  <channel site="freeview.co.uk" site_id="64257#34496" lang="en" xmltv_id="">wedotv Movies UK</channel>
+  <channel site="nostv.pt" site_id="75" lang="pt" xmltv_id="AXNWhite.us@Portugal">AXN White HD</channel>
 </channels>
   
