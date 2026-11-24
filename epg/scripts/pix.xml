@@ -28,7 +28,7 @@
   <channel site="vodafone.pt" site_id="2687" lang="pt" xmltv_id="SportTV1.pt@SD">SportTV1</channel>
   <channel site="vodafone.pt" site_id="2688" lang="pt" xmltv_id="SportTV2.pt@SD">SportTV2</channel>
   <channel site="vodafone.pt" site_id="2689" lang="pt" xmltv_id="SportTV3.pt@SD">SportTV3</channel>
-    <channel site="sky.com" site_id="DE#145" lang="de" xmltv_id="SkySportPremierLeague.de@HD">Sky Sport Premier League HD</channel>
+  <channel site="sky.com" site_id="DE#145" lang="de" xmltv_id="SkySportPremierLeague.de@HD">Sky Sport Premier League HD</channel>
   <channel site="sky.com" site_id="DE#114" lang="de" xmltv_id="SkySportTennis.de@HD">Sky Sport Tennis HD</channel>
   <channel site="sky.com" site_id="DE#129" lang="de" xmltv_id="SkySportTopEvent.de@HD">Sky Sport Top Event HD</channel>
   <channel site="sky.com" site_id="DE#141" lang="de" xmltv_id="SkySportMix.de@HD">Sky Sport Mix HD</channel>
@@ -38,9 +38,8 @@
   <channel site="vivoplay.com.br" site_id="lch217" lang="pt" xmltv_id="">Sportv 2</channel>
   <channel site="webtv.sk" site_id="eurosport_1" lang="sk" xmltv_id="">Eurosport 1</channel>
   <channel site="webtv.sk" site_id="eurosport_2" lang="sk" xmltv_id="">Eurosport 2</channel>
-  <channel site="bein.com" site_id="sports#1" lang="en" xmltv_id="">beINSPORTS1</channel>
-  <channel site="bein.com" site_id="sports#2" lang="en" xmltv_id="beINSports2.qa@MENA">beINSPORTS2</channel>
-  <channel site="bein.com" site_id="sports#3" lang="en" xmltv_id="beINSports3.qa@MENA">beINSPORTS3</channel>
-  <channel site="bein.com" site_id="sports#17" lang="en" xmltv_id="">beINSPORTSXTRA1</channel>
+  <channel site="visionplus.id" site_id="00000000000000000122" lang="en" xmltv_id="beINSports1.qa@Indonesia">beIN SPORTS</channel>
+  <channel site="visionplus.id" site_id="00000000000000000123" lang="en" xmltv_id="beINSports2.qa@MENA">beIN SPORTS 2</channel>
+  <channel site="visionplus.id" site_id="00000000000000000124" lang="en" xmltv_id="beINSports3.qa@Indonesia">beIN SPORTS 3</channel>
 </channels>
   
