@@ -1,87 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec" lang="en" xmltv_id="">Miramax Movie Channel</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#645e7828e1979c00087b75b4" lang="en" xmltv_id="">MovieSphere by Lionsgate</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/gb#6401d85a49839300087b116c" lang="en" xmltv_id="MovieSphere.us@SD">Moviesphere</channel>
-  <channel site="pluto.tv" site_id="65c69ee3d77d450008c80438" lang="en" xmltv_id="">Formula 1 Channel</channel>
-  <channel site="freeview.co.uk" site_id="64257#8385" lang="en" xmltv_id="Film4.uk@SD">Film4</channel>
-  <channel site="freeview.co.uk" site_id="64257#8442" lang="en" xmltv_id="More4.uk@SD">More 4</channel>
-  <channel site="sky.com" site_id="GB#1628" lang="en" xmltv_id="E4.uk@SD">E4</channel>
-  <channel site="sky.com" site_id="GB#3150" lang="en" xmltv_id="4seven.uk@SD">4seven</channel>
-  <channel site="freeview.co.uk" site_id="64257#17604" lang="en" xmltv_id="ITV1.uk@HD">ITV1 HD</channel>
-  <channel site="freeview.co.uk" site_id="64257#8325" lang="en" xmltv_id="ITV2.uk@SD">ITV2</channel>
-  <channel site="freeview.co.uk" site_id="64257#8294" lang="en" xmltv_id="ITV3.uk@SD">ITV3</channel>
-  <channel site="freeview.co.uk" site_id="64257#8330" lang="en" xmltv_id="ITV4.uk@SD">ITV4</channel>
-  <channel site="freeview.co.uk" site_id="64257#8384" lang="en" xmltv_id="Channel4.uk@UK">Channel 4</channel>
-  <channel site="freeview.co.uk" site_id="64257#8500" lang="en" xmltv_id="Channel5.uk@SD">5</channel>
-  <channel site="tvguide.com" site_id="9233009788" lang="en" xmltv_id="DisneyJunior.us@East">Disney Junior</channel>
-  <channel site="visionplus.id" site_id="00000000000000000045" lang="id" xmltv_id="CelestialClassicMovies.id@SD">CCM</channel>
-  <channel site="visionplus.id" site_id="00000000000000000044" lang="id" xmltv_id="CelestialMoviesIndonesia.id@SD">Celestial Movies</channel>
-  <channel site="singtel.com" site_id="6301" lang="en" xmltv_id="HITSMovies.sg@SD">HITS Movies HD</channel>
-  <channel site="dens.tv" site_id="92" lang="id" xmltv_id="MyCinemaEurope.ch@SD">My Cinema Europe HD</channel>
-  <channel site="visionplus.id" site_id="00000000000000000047" lang="id" xmltv_id="ZeeBioskop.id@SD">Zee Bioskop</channel>
-  <channel site="visionplus.id" site_id="00000000000000000036" lang="id" xmltv_id="Cinemachi.uk@SD">Originals</channel>
-  <channel site="visionplus.id" site_id="00000000000000000040" lang="id" xmltv_id="CinemachiAction.uk@SD">Cineedge</channel>
-  <channel site="visionplus.id" site_id="00000000000000000037" lang="id" xmltv_id="CinemachiKids.uk@SD">Buddy Star</channel>
-  <channel site="visionplus.id" site_id="00000000000000000039" lang="id" xmltv_id="CinemachiMax.uk@SD">Superrix</channel>
-  <channel site="visionplus.id" site_id="00000000000000000038" lang="id" xmltv_id="CinemachiXtra.uk@SD">Uniques</channel>
-  <channel site="visionplus.id" site_id="00000000000000000093" lang="id" xmltv_id="ROCKAction.sg@SD">Rock Action</channel>
-  <channel site="visionplus.id" site_id="00000000000000000049" lang="id" xmltv_id="Galaxy.id@SD">GALAXY</channel>
-  <channel site="visionplus.id" site_id="00000000000000000048" lang="id" xmltv_id="GalaxyPremium.id@SD">GALAXY PREMIUM</channel>
-  <channel site="visionplus.id" site_id="00000000000000000050" lang="id" xmltv_id="IMC.id@SD">IMC (Indonesia Movie Channel)</channel>
-  <channel site="visionplus.id" site_id="00000000000000000054" lang="id" xmltv_id="StudioUniversalLatinAmerica.us@Brazil">Studio Universal</channel>
-  <channel site="singtel.com" site_id="6420" lang="en" xmltv_id="HBOAsia.sg@SD">HBO HD</channel>
-  <channel site="singtel.com" site_id="6421" lang="en" xmltv_id="HBOSignatureAsia.sg@SD">HBO Signature (HD)</channel>
-  <channel site="singtel.com" site_id="6422" lang="en" xmltv_id="HBOFamilyAsia.sg@SD">HBO Family (HD)</channel>
-  <channel site="singtel.com" site_id="6423" lang="en" xmltv_id="HBOHitsAsia.sg@SD">HBO Hits (HD)</channel>
-  <channel site="singtel.com" site_id="6424" lang="en" xmltv_id="CinemaxAsia.sg@SD">CINEMAX (HD)</channel>
-  <channel site="singtel.com" site_id="5326" lang="en" xmltv_id="HITS.sg@SD">HITS (HD)</channel>
-  <channel site="singtel.com" site_id="5303" lang="en" xmltv_id="HITSNOW.sg@SD">HITS NOW (HD)</channel>
-  <channel site="singtel.com" site_id="6114" lang="en" xmltv_id="SPOTV.kr@SD">SPOTV (HD)</channel>
-  <channel site="singtel.com" site_id="6115" lang="en" xmltv_id="SPOTV2.kr@SD">SPOTV 2 (HD)</channel>
-  <channel site="singtel.com" site_id="5304" lang="en" xmltv_id="AXNAsia.sg@Singapore">AXN (HD)</channel>
-  <channel site="allente.no" site_id="no#0299" lang="no" xmltv_id="">V film action HD (T)</channel>
-  <channel site="allente.no" site_id="no#0308" lang="no" xmltv_id="">V film family (T)</channel>
-  <channel site="allente.no" site_id="no#0322" lang="no" xmltv_id="">V film hits HD (T)</channel>
-  <channel site="allente.no" site_id="no#0321" lang="no" xmltv_id="">V film premiere HD (T)</channel>
-  <channel site="allente.no" site_id="no#0320" lang="no" xmltv_id="">V series HD (T)</channel>
-  <channel site="programacion-tv.elpais.com" site_id="512" lang="es" xmltv_id="AXNWhite.us@SD">AXN Movies</channel>
-  <channel site="dishtv.in" site_id="143548" lang="en" xmltv_id="MoviesNowPlus.in@SD">MN+</channel>
-  <channel site="dishtv.in" site_id="143549" lang="en" xmltv_id="MNX.in@SD">MNX</channel>
-  <channel site="dishtv.in" site_id="143554" lang="en" xmltv_id="MoviesNow.in@SD">Movies Now</channel>
-  <channel site="dishtv.in" site_id="143729" lang="en" xmltv_id="RomedyNow.in@SD">Romedy Now</channel> 
-  <channel site="sky.com" site_id="GB#1120" lang="en" xmltv_id="TNTSports1.uk@HD">TNTSports1 HD</channel>
-  <channel site="sky.com" site_id="GB#3627" lang="en" xmltv_id="TNTSports2.uk@HD">TNTSports2 HD</channel>
-  <channel site="sky.com" site_id="GB#3629" lang="en" xmltv_id="TNTSports3.uk@HD">TNTSports3 HD</channel>
-  <channel site="sky.com" site_id="GB#4040" lang="en" xmltv_id="TNTSports4.uk@HD">TNTSports4 HD</channel>
-  <channel site="movistarplus.es" site_id="M1SD" lang="es" xmltv_id="">DAZN 1</channel>
-  <channel site="movistarplus.es" site_id="M2SD" lang="es" xmltv_id="">DAZN 2</channel>
-  <channel site="vodafone.pt" site_id="2687" lang="pt" xmltv_id="SportTV1.pt@SD">SportTV1</channel>
-  <channel site="vodafone.pt" site_id="2688" lang="pt" xmltv_id="SportTV2.pt@SD">SportTV2</channel>
-  <channel site="vodafone.pt" site_id="2689" lang="pt" xmltv_id="SportTV3.pt@SD">SportTV3</channel>
-  <channel site="allente.no" site_id="no#0255" lang="no" xmltv_id="">V sport live 1 (T)</channel>
-  <channel site="allente.no" site_id="no#0256" lang="no" xmltv_id="">V sport live 2 (T)</channel>
-  <channel site="allente.no" site_id="no#0257" lang="no" xmltv_id="">V sport live 3 (T)</channel>
-  <channel site="allente.no" site_id="no#0271" lang="no" xmltv_id="">V sport+ HD (N) (T)</channel>
-  <channel site="allente.no" site_id="dk#1015" lang="da" xmltv_id="">Sport Live (D) (T)</channel>
-  <channel site="allente.no" site_id="dk#454" lang="da" xmltv_id="">TV 2 Sport HD (D) (T)</channel>
-  <channel site="allente.no" site_id="dk#718" lang="da" xmltv_id="">TV 2 Sport X HD (D) (T)</channel>
-  <channel site="allente.no" site_id="no#0199" lang="no" xmltv_id="">TV 2 Sport 1 HD (N) (T)</channel>
-  <channel site="allente.no" site_id="no#0406" lang="no" xmltv_id="">TV 2 Sport 2 HD (N) (T)</channel>
-  <channel site="allente.no" site_id="no#0197" lang="no" xmltv_id="">TV 2 Sport Premium HD (N) (T)</channel>
-  <channel site="allente.no" site_id="no#0198" lang="no" xmltv_id="">TV 2 Sport Premium 2 HD (N) (T)</channel>
-  <channel site="allente.no" site_id="no#0298" lang="no" xmltv_id="">TV3 HD (N) (T)</channel>
-  <channel site="rikstv.no" site_id="361" lang="no" xmltv_id="">V Sport +</channel>
-  <channel site="rikstv.no" site_id="362" lang="no" xmltv_id="">V Sport 1</channel>
-  <channel site="rikstv.no" site_id="363" lang="no" xmltv_id="">V Sport 2</channel>
-  <channel site="rikstv.no" site_id="364" lang="no" xmltv_id="">V Sport 3</channel>
   <channel site="sky.com" site_id="GB#1192" lang="en" xmltv_id="PremierSports1.ie@HD">Premier 1 HD</channel>
   <channel site="sky.com" site_id="GB#1193" lang="en" xmltv_id="PremierSports2.ie@HD">Premier 2 HD</channel>
-  <channel site="mi.tv" site_id="mx#espn" lang="es" xmltv_id="">ESPN</channel>
-  <channel site="mi.tv" site_id="mx#espn-2" lang="es" xmltv_id="">ESPN 2</channel>
-  <channel site="mi.tv" site_id="mx#espn-3" lang="es" xmltv_id="">ESPN 3</channel>
-  <channel site="mi.tv" site_id="mx#espn-plus-hd" lang="es" xmltv_id="">ESPN+ HD</channel>
-  <channel site="mi.tv" site_id="mx#warner" lang="es" xmltv_id="WarnerChannel.us@Mexico">Warner Channel</channel>
+  <channel site="mi.tv" site_id="mx#fox-sports" lang="es" xmltv_id="">FOX Sports</channel>
+  <channel site="mi.tv" site_id="mx#fox-sports-2" lang="es" xmltv_id="">FOX Sports 2</channel>
+  <channel site="mi.tv" site_id="mx#fox-sports-3" lang="es" xmltv_id="">FOX Sports 3</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2294" lang="es" xmltv_id="">FOX SPORTS PREMIUM</channel>
   <channel site="webtv.sk" site_id="sport_1" lang="sk" xmltv_id="">Sport 1</channel>
   <channel site="webtv.sk" site_id="sport_2" lang="sk" xmltv_id="">Sport 2</channel>
   <channel site="webtv.sk" site_id="nova_sport_1_hd" lang="sk" xmltv_id="">Nova Sport 1</channel>
@@ -95,14 +19,14 @@
   <channel site="tvhebdo.com" site_id="tsn/TSN5" lang="fr" xmltv_id="TSN5.ca@SD">TSN (5)</channel>
   <channel site="zap2it.com" site_id="X/USA-DITV-DEFAULT/DITV/USA/12084/82541" lang="es" xmltv_id="">FS1</channel>
   <channel site="zap2it.com" site_id="X/USA-DITV-DEFAULT/DITV/USA/12084/32281" lang="es" xmltv_id="">NBATV</channel>
-  <channel site="mi.tv" site_id="mx#fox-sports" lang="es" xmltv_id="">FOX Sports</channel>
-  <channel site="mi.tv" site_id="mx#fox-sports-2" lang="es" xmltv_id="">FOX Sports 2</channel>
-  <channel site="mi.tv" site_id="mx#fox-sports-3" lang="es" xmltv_id="">FOX Sports 3</channel>
-  <channel site="tv.movistar.com.pe" site_id="lch2294" lang="es" xmltv_id="">FOX SPORTS PREMIUM</channel>
-  <channel site="sky.com" site_id="GB#1003" lang="en" xmltv_id="MUTV.uk@SD">MUTV HD</channel>
-  <channel site="gatotv.com" site_id="barca_tv" lang="es" xmltv_id="">Canal Barça TV</channel>
-  <channel site="guida.tv" site_id="73788469/inter-tv" lang="it" xmltv_id="InterTV.it@SD">Inter TV</channel>
-  <channel site="freeview.co.uk" site_id="64257#34496" lang="en" xmltv_id="">wedotv Movies UK</channel>
-  <channel site="nostv.pt" site_id="75" lang="pt" xmltv_id="AXNWhite.us@Portugal">AXN White HD</channel>
+  <channel site="sky.com" site_id="GB#1192" lang="en" xmltv_id="PremierSports1.ie@HD">Premier 1 HD</channel>
+  <channel site="sky.com" site_id="GB#1193" lang="en" xmltv_id="PremierSports2.ie@HD">Premier 2 HD</channel>
+  <channel site="sky.com" site_id="GB#1120" lang="en" xmltv_id="TNTSports1.uk@HD">TNTSports1 HD</channel>
+  <channel site="sky.com" site_id="GB#3627" lang="en" xmltv_id="TNTSports2.uk@HD">TNTSports2 HD</channel>
+  <channel site="sky.com" site_id="GB#3629" lang="en" xmltv_id="TNTSports3.uk@HD">TNTSports3 HD</channel>
+  <channel site="sky.com" site_id="GB#4040" lang="en" xmltv_id="TNTSports4.uk@HD">TNTSports4 HD</channel>
+  <channel site="vodafone.pt" site_id="2687" lang="pt" xmltv_id="SportTV1.pt@SD">SportTV1</channel>
+  <channel site="vodafone.pt" site_id="2688" lang="pt" xmltv_id="SportTV2.pt@SD">SportTV2</channel>
+  <channel site="vodafone.pt" site_id="2689" lang="pt" xmltv_id="SportTV3.pt@SD">SportTV3</channel>
 </channels>
   
