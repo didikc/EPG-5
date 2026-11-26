@@ -38,8 +38,9 @@
   <channel site="vivoplay.com.br" site_id="lch217" lang="pt" xmltv_id="">Sportv 2</channel>
   <channel site="webtv.sk" site_id="eurosport_1" lang="sk" xmltv_id="">Eurosport 1</channel>
   <channel site="webtv.sk" site_id="eurosport_2" lang="sk" xmltv_id="">Eurosport 2</channel>
-  <channel site="visionplus.id" site_id="00000000000000000122" lang="en" xmltv_id="beINSports1.qa@Indonesia">beIN SPORTS</channel>
-  <channel site="visionplus.id" site_id="00000000000000000123" lang="en" xmltv_id="beINSports2.qa@MENA">beIN SPORTS 2</channel>
-  <channel site="visionplus.id" site_id="00000000000000000124" lang="en" xmltv_id="beINSports3.qa@Indonesia">beIN SPORTS 3</channel>
+  <channel site="beinsports.com" site_id="63A30D9C-609D-4A30-8730-2CA391DF287A" lang="en" xmltv_id="beINSports2.qa@Australia">beIN SPORTS 2</channel>
+  <channel site="beinsports.com" site_id="164C0EDA-EBCE-4AA6-9DDA-D603E0948B9F" lang="en" xmltv_id="beINSports1.qa@Australia">beIN SPORTS 1</channel>
+  <channel site="beinsports.com" site_id="2E8A6222-8D90-4291-81E3-AF2F72557746" lang="en" xmltv_id="beINSports3.qa@Australia">beIN SPORTS 3</channel>
+  <channel site="beinsports.com" site_id="C938A2D0-375A-4876-B05D-08EE29D33B07" lang="en" xmltv_id="">beIN SPORTS XTRA</channel>
 </channels>
   
