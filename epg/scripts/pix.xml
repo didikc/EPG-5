@@ -43,5 +43,9 @@
   <channel site="beinsports.com" site_id="2E8A6222-8D90-4291-81E3-AF2F72557746" lang="en" xmltv_id="beINSports3.qa@Australia">beIN SPORTS 3</channel>
   <channel site="beinsports.com" site_id="C938A2D0-375A-4876-B05D-08EE29D33B07" lang="en" xmltv_id="">beIN SPORTS XTRA</channel>
   <channel site="beinsports.com" site_id="4083661E-F588-4700-943C-8FDF65F1B5EB" lang="es" xmltv_id="beINSportsenEspanol.qa@SD">beIN SPORTS Español</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/gb#696e024a7e92438c27a425a8" lang="en" xmltv_id="">Rally TV</channel>
+  <channel site="directv.com.ar" site_id="1099#DTSAHD" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1610.png" xmltv_id="">DSPORTS (ARG)</channel>
+  <channel site="directv.com.ar" site_id="1084#DTV2HD" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1612.png" xmltv_id="">DSPORTS 2 HD</channel>
+  <channel site="directv.com.ar" site_id="1032#DTS+HD" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1613.png" xmltv_id="">DSPORTS + HD</channel>
 </channels>
   
